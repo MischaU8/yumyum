@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
-import datetime
 import glob
 import json
-from pprint import pprint as pp
 import os.path
 import re
 from typing import cast
@@ -14,8 +12,17 @@ import sqlite_utils
 DATA_DIR = "data/"
 DB_PATH = f"{DATA_DIR}/yumyum.db"
 JSON_FIELDS = [
-    'id', 'title', 'description', 'thumbnail', 'webpage_url', 'upload_date', 'epoch',
-    'duration', 'view_count', 'like_count', 'comment_count'
+    "id",
+    "title",
+    "description",
+    "thumbnail",
+    "webpage_url",
+    "upload_date",
+    "epoch",
+    "duration",
+    "view_count",
+    "like_count",
+    "comment_count",
 ]
 
 
@@ -25,7 +32,7 @@ def get_info(info_file):
     with open(info_file) as f:
         raw_data = json.load(f)
 
-    if raw_data['_type'] != 'video':
+    if raw_data["_type"] != "video":
         return data
 
     for field in JSON_FIELDS:
@@ -33,10 +40,10 @@ def get_info(info_file):
             data[field] = raw_data[field]
 
     if "title" in data:
-        data["title"] = re.sub(r"^Plasticity \|\s+", "", data["title"])
+        data["title"] = re.sub(r"^Plasticity\s*\|\s*", "", data["title"])
 
     if "description" in data:
-        m = re.search(r"Version used in video:\s+([\d.]+)", data["description"])
+        m = re.search(r"Version used in video:\s*([\d.]+)", data["description"])
         if m:
             data["plasticity_version"] = m.group(1)
 
@@ -56,12 +63,9 @@ def get_transcript(id, ttml_file, single=True):
     ]
     if single:
         for d in dicts:
-            d["line"] = "\n".join(d.pop("lines"))    
-    return {
-        'id': id,
-        'json': json.dumps(dicts)
-    }
-    
+            d["line"] = "\n".join(d.pop("lines"))
+    return {"id": id, "json": json.dumps(dicts)}
+
 
 def main():
     db = sqlite_utils.Database(DB_PATH)
@@ -78,7 +82,7 @@ def main():
 
             ttml_file = info_file.replace(".info.json", ".en.ttml")
             if os.path.isfile(ttml_file):
-                transcript = get_transcript(data['id'], ttml_file)
+                transcript = get_transcript(data["id"], ttml_file)
                 db["transcripts"].insert(transcript, replace=True)
                 # print(f"Saved transcript {data['id']}")
             else:

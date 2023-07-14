@@ -1,7 +1,7 @@
 {% for video in videos %}
 <tr>
-  <td>ID #{{video.id}}</td>
-  <td>Title: {{video.title}}</td>
-  <td>Description: {{video.description}}</td>
+  <td>{{video.id}}</td>
+  <td>{{video.title}}</td>
+  <td>{{video.upload_date}}</td>
 </tr>
 {% endfor %}
