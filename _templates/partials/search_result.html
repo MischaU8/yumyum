@@ -1,0 +1,15 @@
+{% for video in videos %}
+<tr>
+  <td>
+    <figure class="image is-16by9">
+      <img class="has-ratio" width="640" height="360" src="{{video.thumbnail}}">
+    </figure>
+  </td>
+  <td><a href="/video/{{video.id}}">{{video.title}}</a></td>
+  <td>{{ video.upload_date }}</td>
+  <td>{{ video.duration}}s</td>
+  <td>{{ video.view_count }}</td>
+  <td>{{ video.like_count }}</td>
+  <td>{{ video.comment_count }}</td>
+</tr>
+{% endfor %}

@@ -9,6 +9,8 @@ flask-htmx = "*"
 sqlite-utils = "*"
 datasette = "*"
 ttml-to-json = "*"
+markdown = "*"
+python-slugify = "*"
 
 [dev-packages]
 

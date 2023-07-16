@@ -1,12 +1,21 @@
 #!/usr/bin/env python3
 
+import glob
+import json
+from pathlib import Path
 import sqlite3
-from flask import Flask, g, render_template, request
+
+from flask import Flask, g, make_response, render_template, request
 from flask_htmx import HTMX
+import markdown
 
-DB_PATH = "data/yumyum.db"
+# https://python-markdown.github.io/extensions/wikilinks/
+from markdown.extensions.wikilinks import WikiLinkExtension
 
-app = Flask(__name__)
+
+DB_PATH = "_data/yumyum.db"
+
+app = Flask(__name__, static_folder='_static', template_folder='_templates')
 htmx = HTMX(app)
 
 
@@ -37,14 +46,54 @@ def search():
     q = request.args.get("q")
     videos = []
     if q:
-        print("Searching for ", q)
-        # videos = [{"id": 1, "title": q, "description": q}]
+        print(f"Searching for '{q}'")
         videos = query_db("select * from videos where title like ?", [f"%{q}%"])
     if htmx:
-        return render_template("partials/search_result.html", videos=videos)
-    return render_template("search.html", videos=videos)
+        r = make_response(render_template("partials/search_result.html", videos=videos))
+        r.headers.set("Cache-Control", "no-store, max-age=0")
+        return r
+
+    return render_template("search.html", q=q, videos=videos)
+
+
+@app.route("/video/<video_id>")
+def video(video_id):
+    video = query_db("select * from videos where id = ?", [video_id], one=True)
+    transcript = query_db(
+        "select * from transcripts where id = ?", [video_id], one=True
+    )
+    if transcript:
+        lines = json.loads(transcript["json"])
+    else:
+        lines = []
+
+    notes_files = glob.glob(f"**/*_{video_id}.md")
+    if len(notes_files) == 1:
+        notes_md = Path(notes_files[0]).read_text()
+
+        md = markdown.Markdown(
+            extensions=[
+                "meta",
+                WikiLinkExtension(base_url="/tag/", html_class="is-underlined"),
+            ]
+        )
+        notes_html = md.convert(notes_md)
+        md_meta = md.Meta
+    else:
+        notes_html = None
+        md_meta = {}
+
+    return render_template(
+        "video.html",
+        video=video,
+        transcript_lines=lines,
+        notes_html=notes_html,
+        md_meta=md_meta,
+    )
 
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    random_videos = query_db("select * from videos order by random() limit 10")
+    num_videos = query_db("select count(*) from videos", one=True)
+    return render_template("index.html", videos=random_videos, num_videos=num_videos[0])

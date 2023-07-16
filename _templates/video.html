@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ video.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <script src="https://unpkg.com/htmx.org@1.9.2" integrity="sha384-L6OqL9pRWyyFU3+/bjdSri+iIphTN/bvYyM37tICVyOJkWZLpP2vGn6VUEXgzg6h" crossorigin="anonymous"></script>
+  </head>
+  <body>
+  <section class="section">
+    <div class="container">
+      <h1 class="title">{{ video.title }}</h1>
+      <p>{{ video.description }}</p>
+      <p>
+        {{ video.duration }} seconds
+        {{ video.view_count }} Views
+        {{ video.like_count }} Likes
+        {{ video.comment_count }} Comments
+      </p>
+      {% if video.plasticity_version %}
+      <p>Plasticity Version: {{ video.plasticity_version }}</p>
+      {% endif %}
+
+      <iframe
+        width="720"
+        height="405"
+        src="https://www.youtube.com/embed/{{ video.id }}"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+
+      <div class="columns">
+        <div class="column content">
+        {% if transcript_lines %}
+        {% for line in transcript_lines %}
+        <p>{{ line.line }}</p>
+        {% endfor %}
+
+        {% endif %}
+        </div>
+        <div class="column content">
+          {% if notes_html %}
+          {{ notes_html|safe }}
+          {% endif %}
+
+          <br/>
+          <h4>Debug</h4>
+          {{ md_meta }}
+        </div>
+      </div>
+    </div>
+  </section>
+  </body>
+</html>

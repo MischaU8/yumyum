@@ -1,0 +1,33 @@
+<h3> 
+  Search Videos 
+  <span class="htmx-indicator"> 
+    <img src="/static/bars.svg"/> Searching... 
+    </span> 
+</h3>
+<input class="form-control" type="search" 
+        name="q" placeholder="Search Videos"
+        value="{{q}}"
+        hx-get="/search"
+        hx-push-url="true"
+        hx-trigger="keyup changed delay:500ms, search" 
+        hx-target="#search-results" 
+        hx-indicator=".htmx-indicator">
+
+<table class="table">
+    <thead>
+    <tr>
+      <th>Video</th>
+      <th>Title</th>
+      <th>Date</th>
+      <th>Duration</th>
+      <th># Views</th>
+      <th># Likes</th>
+      <th># Comments</th>
+    </tr>
+    </thead>
+    <tbody id="search-results">
+      {% if videos %}
+      {% include 'partials/search_result.html' %}
+      {% endif %}
+    </tbody>
+</table>
