@@ -59,13 +59,6 @@ def search():
 @app.route("/video/<video_id>")
 def video(video_id):
     video = query_db("select * from videos where id = ?", [video_id], one=True)
-    transcript = query_db(
-        "select * from transcripts where id = ?", [video_id], one=True
-    )
-    if transcript:
-        lines = json.loads(transcript["json"])
-    else:
-        lines = []
 
     notes_files = glob.glob(f"**/*_{video_id}.md")
     if len(notes_files) == 1:
@@ -86,7 +79,6 @@ def video(video_id):
     return render_template(
         "video.html",
         video=video,
-        transcript_lines=lines,
         notes_html=notes_html,
         md_meta=md_meta,
     )

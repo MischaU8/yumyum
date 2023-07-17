@@ -12,15 +12,12 @@
     <div class="container">
       <h1 class="title">{{ video.title }}</h1>
       <p>{{ video.description }}</p>
-      <p>
+      <!-- <p>
         {{ video.duration }} seconds
-        {{ video.view_count }} Views
-        {{ video.like_count }} Likes
-        {{ video.comment_count }} Comments
       </p>
       {% if video.plasticity_version %}
       <p>Plasticity Version: {{ video.plasticity_version }}</p>
-      {% endif %}
+      {% endif %} -->
 
       <iframe
         width="720"
@@ -31,24 +28,10 @@
         allowfullscreen
       ></iframe>
 
-      <div class="columns">
-        <div class="column content">
-        {% if transcript_lines %}
-        {% for line in transcript_lines %}
-        <p>{{ line.line }}</p>
-        {% endfor %}
-
+      <div class="content">
+        {% if notes_html %}
+        {{ notes_html|safe }}
         {% endif %}
-        </div>
-        <div class="column content">
-          {% if notes_html %}
-          {{ notes_html|safe }}
-          {% endif %}
-
-          <br/>
-          <h4>Debug</h4>
-          {{ md_meta }}
-        </div>
       </div>
     </div>
   </section>
