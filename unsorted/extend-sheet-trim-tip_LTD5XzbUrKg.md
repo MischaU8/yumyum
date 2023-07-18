@@ -4,7 +4,6 @@ Description: This video shares an Extend Sheet Trim Tip in Plasticity.
 Duration: 20
 Version: 1.1.38
 Uploaded: 2023-07-03
-Tags: unsorted
 
 yum yum Floyd here with an extended
 sheet trim tip and plasticity when using

@@ -4,7 +4,6 @@ Description: This video takes a quick look at adding fillets in stages in Plasti
 Duration: 30
 Version: 1.1.41
 Uploaded: 2023-07-07
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 adding fillets and stages and plasticity

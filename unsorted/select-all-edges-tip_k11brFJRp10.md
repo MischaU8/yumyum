@@ -4,7 +4,6 @@ Description: This video shares a quick tip for selecting all edges on a solid in
 Duration: 30
 Version: 1.1.25
 Uploaded: 2023-06-15
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 selecting all edges on a solid in

@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling a Simple Gear in Plastici
 Duration: 60
 Version: 
 Uploaded: 2023-05-18
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling a simple gear in plasticity

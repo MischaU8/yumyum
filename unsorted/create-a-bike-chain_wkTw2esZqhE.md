@@ -4,7 +4,6 @@ Description: This video takes a quick look at creating a Bike Chain in Plasticit
 Duration: 80
 Version: 
 Uploaded: 2023-04-28
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at creating

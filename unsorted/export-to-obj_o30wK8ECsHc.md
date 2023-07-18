@@ -4,7 +4,6 @@ Description: This video takes a quick look at Exporting to OBJ in Plasticity.
 Duration: 50
 Version: 
 Uploaded: 2023-04-19
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at

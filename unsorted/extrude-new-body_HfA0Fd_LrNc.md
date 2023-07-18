@@ -4,7 +4,6 @@ Description: This video takes a quick look at the New Body option for the Extrud
 Duration: 30
 Version: 
 Uploaded: 2023-05-17
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at the new

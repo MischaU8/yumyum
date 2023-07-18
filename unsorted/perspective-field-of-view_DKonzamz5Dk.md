@@ -4,7 +4,6 @@ Description: This video takes a quick look at adjusting the Perspective Field of
 Duration: 30
 Version: 
 Uploaded: 2023-04-20
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 adjusting the perspective field of view

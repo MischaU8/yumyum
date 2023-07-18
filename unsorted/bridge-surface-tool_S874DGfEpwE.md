@@ -4,7 +4,6 @@ Description: This video shares a quick introduction to the Bridge Surface Tool i
 Duration: 30
 Version: 1.1.23
 Uploaded: 2023-06-10
-Tags: unsorted
 
 yum yum Floyd here with a quick
 introduction to the bridge surface tool

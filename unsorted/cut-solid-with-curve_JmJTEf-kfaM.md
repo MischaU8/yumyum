@@ -4,7 +4,6 @@ Description: This video shares a quick introduction to the Cut Solid with Curve 
 Duration: 40
 Version: 
 Uploaded: 2023-04-14
-Tags: unsorted
 
 yum yum Floyd here with a quick
 introduction to the cut solid with curve

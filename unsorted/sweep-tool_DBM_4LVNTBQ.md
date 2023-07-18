@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Sweep Tool in Plasticity.
 Duration: 40
 Version: 
 Uploaded: 2023-04-19
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the sweep tool and plasticity to use the

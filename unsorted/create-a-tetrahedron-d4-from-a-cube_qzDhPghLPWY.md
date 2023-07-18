@@ -4,7 +4,6 @@ Description: This video takes a quick look at Creating a Tetrahedron from a Cube
 Duration: 40
 Version: 
 Uploaded: 2023-05-02
-Tags: unsorted
 
 yum yum flight here with a quick look at
 creating a tetrahedron from a cube in

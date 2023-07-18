@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Focus Object in Outliner comma
 Duration: 30
 Version: 
 Uploaded: 2023-04-21
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the focus object and outliner command

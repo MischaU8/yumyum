@@ -4,7 +4,6 @@ Description: This video shares a quick introduction to Objects Statistics in Pla
 Duration: 40
 Version: 
 Uploaded: 2023-04-20
-Tags: unsorted
 
 yum yum Floyd here with a quick
 introduction to object statistics and

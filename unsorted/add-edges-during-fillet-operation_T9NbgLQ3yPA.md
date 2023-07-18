@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Adding Edges During a Fillet Oper
 Duration: 20
 Version: 
 Uploaded: 2023-04-20
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 adding edges during affiliate operation

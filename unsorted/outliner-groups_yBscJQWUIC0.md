@@ -4,7 +4,6 @@ Description: This video takes a quick look at Outliner Groups in Plasticity.
 Duration: 40
 Version: 
 Uploaded: 2023-05-31
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 outliner groups and plasticity when

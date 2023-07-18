@@ -4,7 +4,6 @@ Description: This video takes a quick look at using Math Operations for Input Fi
 Duration: 30
 Version: 
 Uploaded: 2023-04-20
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using math operations for input fields

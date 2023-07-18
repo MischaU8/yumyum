@@ -4,7 +4,6 @@ Description: This video takes a quick look at Inverting Selection in Plasticity.
 Duration: 20
 Version: 1.1.29
 Uploaded: 2023-06-20
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at

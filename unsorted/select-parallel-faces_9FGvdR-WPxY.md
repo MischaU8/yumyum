@@ -4,7 +4,6 @@ Description: This video shares a quick tip for selecting Parallel Faces in Plast
 Duration: 30
 Version: 
 Uploaded: 2023-04-21
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 selecting parallel faces and plasticity

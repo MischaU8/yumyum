@@ -4,7 +4,6 @@ Description: This video takes a quick look at Snapping to Existing Segments in P
 Duration: 30
 Version: 
 Uploaded: 2023-04-23
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at snapping

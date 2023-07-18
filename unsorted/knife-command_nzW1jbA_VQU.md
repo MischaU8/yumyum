@@ -4,7 +4,6 @@ Description: This video takes a quick look at using the Knife command in Plastic
 Duration: 30
 Version: 
 Uploaded: 2023-04-23
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using the knife command and plasticity

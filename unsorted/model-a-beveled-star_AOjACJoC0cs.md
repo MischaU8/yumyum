@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling a Beveled Star in Plastic
 Duration: 40
 Version: 
 Uploaded: 2023-05-03
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling a beveled star in plasticity

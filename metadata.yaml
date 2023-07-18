@@ -32,5 +32,4 @@ databases:
       video:
         sort_desc: upload_date
         facets:
-        - array: tags
         - topic

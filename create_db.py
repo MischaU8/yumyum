@@ -67,7 +67,6 @@ def build_database(repo_path):
                 WikiLinkExtension(
                     base_url="/yumyum/search?q=",
                     build_url=wikilinks_url_builder,
-                    html_class="is-underlined",
                 ),
             ]
         )
@@ -90,7 +89,6 @@ def build_database(repo_path):
             "description": md_meta["description"][0],
             "body": md_body,
             "html": html,
-            "tags": re.split(r",\s+", md_meta["tags"][0]),
             "upload_date": md_meta["uploaded"][0],
             "duration": md_meta["duration"][0],
             "plasticity_version": md_meta["version"][0],

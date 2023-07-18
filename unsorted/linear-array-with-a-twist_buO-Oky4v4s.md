@@ -4,7 +4,6 @@ Description: This video shares a quick tip for creating a linear array with a tw
 Duration: 40
 Version: 1.1.41
 Uploaded: 2023-07-06
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for creating

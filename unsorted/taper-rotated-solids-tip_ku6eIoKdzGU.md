@@ -4,7 +4,6 @@ Description: This video shares a quick tip for tapering rotated solids in Plasti
 Duration: 30
 Version: 1.1.25
 Uploaded: 2023-06-18
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 tapering rotated solids and plasticity

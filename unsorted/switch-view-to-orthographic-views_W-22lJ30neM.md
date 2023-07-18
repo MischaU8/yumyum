@@ -4,7 +4,6 @@ Description: This video takes a quick look at switching to orthographic views in
 Duration: 30
 Version: 
 Uploaded: 2023-06-05
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at

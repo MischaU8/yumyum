@@ -4,7 +4,6 @@ Description: This video shares a quick tip for placing control points on a curve
 Duration: 30
 Version: 
 Uploaded: 2023-04-26
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 placing control points on a curve with

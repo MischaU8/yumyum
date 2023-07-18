@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Repeat Last Command feature in
 Duration: 20
 Version: 
 Uploaded: 2023-04-18
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at the

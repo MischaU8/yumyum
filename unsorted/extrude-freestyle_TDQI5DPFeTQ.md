@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Extrude Tool’s Freestyle opt
 Duration: 30
 Version: 
 Uploaded: 2023-05-20
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the extrude tools freestyle option in

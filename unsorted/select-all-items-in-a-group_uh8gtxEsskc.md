@@ -4,7 +4,6 @@ Description: This video shares a quick tip for selecting all items in a group in
 Duration: 30
 Version: 
 Uploaded: 2023-05-26
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 selecting all items in a group in

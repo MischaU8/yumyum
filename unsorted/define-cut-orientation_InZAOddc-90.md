@@ -4,7 +4,6 @@ Description: This video takes a quick tip for controlling the orientation of a C
 Duration: 40
 Version: 
 Uploaded: 2023-05-15
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 controlling the orientation of a cut in

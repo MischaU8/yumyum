@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Axis View Construction Planes 
 Duration: 50
 Version: 
 Uploaded: 2023-04-26
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the access view construction planes and

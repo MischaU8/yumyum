@@ -4,7 +4,6 @@ Description: This video shares a quick tip for creating a ribbed hose in Plastic
 Duration: 50
 Version: 
 Uploaded: 2023-04-27
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 creating a ribbed hose in plasticity

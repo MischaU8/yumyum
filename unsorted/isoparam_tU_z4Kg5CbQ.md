@@ -4,7 +4,6 @@ Description: This video shares a quick introduction to the Isoparam tool in Plas
 Duration: 40
 Version: 
 Uploaded: 2023-04-24
-Tags: unsorted
 
 yum yum Floyd here with a quick
 introduction to the isopram tool in

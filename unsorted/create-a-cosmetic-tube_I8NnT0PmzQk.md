@@ -4,7 +4,6 @@ Description: This video takes a quick look at Creating a Cosmetic Tube in Plasti
 Duration: 40
 Version: 1.1.21
 Uploaded: 2023-06-06
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 creating a cosmetic tube and plasticity

@@ -4,7 +4,6 @@ Description: This video shares a quick tip for scaling uniformly in Plasticity.
 Duration: 30
 Version: 1.1.32
 Uploaded: 2023-06-26
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 numerically scaling uniformly in

@@ -4,7 +4,6 @@ Description: This video takes a quick look at Snap to Grid and Grid Size in Plas
 Duration: 40
 Version: 
 Uploaded: 2023-04-21
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 snap to grid and grid size and

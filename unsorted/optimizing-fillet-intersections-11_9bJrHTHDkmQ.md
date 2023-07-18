@@ -4,7 +4,6 @@ Description: This video takes a quick look at Optimizing Fillet Intersections in
 Duration: 40
 Version: 
 Uploaded: 2023-06-04
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at

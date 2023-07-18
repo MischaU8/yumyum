@@ -4,7 +4,6 @@ Description: This video takes a quick look at modeling a Hex Bolt Head in Plasti
 Duration: 50
 Version: 
 Uploaded: 2023-04-15
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling a hex bolt head in plasticity

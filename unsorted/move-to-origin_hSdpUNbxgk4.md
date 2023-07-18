@@ -4,7 +4,6 @@ Description: This video shares a quick tip to Move and Center an item at the Ori
 Duration: 30
 Version: 
 Uploaded: 2023-04-17
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip to move and

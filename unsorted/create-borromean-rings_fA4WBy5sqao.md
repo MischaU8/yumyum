@@ -4,7 +4,6 @@ Description: This video takes a quick look at Creating Borromean Rings in Plasti
 Duration: 40
 Version: 1.1.25
 Uploaded: 2023-06-13
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 creating bermian rings and plasticity

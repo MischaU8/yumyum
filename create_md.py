@@ -106,7 +106,6 @@ Description: {data["description"]}
 Duration: {data["duration"]}
 Version: {data.get("plasticity_version", "")}
 Uploaded: {data["upload_date"]}
-Tags: unsorted
 
 """
             output += "\n".join([t["line"] for t in transcript])

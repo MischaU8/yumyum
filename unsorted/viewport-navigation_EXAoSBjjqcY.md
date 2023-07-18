@@ -4,7 +4,6 @@ Description: This video shares a quick introduction to navigating the viewport i
 Duration: 60
 Version: 
 Uploaded: 2023-04-14
-Tags: unsorted
 
 yum yum
 Floyd here with a quick introduction to

@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling a Knotted Pipe in Plastic
 Duration: 60
 Version: 1.1.23
 Uploaded: 2023-06-09
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling and knotted pipe and plasticity

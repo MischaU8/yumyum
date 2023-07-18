@@ -4,7 +4,6 @@ Description: This video takes a quick look at creating a Tennis Ball in Plastici
 Duration: 70
 Version: 
 Uploaded: 2023-04-23
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 creating a tennis ball in plasticity

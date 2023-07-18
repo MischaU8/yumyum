@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling a Bluetooth Icon in Plast
 Duration: 30
 Version: 
 Uploaded: 2023-05-31
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling a Bluetooth icon in plasticity

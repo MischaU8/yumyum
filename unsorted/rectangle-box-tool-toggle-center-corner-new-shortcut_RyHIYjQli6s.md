@@ -4,7 +4,6 @@ Description: This video takes a quick look at Toggling between Center and Corner
 Duration: 30
 Version: 1.1.25
 Uploaded: 2023-06-20
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 toggling between Center and Corner when

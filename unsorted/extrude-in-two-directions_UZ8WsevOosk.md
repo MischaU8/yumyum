@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Extruding in Two Directions in Pl
 Duration: 30
 Version: 
 Uploaded: 2023-04-15
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for

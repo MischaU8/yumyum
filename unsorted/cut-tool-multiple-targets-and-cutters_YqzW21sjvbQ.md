@@ -4,7 +4,6 @@ Description: This video takes a quick look at using Multiple Targets and Cutters
 Duration: 40
 Version: 
 Uploaded: 2023-05-19
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using multiple targets and Cutters when

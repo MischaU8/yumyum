@@ -4,7 +4,6 @@ Description: This video shares a quick introduction to adding Fillets and Chamfe
 Duration: 30
 Version: 
 Uploaded: 2023-04-21
-Tags: unsorted
 
 yum yum Floyd here with a quick
 introduction to adding fillets and

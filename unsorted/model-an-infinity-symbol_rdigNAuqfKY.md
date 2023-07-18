@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling an Infinity Symbol in Pla
 Duration: 40
 Version: 
 Uploaded: 2023-05-22
-Tags: unsorted
 
 yum yum deployed here with a quick look
 at modeling an infinity symbol and

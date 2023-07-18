@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Project Curve onto Surface fea
 Duration: 50
 Version: 
 Uploaded: 2023-04-16
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the project curve onto surface feature

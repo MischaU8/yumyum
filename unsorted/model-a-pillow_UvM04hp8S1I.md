@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling a Simple Pillow in Plasti
 Duration: 90
 Version: 
 Uploaded: 2023-05-13
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at modeling

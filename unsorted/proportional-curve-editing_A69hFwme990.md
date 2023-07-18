@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Proportional Curve Editing in Pla
 Duration: 30
 Version: 
 Uploaded: 2023-06-02
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 proportional curve editing and

@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Rebuild Curve command in Plast
 Duration: 30
 Version: 
 Uploaded: 2023-04-18
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the rebuild curve command and plasticity

@@ -4,7 +4,6 @@ Description: This video takes a quick look at creating curved fan blades in Plas
 Duration: 40
 Version: 1.1.25
 Uploaded: 2023-06-16
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at creating

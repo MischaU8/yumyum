@@ -4,7 +4,6 @@ Description: This video shares a quick tip for creating a round end cap in Plast
 Duration: 40
 Version: 
 Uploaded: 2023-05-07
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for creating

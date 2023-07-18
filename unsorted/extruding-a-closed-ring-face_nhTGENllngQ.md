@@ -4,7 +4,6 @@ Description: This video takes a quick look at Extruding a Closed Ring Face in Pl
 Duration: 30
 Version: 
 Uploaded: 2023-05-29
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 extruding a closed ring face and

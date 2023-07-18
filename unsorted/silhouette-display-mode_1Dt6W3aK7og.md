@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Silhouette Display Mode in Pla
 Duration: 40
 Version: 
 Uploaded: 2023-04-25
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the silhouette display mode and

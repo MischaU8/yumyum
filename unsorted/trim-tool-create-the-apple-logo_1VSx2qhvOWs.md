@@ -4,7 +4,6 @@ Description: This video takes a quick look at using the Trim Tool to create the 
 Duration: 40
 Version: 
 Uploaded: 2023-04-15
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using the trim tool to create the Apple

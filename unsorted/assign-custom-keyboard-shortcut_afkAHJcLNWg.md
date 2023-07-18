@@ -4,7 +4,6 @@ Description: This video shares a quick tip for assigning a custom keyboard short
 Duration: 40
 Version: 
 Uploaded: 2023-04-14
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for

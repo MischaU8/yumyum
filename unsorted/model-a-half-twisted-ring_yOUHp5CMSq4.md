@@ -4,7 +4,6 @@ Description: This video takes a quick look at Model a Half-Twisted Ring in Plast
 Duration: 70
 Version: 1.1.25
 Uploaded: 2023-06-14
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling a half Twisted ring in

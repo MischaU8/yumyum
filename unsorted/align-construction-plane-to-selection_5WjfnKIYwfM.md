@@ -4,7 +4,6 @@ Description: This video takes a quick look at Aligning the Construction Plane to
 Duration: 40
 Version: 
 Uploaded: 2023-04-16
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at aligning

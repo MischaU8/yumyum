@@ -4,7 +4,6 @@ Description: This video takes a quick look at a 2D Boolean Union process for cur
 Duration: 30
 Version: 1.1.25
 Uploaded: 2023-06-16
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 a 2d Boolean process for Curves and

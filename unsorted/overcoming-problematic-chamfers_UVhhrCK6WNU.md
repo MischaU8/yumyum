@@ -4,7 +4,6 @@ Description: This video takes a quick look at Overcoming Problematic Chamfers in
 Duration: 50
 Version: 1.1.21
 Uploaded: 2023-06-06
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 overcoming problematic chamfers and

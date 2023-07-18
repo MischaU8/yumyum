@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Creating a 180 Degree Arc Slot En
 Duration: 40
 Version: 1.1.31
 Uploaded: 2023-06-23
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 creating 180 degree Arc slot ends in

@@ -4,7 +4,6 @@ Description: This video takes a quick look at using a Face as a Cutting Tool in 
 Duration: 30
 Version: 
 Uploaded: 2023-04-16
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using a face as a cutting tool and

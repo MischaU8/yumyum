@@ -4,7 +4,6 @@ Description: This video takes a quick look at Resetting the Rotate tool handles 
 Duration: 30
 Version: 
 Uploaded: 2023-05-14
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 resetting the rotate tool handles to

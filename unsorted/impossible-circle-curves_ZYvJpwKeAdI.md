@@ -4,7 +4,6 @@ Description: This video takes a quick look at creating impossible circle curves 
 Duration: 40
 Version: 1.1.41
 Uploaded: 2023-07-07
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at creating

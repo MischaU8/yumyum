@@ -4,7 +4,6 @@ Description: This video takes a quick look at modeling a Lipstick asset in Plast
 Duration: 60
 Version: 1.1.25
 Uploaded: 2023-06-15
-Tags: unsorted
 
 yum yum flight here with a quick look at
 modeling a lipstick asset and plasticity

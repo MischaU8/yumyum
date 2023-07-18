@@ -4,7 +4,6 @@ Description: This video takes a quick look at Lofting Control Points in Plastici
 Duration: 30
 Version: 
 Uploaded: 2023-04-20
-Tags: lofting, control-points
 
 Curve control points can be lofted by simply selecting two points and then using the keyboard shortcut `L`
 

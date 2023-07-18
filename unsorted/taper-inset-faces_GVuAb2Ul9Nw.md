@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Tapering Inset Faces in Plasticit
 Duration: 30
 Version: 
 Uploaded: 2023-05-23
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 tapering and set faces in plasticity

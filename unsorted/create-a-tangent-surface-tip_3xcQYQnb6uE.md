@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Creating a Tangent Surface in Pla
 Duration: 40
 Version: 1.1.25
 Uploaded: 2023-06-12
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 creating a tangent surface and

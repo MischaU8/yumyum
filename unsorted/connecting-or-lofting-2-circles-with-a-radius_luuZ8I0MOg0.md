@@ -4,7 +4,6 @@ Description: This video takes a quick look at Connecting or Lofting 2 Circles wi
 Duration: 40
 Version: 1.1.44
 Uploaded: 2023-07-12
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at

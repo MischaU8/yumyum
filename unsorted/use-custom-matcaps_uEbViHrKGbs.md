@@ -4,7 +4,6 @@ Description: This video takes a quick look at Using Custom Matcaps in Plasticity
 Duration: 40
 Version: 
 Uploaded: 2023-06-13
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using custom matte caps and plasticity

@@ -4,7 +4,6 @@ Description: This video takes a quick look at basic asset creation in Plasticity
 Duration: 60
 Version: 1.1.23
 Uploaded: 2023-06-09
-Tags: unsorted
 
 yum yum void here the quick look at
 basic asset creation and plasticity

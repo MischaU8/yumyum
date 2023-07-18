@@ -4,7 +4,6 @@ Description: This video shares a quick tip for reusing inset geometry in Plastic
 Duration: 30
 Version: 
 Uploaded: 2023-04-25
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for reusing

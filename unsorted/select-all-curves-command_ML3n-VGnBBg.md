@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Select All Curves command in P
 Duration: 30
 Version: 1.1.36
 Uploaded: 2023-06-27
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the select all curves command in

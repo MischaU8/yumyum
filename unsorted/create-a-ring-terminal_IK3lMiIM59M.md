@@ -4,7 +4,6 @@ Description: This video takes a quick look at creating a Ring Terminal in Plasti
 Duration: 60
 Version: 
 Uploaded: 2023-05-07
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at creating

@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Creating Lines with Fixed Lengths
 Duration: 30
 Version: 
 Uploaded: 2023-05-21
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 creating lines with fixed links and

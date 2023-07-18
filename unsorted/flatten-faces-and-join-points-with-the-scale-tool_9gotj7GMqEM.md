@@ -4,7 +4,6 @@ Description: This video shares some quick Scale Tool tips in Plasticity.
 Duration: 40
 Version: 
 Uploaded: 2023-05-17
-Tags: unsorted
 
 yum yum Floyd here with some quick scale
 tool tips and plasticity you can quickly

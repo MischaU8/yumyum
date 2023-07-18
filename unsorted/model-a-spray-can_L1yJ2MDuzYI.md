@@ -4,7 +4,6 @@ Description: This video takes a quick look at modeling a Spray Can in Plasticity
 Duration: 70
 Version: 
 Uploaded: 2023-05-07
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 modeling a spray can in plasticity start

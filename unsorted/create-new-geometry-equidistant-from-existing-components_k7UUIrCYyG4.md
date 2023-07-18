@@ -4,7 +4,6 @@ Description: This video shares a quick tip for working with Temporary Guides in 
 Duration: 30
 Version: 
 Uploaded: 2023-05-17
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 working with temporary guides and

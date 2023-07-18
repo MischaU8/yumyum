@@ -4,7 +4,6 @@ Description: This video takes a quick look at Object Snaps in Plasticity.
 Duration: 30
 Version: 
 Uploaded: 2023-04-26
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 object snaps and plasticity when object

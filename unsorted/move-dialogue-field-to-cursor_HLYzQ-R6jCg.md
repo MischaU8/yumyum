@@ -4,7 +4,6 @@ Description: This video shares a quick tip for moving the Dialogue field to your
 Duration: 30
 Version: 
 Uploaded: 2023-04-20
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 moving the dialogue field to your cursor

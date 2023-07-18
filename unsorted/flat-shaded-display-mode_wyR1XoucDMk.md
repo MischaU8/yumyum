@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Flat Shaded Display Mode in Pl
 Duration: 40
 Version: 
 Uploaded: 2023-06-01
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the flat shaded display mode in

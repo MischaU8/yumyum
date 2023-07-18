@@ -4,7 +4,6 @@ Description: This video shares a quick tip for using Revolve to create an Arch i
 Duration: 60
 Version: 
 Uploaded: 2023-04-25
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 using revolve to create an arch in

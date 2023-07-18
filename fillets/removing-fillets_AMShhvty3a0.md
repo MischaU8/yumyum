@@ -4,7 +4,6 @@ Description: This video takes a quick look at Removing Fillets in Plasticity.
 Duration: 40
 Version: 
 Uploaded: 2023-04-19
-Tags: fillets, cleanup
 
 To remove a fillet simply select it and press the `X` key on the keyboard.
 

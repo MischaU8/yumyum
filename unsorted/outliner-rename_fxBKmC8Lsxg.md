@@ -4,7 +4,6 @@ Description: This video takes a quick look at Renaming Items in Plasticity.
 Duration: 30
 Version: 
 Uploaded: 2023-06-01
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at renaming

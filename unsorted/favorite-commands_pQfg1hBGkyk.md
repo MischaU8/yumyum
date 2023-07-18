@@ -4,7 +4,6 @@ Description: This video shares a tip for gaining quick access to favorite comman
 Duration: 40
 Version: 
 Uploaded: 2023-04-14
-Tags: unsorted
 
 yum yum
 Floyd here with a tip for gaining quick

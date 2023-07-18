@@ -4,7 +4,6 @@ Description: This video takes a quick look at using a Custom Profile for the Pip
 Duration: 30
 Version: 1.1.21
 Uploaded: 2023-06-07
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 using a custom profile curve for the

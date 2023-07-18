@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Pivot feature for the Move, Ro
 Duration: 30
 Version: 
 Uploaded: 2023-05-15
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the pivot feature for the move rotate

@@ -4,7 +4,6 @@ Description: This video shares a quick tip for creating a picture frame in Plast
 Duration: 40
 Version: 
 Uploaded: 2023-04-24
-Tags: unsorted
 
 yum yum Floyd here with a quick tip for
 creating a picture frame in plasticity

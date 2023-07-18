@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Join and Unjoin commands in Pl
 Duration: 30
 Version: 
 Uploaded: 2023-04-20
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the join and unjoined commands in

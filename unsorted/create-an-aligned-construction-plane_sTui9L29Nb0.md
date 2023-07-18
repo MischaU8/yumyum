@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Creating an Aligned Construction 
 Duration: 30
 Version: 1.1.29
 Uploaded: 2023-06-22
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for creating

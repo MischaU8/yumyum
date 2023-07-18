@@ -4,7 +4,6 @@ Description: This video takes a quick look at basic asset creation in Plasticity
 Duration: 70
 Version: 
 Uploaded: 2023-04-27
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 basic asset creation and plasticity to

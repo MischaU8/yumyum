@@ -4,7 +4,6 @@ Description: This video takes a quick look at Displaying Curve Measurements in P
 Duration: 40
 Version: 
 Uploaded: 2023-06-05
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 displaying curve measurements and

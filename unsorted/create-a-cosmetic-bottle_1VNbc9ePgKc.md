@@ -4,7 +4,6 @@ Description: This video takes a quick look at Creating a Cosmetic Bottle in Plas
 Duration: 70
 Version: 1.1.21
 Uploaded: 2023-06-07
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at creating

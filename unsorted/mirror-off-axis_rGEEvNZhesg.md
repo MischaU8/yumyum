@@ -4,7 +4,6 @@ Description: This video takes a quick look at Mirroring Items Off-Axis in Plasti
 Duration: 40
 Version: 
 Uploaded: 2023-06-01
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the freestyle option for the mirror tool

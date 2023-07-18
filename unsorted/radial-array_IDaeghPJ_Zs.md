@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Radial Array tool in Plasticit
 Duration: 40
 Version: 
 Uploaded: 2023-04-16
-Tags: unsorted
 
 yum yum
 Floyd here the quick look at the radial

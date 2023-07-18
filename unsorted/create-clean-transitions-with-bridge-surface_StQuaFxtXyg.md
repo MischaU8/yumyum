@@ -4,7 +4,6 @@ Description: This video takes a quick look at Creating Clean Transitions with th
 Duration: 30
 Version: 1.1.31
 Uploaded: 2023-06-22
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 creating clean transitions with the

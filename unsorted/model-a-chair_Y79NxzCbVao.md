@@ -4,7 +4,6 @@ Description: This video takes a quick look at Modeling a Simple Chair in Plastic
 Duration: 50
 Version: 1.1.20
 Uploaded: 2023-06-08
-Tags: unsorted
 
 yum yum
 Floyd here with a quick look at modeling

@@ -4,7 +4,6 @@ Description: This video shares a quick tip for Snapping the View to an Orthograp
 Duration: 30
 Version: 
 Uploaded: 2023-04-14
-Tags: unsorted
 
 yum yum
 Floyd here with a quick tip for snapping

@@ -4,7 +4,6 @@ Description: This video shares a quick tip for adding Reference Images in Plasti
 Duration: 60
 Version: 
 Uploaded: 2023-04-16
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 adding reference images and plasticity

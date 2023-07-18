@@ -4,7 +4,6 @@ Description: This video takes a quick look at Using Profile Curves when Lofting 
 Duration: 40
 Version: 
 Uploaded: 2023-04-18
-Tags: lofting, profile-curves
 
 To help define the shape when lofting curves you can use [[Profile Curves]].
 

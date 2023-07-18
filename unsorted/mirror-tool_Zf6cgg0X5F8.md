@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Mirror Tool in Plasticity.
 Duration: 50
 Version: 
 Uploaded: 2023-04-18
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the mirror tool and plasticity the

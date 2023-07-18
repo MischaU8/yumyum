@@ -4,7 +4,6 @@ Description: This video takes a quick look at creating a Six-Sided Die in Plasti
 Duration: 80
 Version: 
 Uploaded: 2023-05-05
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 creating a six-sided die in plasticity

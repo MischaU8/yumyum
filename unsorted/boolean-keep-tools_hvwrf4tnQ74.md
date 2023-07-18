@@ -4,7 +4,6 @@ Description: This video takes a quick look at the Keep Tools Boolean Feature in 
 Duration: 30
 Version: 
 Uploaded: 2023-05-02
-Tags: unsorted
 
 yum yum Floyd here with a quick look at
 the keep tools Boolean feature in
