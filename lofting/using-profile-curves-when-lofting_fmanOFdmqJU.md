@@ -6,8 +6,6 @@ Version:
 Uploaded: 2023-04-18
 Tags: lofting, profile-curves
 
-# Using Profile Curves when Lofting in Plasticity
-
 To help define the shape when lofting curves you can use [[Profile Curves]].
 
 In this example I'll loft these four curves and use the oval and rounded rectangle curves as profiles.

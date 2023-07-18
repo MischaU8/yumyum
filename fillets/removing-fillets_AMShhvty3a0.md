@@ -6,8 +6,6 @@ Version:
 Uploaded: 2023-04-19
 Tags: fillets, cleanup
 
-# Removing fillets in Plasticity
-
 To remove a fillet simply select it and press the `X` key on the keyboard.
 
 You can also use the automated method by selecting a solid, pressing `F` on the keyboard
