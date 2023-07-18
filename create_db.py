@@ -3,6 +3,7 @@
 from datetime import timezone
 from pathlib import Path
 import re
+from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup
 import git
@@ -43,6 +44,10 @@ def created_changed_times(repo_path, ref="main"):
     return created_changed_times
 
 
+def wikilinks_url_builder(label, base, end):
+    return base + quote_plus(label)
+
+
 def build_database(repo_path):
     all_times = created_changed_times(repo_path)
     db = sqlite_utils.Database(DB_PATH)
@@ -59,7 +64,11 @@ def build_database(repo_path):
         md = markdown.Markdown(
             extensions=[
                 "meta",
-                WikiLinkExtension(base_url="/tag/", html_class="is-underlined"),
+                WikiLinkExtension(
+                    base_url="/yumyum/search?q=",
+                    build_url=wikilinks_url_builder,
+                    html_class="is-underlined",
+                ),
             ]
         )
         html = md.convert(md_full)
