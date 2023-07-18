@@ -26,6 +26,11 @@
   allowfullscreen
 ></iframe>
 
+<p class="legend">
+Uploaded {{ video.upload_date }} &middot; Duration {{ video.duration }}s
+{% if video.plasticity_version %}&middot; Plasticity version {{ video.plasticity_version }}{% endif %}
+</p>
+
 {{ video.html|safe }}
 
 {% set related = related_videos(video) %}
