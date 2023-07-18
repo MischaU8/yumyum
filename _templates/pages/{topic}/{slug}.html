@@ -9,7 +9,7 @@
     {% set raised = raise_404("video not found") %}
 {% endif %}
 
-{% block title %}{{ video.title }} | Vaughan in 60 seconds{% endblock %}
+{% block title %}{{ video.title }} | Plasticity - Vaughan in 60 seconds{% endblock %}
 
 {% block extra_head %}
 {% endblock %}
@@ -38,5 +38,5 @@
   </ul>
 {% endif %}
 
-<p class="upload_date">Created {{ video.upload_date }}{% if video.upload_date != video.updated %}, updated {{ video.updated }} &middot; <a href="{{ video.url|replace("https://github.com/MischaU8/yumyum/blob/", "https://github.com/MischaU8/yumyum/commits/") }}">History</a>{% endif %} &middot; <a href="{{ video.url }}">Edit</a></p>
+<p class="created">Created {{ video.created }}{% if video.created != video.updated %}, updated {{ video.updated }} &middot; <a href="{{ video.url|replace("https://github.com/MischaU8/yumyum/blob/", "https://github.com/MischaU8/yumyum/commits/") }}">History</a>{% endif %} &middot; <a href="{{ video.url }}">Edit</a></p>
 {% endblock %}

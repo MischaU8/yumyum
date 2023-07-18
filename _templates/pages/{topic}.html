@@ -5,7 +5,7 @@
 """, {"topic": topic}, database="yumyum")
 %}
 
-{% block title %}Videos on {{ topic }}{% endblock %}<!DOCTYPE html>
+{% block title %}Plasticity videos on {{ topic|capitalize }} | Vaughan in 60 seconds{% endblock %}<!DOCTYPE html>
 
 {% block body %}
 
@@ -13,7 +13,7 @@
     {{ raise_404("No videos found") }}
 {% endif %}
 
-<h1>Vaughan in X seconds: videos on {{ topic }}</h1>
+<h1>Plasticity videos on {{ topic|capitalize }}</h1>
 
 {% for video in videos %}
     <h3><span class="topic">{{ video.topic }}</span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</h3>

@@ -1,12 +1,12 @@
 {% extends "yumyum_base.html" %}
 
-{% block title %}Vaughan in 60 seconds: all Plasticity videos{% endblock %}
+{% block title %}All Plasticity videos{% endblock %}
 
 {% block body %}
-<h1>Vaughan in 60 seconds: all Plasticity videos</h1>
+<h1>All Plasticity videos</h1>
 
 {% for row in sql("select topic from video group by topic order by max(upload_date) desc", database="yumyum") %}
-    <h2>{{ row.topic }}</h2>
+    <h2>{{ row.topic|capitalize }}</h2>
     <ul>
         {% for video in sql("select * from video where topic = :topic order by upload_date desc", {"topic": row.topic}, database="yumyum") %}
             <li><a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</li>
