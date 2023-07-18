@@ -69,6 +69,7 @@ def build_database(repo_path):
         path = str(filepath.relative_to(root))
         path_slug = path.replace("/", "_")
         slug = filepath.stem
+        url = "https://github.com/MischaU8/yumyum/blob/main/{}".format(path)
         md_id = '_'.join(filepath.stem.split('_')[1:])
         md_full = Path(filepath).read_text()
         md = markdown.Markdown(
@@ -92,6 +93,7 @@ def build_database(repo_path):
             "slug": slug,
             "topic": path.split("/")[0],
             "title": md_meta["title"][0],
+            "url": url,
             "description": md_meta["description"][0],
             "body": md_body,
             "html": html,
