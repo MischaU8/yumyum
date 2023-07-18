@@ -44,7 +44,11 @@ def extra_template_vars(request, datasette):
         """
         result = await datasette.get_database().execute(
             sql,
-            {"words": " OR ".join(words), "slug": video["slug"], "topic": video["topic"]},
+            {
+                "words": " OR ".join(words),
+                "slug": video["slug"],
+                "topic": video["topic"],
+            },
         )
         return result.rows
 

@@ -14,20 +14,16 @@ JSON_FIELDS = [
     "id",
     "title",
     "description",
-    "thumbnail",
-    "webpage_url",
     "upload_date",
     "epoch",
     "duration",
-    "view_count",
-    "like_count",
-    "comment_count",
 ]
 
 
 def fix_date(d):
     # turn yyyymmdd into yyyy-mm-dd
-    return '-'.join([d[:4], d[4:6], d[6:]])
+    return "-".join([d[:4], d[4:6], d[6:]])
+
 
 def get_info(info_file):
     data = {}
@@ -80,7 +76,7 @@ def main():
     # create a set of all known markdown IDs
     md_ids = set()
     for md_path in Path(".").glob("**/*_*.md"):
-        md_id = '_'.join(md_path.stem.split('_')[1:])
+        md_id = "_".join(md_path.stem.split("_")[1:])
         md_ids.add(md_id)
 
     for info_path in Path(DATA_DIR).glob("*.info.json"):

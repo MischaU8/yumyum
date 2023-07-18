@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
 
 from datetime import timezone
-import json
 from pathlib import Path
 import re
-from typing import cast
-from xml.etree import ElementTree as ET
 
 from bs4 import BeautifulSoup
 import git
@@ -15,19 +12,6 @@ import sqlite_utils
 
 DATA_DIR = "_data/"
 DB_PATH = f"{DATA_DIR}/yumyum.db"
-JSON_FIELDS = [
-    "id",
-    "title",
-    "description",
-    "thumbnail",
-    "webpage_url",
-    "upload_date",
-    "epoch",
-    "duration",
-    "view_count",
-    "like_count",
-    "comment_count",
-]
 
 root = Path(__file__).parent.resolve()
 
@@ -70,7 +54,7 @@ def build_database(repo_path):
         path_slug = path.replace("/", "_")
         slug = filepath.stem
         url = "https://github.com/MischaU8/yumyum/blob/main/{}".format(path)
-        md_id = '_'.join(filepath.stem.split('_')[1:])
+        md_id = "_".join(filepath.stem.split("_")[1:])
         md_full = Path(filepath).read_text()
         md = markdown.Markdown(
             extensions=[
@@ -83,7 +67,7 @@ def build_database(repo_path):
         md_body = md_full.split("\n\n", 1)[1]
 
         if md_meta["id"][0] != md_id:
-            print(f"WARN: Mismatch in ID between filename '{filepath}' and metadata {md_id}")
+            print(f"WARN: Mismatch in ID between '{filepath}' and metadata {md_id}")
             continue
 
         print(md_meta)
@@ -112,6 +96,7 @@ def build_database(repo_path):
     table.enable_fts(
         ["title", "body"], tokenize="porter", create_triggers=True, replace=True
     )
+
 
 if __name__ == "__main__":
     build_database(root)
