@@ -1,0 +1,74 @@
+{% extends "yumyum_base.html" %}
+
+{% block title %}Plasticity - Vaughan in X seconds{% endblock %}<!DOCTYPE html>
+
+{% block extra_head %}
+<style>
+input[type=search] {
+    padding: .25em;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+input[type=submit] {
+    box-sizing: border-box;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-weight: 400;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    border-width: 1px;
+    border-style: solid;
+    padding: .5em 0.8em;
+    font-size: 0.9rem;
+    line-height: 1;
+    border-radius: .25rem;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.topic {
+    background-color: #ccc;
+    padding: 3px;
+    border: 1px solid #777;
+    font-size: 0.65em;
+    position: relative;
+    top: -1px;
+}
+.topic a {
+    text-decoration: none;
+    color: black;
+}
+</style>
+{% endblock %}
+
+{% block body %}
+{% set video_count = sql("select count(*) from video", database="yumyum")[0][0] %}
+<h1>Plasticity - Vaughan in 60 seconds</h1>
+<p>Learn <a href="https://www.plasticity.xyz/">Plasticity</a> from videos by <a href="https://williamvaughan.artstation.com/">William Vaughan</a>, curated from his <a href="https://www.youtube.com/playlist?list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI">YouTube playlist</a>.</p>
+
+<form action="/yumyum/search">
+    <p>
+        <input type="search" name="q" placeholder="Search {{ video_count }} videos">
+        <input type="submit" value="Search">
+    </p>
+</form>
+
+<p><strong>Browse by topic:</strong>
+{% for row in sql("select topic, count(*) as num_videos from video group by topic order by topic", database="yumyum") %}
+  <a title="{{ row.num_videos }} TIL{{ "s" if row.num_videos > 1 else "" }}" href="/{{ row.topic }}">{{ row.topic }}</a> {{ row.num_videos }}{% if not loop.last %} &middot;{% endif %}
+{% endfor %}
+</p>
+
+<h2>Recent videos</h2>
+
+{% for video in sql("select * from video order by upload_date desc limit 30", database="yumyum") %}
+    <h3><span class="topic"><a href="/{{ video.topic }}">{{ video.topic }}</a></span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</h3>
+    {{ first_paragraph(video["html"]).replace("</p>", " &#8230; </p>")|safe }}
+{% endfor %}
+
+<p><a href="/all">Browse all {{ video_count }} videos</a></p>
+
+{% endblock %}

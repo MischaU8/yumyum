@@ -25,6 +25,10 @@ JSON_FIELDS = [
 ]
 
 
+def fix_date(d):
+    # turn yyyymmdd into yyyy-mm-dd
+    return '-'.join([d[:4], d[4:6], d[6:]])
+
 def get_info(info_file):
     data = {}
 
@@ -48,6 +52,9 @@ def get_info(info_file):
             data["plasticity_version"] = m.group(1)
             data["description"] = re.sub(VERSION_RE, "", data["description"]).rstrip()
         data["description"] = re.sub(r"\s+", " ", data["description"])
+
+    if "upload_date" in data:
+        data["upload_date"] = fix_date(data["upload_date"])
 
     return data
 

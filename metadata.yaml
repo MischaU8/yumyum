@@ -1,0 +1,36 @@
+title: Plasticity - Vaughan in 60 seconds
+about: MischaU8/yumyum
+about_url: https://github.com/MischaU8/yumyum
+plugins:
+  datasette-block-robots:
+    literal: |-
+      User-agent: *
+      Disallow: /yumyum
+  datasette-sitemap:
+    sql: |-
+      select '/' || topic || '/' || slug as path from video
+databases:
+  yumyum:
+    queries:
+      search: |
+        select
+          video_fts.rank,
+          video.*,
+          snippet(video_fts, -1, 'b4de2a49c8', '8c94a2ed4b', '...', 60) as snippet
+        from
+          video
+          join video_fts on video.rowid = video_fts.rowid
+        where
+          video_fts match case
+            :q
+            when '' then 'nomatchforthisterm'
+            else escape_fts(:q)
+          end
+        order by
+          video_fts.rank limit 40
+    tables:
+      video:
+        sort_desc: upload_date
+        facets:
+        - array: tags
+        - topic

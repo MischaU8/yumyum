@@ -4,15 +4,19 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "*"
-flask-htmx = "*"
-sqlite-utils = "*"
+beautifulsoup4 = "*"
 datasette = "*"
-ttml-to-json = "*"
+datasette-block-robots = "*"
+datasette-json-html = "*"
+datasette-sitemap = "*"
+datasette-template-sql = "*"
+gitpython = "*"
 markdown = "*"
 python-slugify = "*"
+sqlite-utils = "*"
+ttml-to-json = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3"

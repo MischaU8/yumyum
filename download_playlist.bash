@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA_DIR="data"
+DATA_DIR="_data"
 
 # Plasticity playlist by William V
 URL="https://www.youtube.com/playlist?list=PLv8HciXoFYX-VGc-zqYQNLaWl8PuwIelI"

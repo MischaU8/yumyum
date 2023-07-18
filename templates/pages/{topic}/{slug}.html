@@ -1,0 +1,42 @@
+{% extends "yumyum_base.html" %}
+
+{% set videos = sql("""
+    select * from video where path = :topic || '_' || :slug || '.md'
+""", {"topic": topic, "slug": slug}, database="yumyum")
+%}
+{% set video = videos[0] %}
+{% if not videos %}
+    {% set raised = raise_404("video not found") %}
+{% endif %}
+
+{% block title %}{{ video.title }} | Vaughan in 60 seconds{% endblock %}
+
+{% block extra_head %}
+{% endblock %}
+
+{% block body %}
+<h1>{{ video.title }}</h1>
+
+<iframe
+  width="720"
+  height="405"
+  src="https://www.youtube.com/embed/{{ video.id }}"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
+{{ video.html|safe }}
+
+{% set related = related_videos(video) %}
+{% if related %}
+  <h3>Related</h3>
+  <ul class="related">
+    {% for video in related %}
+    <li><span class="topic">{{ video.topic }}</span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<p class="upload_date">Created {{ video.upload_date }}{% if video.upload_date != video.updated %}, updated {{ video.updated }} &middot; <a href="{{ video.url|replace("https://github.com/MischaU8/yumyum/blob/", "https://github.com/MischaU8/yumyum/commits/") }}">History</a>{% endif %} &middot; <a href="{{ video.url }}">Edit</a></p>
+{% endblock %}
