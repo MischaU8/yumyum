@@ -3,7 +3,7 @@ Title: Create a Dodecahedron (D12) from a Cube
 Description: This video takes a quick look at Creating a Dodecahedron from a Cube in Plasticity.
 Duration: 80
 Version: 
-Uploaded: 20230502
+Uploaded: 2023-05-02
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

@@ -3,7 +3,7 @@ Title: Extrude: Boundary/Wall
 Description: This video takes a quick look at extruding with the Thickness attribute enabled in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230425
+Uploaded: 2023-04-25
 Tags: unsorted
 
 yum yum

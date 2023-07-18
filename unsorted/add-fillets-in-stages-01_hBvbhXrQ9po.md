@@ -3,7 +3,7 @@ Title: Add Fillets in Stages 01
 Description: This video shares a quick tip on Adding Fillets in Plasticity.
 Duration: 40
 Version: 1.1.20
-Uploaded: 20230603
+Uploaded: 2023-06-03
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

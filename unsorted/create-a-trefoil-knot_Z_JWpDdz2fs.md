@@ -3,7 +3,7 @@ Title: Create a Trefoil Knot
 Description: This video takes a quick look at creating a Trefoil Knot in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230530
+Uploaded: 2023-05-30
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

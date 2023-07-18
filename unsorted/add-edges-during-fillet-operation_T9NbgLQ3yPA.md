@@ -3,7 +3,7 @@ Title: Add Edges During Fillet Operation
 Description: This video shares a quick tip for Adding Edges During a Fillet Operation in Plasticity.
 Duration: 20
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

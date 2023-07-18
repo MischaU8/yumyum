@@ -3,7 +3,7 @@ Title: Thicken vs Hollow Solid
 Description: This video takes a quick look at a key difference between Thicken and Hollow Solid in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230604
+Uploaded: 2023-06-04
 Tags: unsorted
 
 yum yum

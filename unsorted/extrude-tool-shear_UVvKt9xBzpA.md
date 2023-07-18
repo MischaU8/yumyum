@@ -3,7 +3,7 @@ Title: Extrude Tool: Shear
 Description: This video takes a quick look at Shearing with the Extrude Tool in Plasticity.
 Duration: 20
 Version: 
-Uploaded: 20230602
+Uploaded: 2023-06-02
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

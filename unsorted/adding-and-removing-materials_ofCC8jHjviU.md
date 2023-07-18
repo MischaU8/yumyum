@@ -3,7 +3,7 @@ Title: Adding and Removing Materials
 Description: This video shares a quick introduction to Adding and Removing Materials in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum Floyd here with a quick

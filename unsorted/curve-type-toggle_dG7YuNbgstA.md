@@ -3,7 +3,7 @@ Title: Curve Type Toggle
 Description: This video takes a quick look at the Spline Curve Toggle in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230505
+Uploaded: 2023-05-05
 Tags: unsorted
 
 yum yum

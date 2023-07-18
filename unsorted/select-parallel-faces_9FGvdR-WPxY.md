@@ -3,7 +3,7 @@ Title: Select Parallel Faces
 Description: This video shares a quick tip for selecting Parallel Faces in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230421
+Uploaded: 2023-04-21
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

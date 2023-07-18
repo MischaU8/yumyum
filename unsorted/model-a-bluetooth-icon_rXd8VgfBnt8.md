@@ -3,7 +3,7 @@ Title: Model a Bluetooth Icon
 Description: This video takes a quick look at Modeling a Bluetooth Icon in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230531
+Uploaded: 2023-05-31
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

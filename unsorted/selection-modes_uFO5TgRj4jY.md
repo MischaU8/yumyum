@@ -3,7 +3,7 @@ Title: Selection Modes
 Description: This video shares a quick introduction to Selection Modes in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum

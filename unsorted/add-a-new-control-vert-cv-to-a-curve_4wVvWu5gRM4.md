@@ -3,7 +3,7 @@ Title: Add a New Control Vert (CV) to a Curve
 Description: This video shares a quick tip for adding new CVs to Curves in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230517
+Uploaded: 2023-05-17
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

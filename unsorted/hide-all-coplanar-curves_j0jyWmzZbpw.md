@@ -3,7 +3,7 @@ Title: Hide All Coplanar Curves
 Description: This video shares a quick tip for hiding all coplanar curves in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum

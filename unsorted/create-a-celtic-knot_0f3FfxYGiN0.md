@@ -3,7 +3,7 @@ Title: Create a Celtic Knot
 Description: This video takes a quick look at creating a Celtic Knot in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230522
+Uploaded: 2023-05-22
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

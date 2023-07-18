@@ -3,7 +3,7 @@ Title: Flatten Faces and Join Points with the Scale Tool
 Description: This video shares some quick Scale Tool tips in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230517
+Uploaded: 2023-05-17
 Tags: unsorted
 
 yum yum Floyd here with some quick scale

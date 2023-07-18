@@ -3,7 +3,7 @@ Title: Create an Inset Screw Tool
 Description: This video shares a quick tip for creating an Inset Screw tool in Plasticity.
 Duration: 80
 Version: 
-Uploaded: 20230424
+Uploaded: 2023-04-24
 Tags: unsorted
 
 yum yum

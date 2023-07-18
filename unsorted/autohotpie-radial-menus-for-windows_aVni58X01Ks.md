@@ -3,7 +3,7 @@ Title: AutoHotPie | Radial Menus for Windows
 Description: This video shares a quick introduction to AutoHotPie for Windows, which enable you to add a radial menu to any application. Grab AutoHotpie here: https://github.com/dumbeau/AutoHotPie
 Duration: 50
 Version: 
-Uploaded: 20230605
+Uploaded: 2023-06-05
 Tags: unsorted
 
 yum yum

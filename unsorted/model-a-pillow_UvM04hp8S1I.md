@@ -3,7 +3,7 @@ Title: Model a Pillow
 Description: This video takes a quick look at Modeling a Simple Pillow in Plasticity.
 Duration: 90
 Version: 
-Uploaded: 20230513
+Uploaded: 2023-05-13
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Create a Male Clevis
 Description: This video takes a quick look at creating a Male Clevis in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230426
+Uploaded: 2023-04-26
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

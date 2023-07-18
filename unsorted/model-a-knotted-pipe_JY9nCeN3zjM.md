@@ -3,7 +3,7 @@ Title: Model a Knotted Pipe
 Description: This video takes a quick look at Modeling a Knotted Pipe in Plasticity.
 Duration: 60
 Version: 1.1.23
-Uploaded: 20230609
+Uploaded: 2023-06-09
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

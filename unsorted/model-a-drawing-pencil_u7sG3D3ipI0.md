@@ -3,7 +3,7 @@ Title: Model a Drawing Pencil
 Description: This video takes a quick look at Modeling a Drawing Pencil in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230523
+Uploaded: 2023-05-23
 Tags: unsorted
 
 yum yum

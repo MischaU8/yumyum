@@ -3,7 +3,7 @@ Title: Edge Loop and Ring Selection
 Description: This video shares a quick introduction to Edge Loop and Ring Selection in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum

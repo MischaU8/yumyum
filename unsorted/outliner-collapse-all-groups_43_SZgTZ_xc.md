@@ -3,7 +3,7 @@ Title: Outliner: Collapse All Groups
 Description: This video takes a quick look at Collapsing All Groups in the Outliner in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230518
+Uploaded: 2023-05-18
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

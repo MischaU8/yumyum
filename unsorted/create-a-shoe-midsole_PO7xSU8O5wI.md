@@ -3,7 +3,7 @@ Title: Create a Shoe Midsole
 Description: This video takes a quick look at creating a Shoe Midsole in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230504
+Uploaded: 2023-05-04
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

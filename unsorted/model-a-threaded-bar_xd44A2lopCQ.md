@@ -3,7 +3,7 @@ Title: Model a Threaded Bar
 Description: This video takes a quick look at modeling a Threaded Bar in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230519
+Uploaded: 2023-05-19
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

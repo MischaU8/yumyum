@@ -3,7 +3,7 @@ Title: Focus and Isolate View (Orbit Selected)
 Description: This video takes a quick look at the Focus and Isolate commands in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230418
+Uploaded: 2023-04-18
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

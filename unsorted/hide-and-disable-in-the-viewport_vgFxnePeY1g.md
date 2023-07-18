@@ -3,7 +3,7 @@ Title: Hide and Disable in the Viewport
 Description: This video takes a quick look at the Hide and Disable in the Viewport options in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230419
+Uploaded: 2023-04-19
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

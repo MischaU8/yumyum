@@ -3,7 +3,7 @@ Title: Create a T Pipe Junction
 Description: This video takes a quick look at creating a T Pipe Junction in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230506
+Uploaded: 2023-05-06
 Tags: unsorted
 
 yum yum

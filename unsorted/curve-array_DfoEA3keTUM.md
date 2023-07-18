@@ -3,7 +3,7 @@ Title: Curve Array
 Description: This video takes a quick look at the Curve Array tool in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230421
+Uploaded: 2023-04-21
 Tags: unsorted
 
 yum yum

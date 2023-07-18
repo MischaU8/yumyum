@@ -3,7 +3,7 @@ Title: Command Menu
 Description: This video shares a quick introduction to the Command Menu in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230421
+Uploaded: 2023-04-21
 Tags: unsorted
 
 yum yum Floyd here with a quick

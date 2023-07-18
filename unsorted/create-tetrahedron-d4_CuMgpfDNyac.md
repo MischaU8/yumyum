@@ -3,7 +3,7 @@ Title: Create Tetrahedron (D4)
 Description: This video takes a quick look at Creating a Tetrahedron in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230502
+Uploaded: 2023-05-02
 Tags: unsorted
 
 yum yum

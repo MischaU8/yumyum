@@ -3,7 +3,7 @@ Title: Use Custom Matcaps
 Description: This video takes a quick look at Using Custom Matcaps in Plasticity. Get 31 Free Matcaps in PNG and EXR format Here: https://drive.google.com/file/d/1xa5Rr24pYkuMCHaqoj_gASQ5J8kxSZ9Y/view?usp=sharing
 Duration: 40
 Version: 
-Uploaded: 20230613
+Uploaded: 2023-06-13
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

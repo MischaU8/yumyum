@@ -3,7 +3,7 @@ Title: Face Extrude Tip
 Description: This video shares a quick Face Extrude Tip in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230519
+Uploaded: 2023-05-19
 Tags: unsorted
 
 yum yum Floyd here with a quick face

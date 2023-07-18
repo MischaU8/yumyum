@@ -3,7 +3,7 @@ Title: Model a Gemstone
 Description: This video takes a quick look at modeling a Gemstone in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230528
+Uploaded: 2023-05-28
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Alternate Duplicate (Faces)
 Description: This video takes a quick look at the Alternate Duplicate command with Faces in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum

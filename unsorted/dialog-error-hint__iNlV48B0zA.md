@@ -3,7 +3,7 @@ Title: Dialog Error Hint
 Description: This video takes a quick look at the Dialog Error Hint in Plasticity.
 Duration: 30
 Version: 1.1.26
-Uploaded: 20230615
+Uploaded: 2023-06-15
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

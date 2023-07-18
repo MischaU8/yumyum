@@ -3,7 +3,7 @@ Title: Extrude with a Twist
 Description: This video takes a quick look at extruding with a twist in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230528
+Uploaded: 2023-05-28
 Tags: unsorted
 
 yum yum

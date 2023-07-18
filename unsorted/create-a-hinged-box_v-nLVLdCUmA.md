@@ -3,7 +3,7 @@ Title: Create a Hinged Box
 Description: This video takes a quick look at Creating a Hinged Box in Plasticity.
 Duration: 110
 Version: 
-Uploaded: 20230501
+Uploaded: 2023-05-01
 Tags: unsorted
 
 yum yum

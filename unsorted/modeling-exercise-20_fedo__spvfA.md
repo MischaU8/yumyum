@@ -3,7 +3,7 @@ Title: Modeling Exercise 20
 Description: This video takes a quick look at basic asset creation in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230601
+Uploaded: 2023-06-01
 Tags: unsorted
 
 yum yum

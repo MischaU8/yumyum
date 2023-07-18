@@ -3,7 +3,7 @@ Title: Select Occluded Face
 Description: This video shares a quick tip for selecting occluded faces in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230423
+Uploaded: 2023-04-23
 Tags: unsorted
 
 yum yum

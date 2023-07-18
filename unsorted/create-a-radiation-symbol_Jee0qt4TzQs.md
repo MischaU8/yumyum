@@ -3,7 +3,7 @@ Title: Create a Radiation Symbol
 Description: This video takes a quick look at creating a Radiation Symbol in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230530
+Uploaded: 2023-05-30
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Select All Items in a Group
 Description: This video shares a quick tip for selecting all items in a group in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230526
+Uploaded: 2023-05-26
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

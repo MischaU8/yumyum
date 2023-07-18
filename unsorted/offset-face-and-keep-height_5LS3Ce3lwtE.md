@@ -3,7 +3,7 @@ Title: Offset Face and Keep Height
 Description: This video takes a quick look at Offsetting a Tapered Face and Keeping it’s height in Plasticity.
 Duration: 50
 Version: 1.1.21
-Uploaded: 20230606
+Uploaded: 2023-06-06
 Tags: unsorted
 
 yum yum

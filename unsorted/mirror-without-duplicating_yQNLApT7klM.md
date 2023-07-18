@@ -3,7 +3,7 @@ Title: Mirror without Duplicating
 Description: This video shares a quick tip for Mirroring without Duplicating in Plasticity.
 Duration: 30
 Version: 1.1.29
-Uploaded: 20230621
+Uploaded: 2023-06-21
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

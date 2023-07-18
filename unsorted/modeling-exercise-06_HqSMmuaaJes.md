@@ -3,7 +3,7 @@ Title: Modeling Exercise 06
 Description: This video takes a quick look at basic asset creation in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230507
+Uploaded: 2023-05-07
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

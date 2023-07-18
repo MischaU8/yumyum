@@ -3,7 +3,7 @@ Title: Text Tool
 Description: This video takes a quick look at the Text Tool in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230513
+Uploaded: 2023-05-13
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

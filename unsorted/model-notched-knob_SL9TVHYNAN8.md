@@ -3,7 +3,7 @@ Title: Model Notched Knob
 Description: This video takes a quick look at modeling a NotchedKnob in Plasticity.
 Duration: 60
 Version: 1.1.25
-Uploaded: 20230618
+Uploaded: 2023-06-18
 Tags: unsorted
 
 yum yum

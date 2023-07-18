@@ -3,7 +3,7 @@ Title: Curve Extrude vs Face Extrude
 Description: This video takes a quick look at the difference between extruding a Curve and Face in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230527
+Uploaded: 2023-05-27
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

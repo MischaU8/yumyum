@@ -3,7 +3,7 @@ Title: Adding Reference/Backdrop Images
 Description: This video shares a quick tip for adding Reference Images in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230416
+Uploaded: 2023-04-16
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

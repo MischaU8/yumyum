@@ -3,7 +3,7 @@ Title: Modeling a 3-Button Remote
 Description: This video takes a quick look at Modeling a 3-Button Remote in Plasticity.
 Duration: 120
 Version: 
-Uploaded: 20230507
+Uploaded: 2023-05-07
 Tags: unsorted
 
 yum yum

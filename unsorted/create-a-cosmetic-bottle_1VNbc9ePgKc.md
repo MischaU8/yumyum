@@ -3,7 +3,7 @@ Title: Create a Cosmetic Bottle
 Description: This video takes a quick look at Creating a Cosmetic Bottle in Plasticity.
 Duration: 70
 Version: 1.1.21
-Uploaded: 20230607
+Uploaded: 2023-06-07
 Tags: unsorted
 
 yum yum

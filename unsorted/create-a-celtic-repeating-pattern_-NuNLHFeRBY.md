@@ -3,7 +3,7 @@ Title: Create a Celtic Repeating Pattern
 Description: This video takes a quick look at Creating a Celtic Repeating Pattern in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230526
+Uploaded: 2023-05-26
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

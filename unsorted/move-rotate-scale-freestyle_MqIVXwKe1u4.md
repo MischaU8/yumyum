@@ -3,7 +3,7 @@ Title: Move/Rotate/Scale: Freestyle
 Description: This video takes a quick look at the Freestyle feature for the Move Scale and Rotate tools in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230515
+Uploaded: 2023-05-15
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

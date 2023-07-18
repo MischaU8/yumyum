@@ -3,7 +3,7 @@ Title: Create Rounded Caps on Cylinders
 Description: This video shares a quick tip for Creating Rounded Caps on Cylinders Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230520
+Uploaded: 2023-05-20
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Hide Outliner and Right Menu
 Description: This video shares a quick tip for Hiding the Outliner and Right Menu in Plasticity.
 Duration: 20
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

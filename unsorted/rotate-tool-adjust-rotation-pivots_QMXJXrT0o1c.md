@@ -3,7 +3,7 @@ Title: Rotate Tool: Adjust Rotation Pivots
 Description: This video takes a quick look at adjusting the rotation pivots in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230514
+Uploaded: 2023-05-14
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Duplicate Command
 Description: This video takes a quick look at using the Duplicate command in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230417
+Uploaded: 2023-04-17
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

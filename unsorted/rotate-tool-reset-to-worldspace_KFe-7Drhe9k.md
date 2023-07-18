@@ -3,7 +3,7 @@ Title: Rotate Tool: Reset to Worldspace
 Description: This video takes a quick look at Resetting the Rotate tool handles to World Space in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230514
+Uploaded: 2023-05-14
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

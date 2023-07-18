@@ -3,7 +3,7 @@ Title: Create Lines with Fixed Length
 Description: This video shares a quick tip for Creating Lines with Fixed Lengths in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230521
+Uploaded: 2023-05-21
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

@@ -3,7 +3,7 @@ Title: Create a Y-Shaped Pipe
 Description: This video takes a quick look at creating a Y-Shaped Pipe in Plasticity. Plasticity | Create a Y-Shaped Pipe (Alternate Method) https://youtu.be/ov9Twdgeaiw
 Duration: 50
 Version: 
-Uploaded: 20230426
+Uploaded: 2023-04-26
 Tags: unsorted
 
 yum yum

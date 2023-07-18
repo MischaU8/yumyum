@@ -3,7 +3,7 @@ Title: Object Opacity/Transparency
 Description: This video takes a quick look at the Object Opacity Material Attribute in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230424
+Uploaded: 2023-04-24
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

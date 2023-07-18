@@ -3,7 +3,7 @@ Title: Move/Rotate/Scale: Pivot
 Description: This video takes a quick look at the Pivot feature for the Move, Rotate and Scale tools in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230515
+Uploaded: 2023-05-15
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

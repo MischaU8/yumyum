@@ -3,7 +3,7 @@ Title: Favorite Commands
 Description: This video shares a tip for gaining quick access to favorite commands in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum

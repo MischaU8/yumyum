@@ -3,7 +3,7 @@ Title: Boolean Operations
 Description: This video takes a quick look at Boolean Operations in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230416
+Uploaded: 2023-04-16
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

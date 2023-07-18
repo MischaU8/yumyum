@@ -3,7 +3,7 @@ Title: Create a Rounded Star
 Description: This video shares a quick tip for creating a Rounded Star in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230425
+Uploaded: 2023-04-25
 Tags: unsorted
 
 yum yum

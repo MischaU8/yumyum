@@ -3,7 +3,7 @@ Title: Cut Solid with Curve
 Description: This video shares a quick introduction to the Cut Solid with Curve feature in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum Floyd here with a quick

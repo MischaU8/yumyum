@@ -3,7 +3,7 @@ Title: Model a Gun Cylinder
 Description: This video takes a quick look at modeling a Gun Cylinder Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230520
+Uploaded: 2023-05-20
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

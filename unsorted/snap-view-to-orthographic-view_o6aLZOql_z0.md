@@ -3,7 +3,7 @@ Title: Snap View to Orthographic View
 Description: This video shares a quick tip for Snapping the View to an Orthographic View in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum

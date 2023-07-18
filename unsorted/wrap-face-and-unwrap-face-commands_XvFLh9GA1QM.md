@@ -3,7 +3,7 @@ Title: Wrap Face and Unwrap Face Commands
 Description: This video shares a quick introduction to the Wrap and Unwrap commands in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230524
+Uploaded: 2023-05-24
 Tags: unsorted
 
 yum yum

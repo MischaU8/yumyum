@@ -3,7 +3,7 @@ Title: Connecting or Lofting 2 Circles with a Radius
 Description: This video takes a quick look at Connecting or Lofting 2 Circles with a Radius in Plasticity. Thanks to Archiplan Services for the tip!
 Duration: 40
 Version: 1.1.44
-Uploaded: 20230712
+Uploaded: 2023-07-12
 Tags: unsorted
 
 yum yum

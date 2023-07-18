@@ -3,7 +3,7 @@ Title: Model a Helmet
 Description: This video takes a quick look at Modeling a Simple Helmet in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230604
+Uploaded: 2023-06-04
 Tags: unsorted
 
 yum yum

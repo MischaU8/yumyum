@@ -3,7 +3,7 @@ Title: Extruding a Closed Ring Face
 Description: This video takes a quick look at Extruding a Closed Ring Face in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230529
+Uploaded: 2023-05-29
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

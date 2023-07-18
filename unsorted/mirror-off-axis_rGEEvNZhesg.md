@@ -3,7 +3,7 @@ Title: Mirror Off-Axis
 Description: This video takes a quick look at Mirroring Items Off-Axis in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230601
+Uploaded: 2023-06-01
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

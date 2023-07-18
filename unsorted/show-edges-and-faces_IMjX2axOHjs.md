@@ -3,7 +3,7 @@ Title: Show Edges and Faces
 Description: This video takes a quick look at the Show Edges and Show Faces Viewport options in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230504
+Uploaded: 2023-05-04
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

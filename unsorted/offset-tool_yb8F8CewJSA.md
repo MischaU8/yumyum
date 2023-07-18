@@ -3,7 +3,7 @@ Title: Offset Tool
 Description: This video takes a quick look at the Offset tool in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230421
+Uploaded: 2023-04-21
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

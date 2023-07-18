@@ -3,7 +3,7 @@ Title: Taper Solids
 Description: This video takes a quick look at Tapering Solids in Plasticity.
 Duration: 20
 Version: 
-Uploaded: 20230501
+Uploaded: 2023-05-01
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

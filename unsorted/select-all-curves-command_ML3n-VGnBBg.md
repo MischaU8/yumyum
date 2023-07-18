@@ -3,7 +3,7 @@ Title: Select All Curves Command
 Description: This video takes a quick look at the Select All Curves command in Plasticity.
 Duration: 30
 Version: 1.1.36
-Uploaded: 20230627
+Uploaded: 2023-06-27
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

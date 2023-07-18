@@ -3,7 +3,7 @@ Title: Variable Width Fillets
 Description: This video takes a quick look at creating Variable Width Fillets in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230415
+Uploaded: 2023-04-15
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Switch View to Orthographic Views
 Description: This video takes a quick look at switching to orthographic views in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230605
+Uploaded: 2023-06-05
 Tags: unsorted
 
 yum yum

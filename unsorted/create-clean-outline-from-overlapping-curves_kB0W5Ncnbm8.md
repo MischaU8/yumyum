@@ -3,7 +3,7 @@ Title: Create Clean Outline from Overlapping Curves
 Description: This video shares a quick tip for creating a Clean Outline from Overlapping Curves in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230428
+Uploaded: 2023-04-28
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

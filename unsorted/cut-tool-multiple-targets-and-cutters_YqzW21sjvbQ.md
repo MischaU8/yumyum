@@ -3,7 +3,7 @@ Title: Cut Tool: Multiple Targets and Cutters
 Description: This video takes a quick look at using Multiple Targets and Cutters when using the Cut tool in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230519
+Uploaded: 2023-05-19
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

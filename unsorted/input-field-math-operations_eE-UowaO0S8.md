@@ -3,7 +3,7 @@ Title: Input Field Math Operations
 Description: This video takes a quick look at using Math Operations for Input Fields in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

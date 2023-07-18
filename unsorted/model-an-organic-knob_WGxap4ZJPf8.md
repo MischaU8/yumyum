@@ -3,7 +3,7 @@ Title: Model an Organic Knob
 Description: This video takes a quick look at modeling an Organic Knob in Plasticity.
 Duration: 50
 Version: 1.1.25
-Uploaded: 20230618
+Uploaded: 2023-06-18
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

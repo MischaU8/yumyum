@@ -3,7 +3,7 @@ Title: Chamfer/Fillet: Add Limit Point
 Description: This video shares a quick introduction to the Add Limit Point feature for Chamfers and Fillets in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum

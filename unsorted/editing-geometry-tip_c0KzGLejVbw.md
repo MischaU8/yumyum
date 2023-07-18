@@ -3,7 +3,7 @@ Title: Editing Geometry Tip
 Description: This video shares a quick tip for editing geometry in Plasticity.
 Duration: 30
 Version: 1.1.23
-Uploaded: 20230609
+Uploaded: 2023-06-09
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

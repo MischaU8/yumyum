@@ -3,7 +3,7 @@ Title: Loft an Arch
 Description: This video shares a quick tip for Lofting an Arch in Plasticity.
 Duration: 80
 Version: 
-Uploaded: 20230425
+Uploaded: 2023-04-25
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

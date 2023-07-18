@@ -3,7 +3,7 @@ Title: Snap to Grid and Grid Size
 Description: This video takes a quick look at Snap to Grid and Grid Size in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230421
+Uploaded: 2023-04-21
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

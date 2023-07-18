@@ -3,7 +3,7 @@ Title: Create a Chain Link Fence
 Description: This video takes a quick look at creating a Chain Link Fence in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230504
+Uploaded: 2023-05-04
 Tags: unsorted
 
 yum yum

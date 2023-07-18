@@ -3,7 +3,7 @@ Title: Create a Paper Clip
 Description: This video takes a quick look at Creating a Paper Clip in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230419
+Uploaded: 2023-04-19
 Tags: unsorted
 
 yum yum

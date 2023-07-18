@@ -3,7 +3,7 @@ Title: Snap to Existing Segment (Temp Snap Guides)
 Description: This video takes a quick look at Snapping to Existing Segments in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230423
+Uploaded: 2023-04-23
 Tags: unsorted
 
 yum yum

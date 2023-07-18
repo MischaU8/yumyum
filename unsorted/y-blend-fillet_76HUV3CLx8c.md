@@ -3,7 +3,7 @@ Title: Y-Blend Fillet
 Description: This video shares a quick introduction to the Y-Blend attribute for Fillets in Plasticity.
 Duration: 30
 Version: 1.1.23
-Uploaded: 20230610
+Uploaded: 2023-06-10
 Tags: unsorted
 
 yum yum

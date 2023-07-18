@@ -3,7 +3,7 @@ Title: Create Clean Transitions with Bridge Surface
 Description: This video takes a quick look at Creating Clean Transitions with the Bridge Surface Tool in Plasticity.
 Duration: 30
 Version: 1.1.31
-Uploaded: 20230622
+Uploaded: 2023-06-22
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

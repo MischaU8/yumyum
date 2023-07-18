@@ -3,7 +3,7 @@ Title: Join Curves with Smooth Intersection
 Description: This video shares a quick tip for joining curves and creating smooth transitions in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230521
+Uploaded: 2023-05-21
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

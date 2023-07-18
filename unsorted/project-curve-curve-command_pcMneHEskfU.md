@@ -3,7 +3,7 @@ Title: Project Curve Curve Command
 Description: This video takes a quick look at the Project Curve Curve Command in Plasticity.
 Duration: 30
 Version: 1.1.31
-Uploaded: 20230622
+Uploaded: 2023-06-22
 Tags: unsorted
 
 yum yum

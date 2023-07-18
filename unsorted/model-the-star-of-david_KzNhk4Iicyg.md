@@ -3,7 +3,7 @@ Title: Model the Star of David
 Description: This video takes a quick look at Modeling the Star of David in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230531
+Uploaded: 2023-05-31
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

@@ -3,7 +3,7 @@ Title: Trim Tool: Create the Apple Logo
 Description: This video takes a quick look at using the Trim Tool to create the Apple Logo in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230415
+Uploaded: 2023-04-15
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

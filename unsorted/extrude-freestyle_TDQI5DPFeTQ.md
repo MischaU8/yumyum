@@ -3,7 +3,7 @@ Title: Extrude: Freestyle
 Description: This video takes a quick look at the Extrude Tool’s Freestyle option Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230520
+Uploaded: 2023-05-20
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

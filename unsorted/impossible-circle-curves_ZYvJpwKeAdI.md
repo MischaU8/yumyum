@@ -3,7 +3,7 @@ Title: Impossible Circle Curves
 Description: This video takes a quick look at creating impossible circle curves in Plasticity.
 Duration: 40
 Version: 1.1.41
-Uploaded: 20230707
+Uploaded: 2023-07-07
 Tags: unsorted
 
 yum yum

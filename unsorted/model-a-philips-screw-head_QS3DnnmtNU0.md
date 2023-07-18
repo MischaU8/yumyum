@@ -3,7 +3,7 @@ Title: Model a Philips Screw Head
 Description: This video takes a quick look at Modeling a Philips Screw Head in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230519
+Uploaded: 2023-05-19
 Tags: unsorted
 
 yum yum

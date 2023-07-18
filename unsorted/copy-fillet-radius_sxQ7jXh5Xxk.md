@@ -3,7 +3,7 @@ Title: Copy Fillet Radius
 Description: This video shares a quick tip for copying a Fillet radius in Plasticity.
 Duration: 20
 Version: 
-Uploaded: 20230415
+Uploaded: 2023-04-15
 Tags: unsorted
 
 yum yum

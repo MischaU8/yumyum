@@ -3,7 +3,7 @@ Title: Linear Array with a Twist
 Description: This video shares a quick tip for creating a linear array with a twist in Plasticity.
 Duration: 40
 Version: 1.1.41
-Uploaded: 20230706
+Uploaded: 2023-07-06
 Tags: unsorted
 
 yum yum

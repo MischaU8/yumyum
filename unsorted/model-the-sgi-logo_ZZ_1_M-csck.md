@@ -3,7 +3,7 @@ Title: Model the SGI Logo
 Description: This video takes a quick look at modeling the SGI Logo in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230529
+Uploaded: 2023-05-29
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

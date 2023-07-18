@@ -3,7 +3,7 @@ Title: Model a Hex Bolt Head
 Description: This video takes a quick look at modeling a Hex Bolt Head in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230415
+Uploaded: 2023-04-15
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

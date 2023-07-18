@@ -3,7 +3,7 @@ Title: Subdivide Curve
 Description: This video takes a quick look at the Subdivide Curve Command in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230418
+Uploaded: 2023-04-18
 Tags: unsorted
 
 yum yum

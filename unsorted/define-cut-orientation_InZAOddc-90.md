@@ -3,7 +3,7 @@ Title: Define Cut Orientation
 Description: This video takes a quick tip for controlling the orientation of a Cut in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230515
+Uploaded: 2023-05-15
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

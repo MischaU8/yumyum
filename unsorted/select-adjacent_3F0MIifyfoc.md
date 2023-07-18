@@ -3,7 +3,7 @@ Title: Select Adjacent
 Description: This video takes a quick look at the Select Adjacent command in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230417
+Uploaded: 2023-04-17
 Tags: unsorted
 
 yum yum

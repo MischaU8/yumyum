@@ -3,7 +3,7 @@ Title: Create a 3D Recycle Symbol
 Description: This video takes a quick look at Creating a 3D Recycle Symbol in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230527
+Uploaded: 2023-05-27
 Tags: unsorted
 
 yum yum

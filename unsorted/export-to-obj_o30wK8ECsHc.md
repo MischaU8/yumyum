@@ -3,7 +3,7 @@ Title: Export to OBJ
 Description: This video takes a quick look at Exporting to OBJ in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230419
+Uploaded: 2023-04-19
 Tags: unsorted
 
 yum yum

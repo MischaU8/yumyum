@@ -3,7 +3,7 @@ Title: Input Dimensions when Creating Lines and Shapes
 Description: This video takes a quick look at Inputting Dimensions when Creating Lines and Shapes in Plasticity.
 Duration: 30
 Version: 1.1.23
-Uploaded: 20230608
+Uploaded: 2023-06-08
 Tags: unsorted
 
 yum yum

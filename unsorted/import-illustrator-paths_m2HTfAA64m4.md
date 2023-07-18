@@ -3,7 +3,7 @@ Title: Import Illustrator Paths
 Description: This video takes a quick look at importing Adobe Illustrator Paths into Plasticity. Tool links: https://dev.cog.ooo/svg2step/ https://github.com/iskwmsy/svg2step
 Duration: 40
 Version: 
-Uploaded: 20230522
+Uploaded: 2023-05-22
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

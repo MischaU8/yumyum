@@ -3,7 +3,7 @@ Title: Show/Hide Curve Measurements
 Description: This video takes a quick look at Displaying Curve Measurements in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230605
+Uploaded: 2023-06-05
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

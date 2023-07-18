@@ -3,7 +3,7 @@ Title: Model a Chair
 Description: This video takes a quick look at Modeling a Simple Chair in Plasticity.
 Duration: 50
 Version: 1.1.20
-Uploaded: 20230608
+Uploaded: 2023-06-08
 Tags: unsorted
 
 yum yum

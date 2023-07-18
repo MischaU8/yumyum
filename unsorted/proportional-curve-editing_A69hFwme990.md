@@ -3,7 +3,7 @@ Title: Proportional Curve Editing
 Description: This video shares a quick tip for Proportional Curve Editing in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230602
+Uploaded: 2023-06-02
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

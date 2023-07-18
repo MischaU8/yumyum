@@ -3,7 +3,7 @@ Title: Extend Edge
 Description: This video takes a quick look at the Extend Edge command in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230423
+Uploaded: 2023-04-23
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

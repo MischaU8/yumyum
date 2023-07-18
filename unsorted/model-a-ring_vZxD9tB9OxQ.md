@@ -3,7 +3,7 @@ Title: Model a Ring
 Description: This video takes a quick look at Modeling a Simple Ring in Plasticity.
 Duration: 80
 Version: 
-Uploaded: 20230521
+Uploaded: 2023-05-21
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

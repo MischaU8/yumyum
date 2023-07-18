@@ -3,7 +3,7 @@ Title: Create a Picture Frame
 Description: This video shares a quick tip for creating a picture frame in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230424
+Uploaded: 2023-04-24
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

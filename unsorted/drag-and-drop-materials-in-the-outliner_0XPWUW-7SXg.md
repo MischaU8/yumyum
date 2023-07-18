@@ -3,7 +3,7 @@ Title: Drag and Drop Materials in the Outliner
 Description: This video takes a quick look at dragging and dropping Materials in the Outliner in Plasticity.
 Duration: 20
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum

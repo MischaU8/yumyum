@@ -3,7 +3,7 @@ Title: Move to Origin
 Description: This video shares a quick tip to Move and Center an item at the Origin in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230417
+Uploaded: 2023-04-17
 Tags: unsorted
 
 yum yum

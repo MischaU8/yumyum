@@ -3,7 +3,7 @@ Title: Create Panel Lines 02
 Description: This video takes a quick look at Creating Panel Lines in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230525
+Uploaded: 2023-05-25
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

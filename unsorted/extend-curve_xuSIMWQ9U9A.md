@@ -3,7 +3,7 @@ Title: Extend Curve
 Description: This video takes a quick look at the Extend Curve tool in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230530
+Uploaded: 2023-05-30
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

@@ -3,7 +3,7 @@ Title: Curve Array Alignment Tip
 Description: This video shares a quick Curve Array Alignment tip for Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230607
+Uploaded: 2023-06-07
 Tags: unsorted
 
 yum yum Point here with a quick curvary

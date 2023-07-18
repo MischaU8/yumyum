@@ -3,7 +3,7 @@ Title: Extrude: Add Additional Faces
 Description: This video shares a quick tip at Adding additional Regions to an Extrude Operation in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230420
+Uploaded: 2023-04-20
 Tags: unsorted
 
 yum yum

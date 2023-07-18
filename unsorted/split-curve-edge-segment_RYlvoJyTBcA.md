@@ -3,7 +3,7 @@ Title: Split Curve/Edge (Segment)
 Description: This video takes a quick look at the Split Curve tool in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230425
+Uploaded: 2023-04-25
 Tags: unsorted
 
 yum yum

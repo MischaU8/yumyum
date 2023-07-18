@@ -3,7 +3,7 @@ Title: Rebuild Curve
 Description: This video takes a quick look at the Rebuild Curve command in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230418
+Uploaded: 2023-04-18
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

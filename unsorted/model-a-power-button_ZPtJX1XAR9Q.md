@@ -3,7 +3,7 @@ Title: Model a Power Button
 Description: This video takes a quick look at Modeling a Power Button in Plasticity.
 Duration: 70
 Version: 
-Uploaded: 20230526
+Uploaded: 2023-05-26
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Model a Half-Twisted Ring
 Description: This video takes a quick look at Model a Half-Twisted Ring in Plasticity.
 Duration: 70
 Version: 1.1.25
-Uploaded: 20230614
+Uploaded: 2023-06-14
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

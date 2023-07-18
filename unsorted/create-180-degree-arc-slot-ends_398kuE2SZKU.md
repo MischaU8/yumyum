@@ -3,7 +3,7 @@ Title: Create 180 Degree Arc Slot Ends
 Description: This video shares a quick tip for Creating a 180 Degree Arc Slot Ends in Plasticity.
 Duration: 40
 Version: 1.1.31
-Uploaded: 20230623
+Uploaded: 2023-06-23
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

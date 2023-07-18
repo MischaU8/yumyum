@@ -3,7 +3,7 @@ Title: Create a Chess Bishop
 Description: This video takes a quick look at creating a Chess Bishop in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230505
+Uploaded: 2023-05-05
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

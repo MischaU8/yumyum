@@ -3,7 +3,7 @@ Title: Project Body Body Command
 Description: This video takes a quick look at the Project Body Body Command in Plasticity.
 Duration: 30
 Version: 1.1.31
-Uploaded: 20230623
+Uploaded: 2023-06-23
 Tags: unsorted
 
 yum yum

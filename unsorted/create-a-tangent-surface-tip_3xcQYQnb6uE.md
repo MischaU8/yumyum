@@ -3,7 +3,7 @@ Title: Create a Tangent Surface Tip
 Description: This video shares a quick tip for Creating a Tangent Surface in Plasticity.
 Duration: 40
 Version: 1.1.25
-Uploaded: 20230612
+Uploaded: 2023-06-12
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

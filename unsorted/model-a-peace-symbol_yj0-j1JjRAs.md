@@ -3,7 +3,7 @@ Title: Model a Peace Symbol
 Description: This video takes a quick look at Modeling a Peace Symbol in Plasticity.
 Duration: 40
 Version: 1.1.20
-Uploaded: 20230602
+Uploaded: 2023-06-02
 Tags: unsorted
 
 yum yum

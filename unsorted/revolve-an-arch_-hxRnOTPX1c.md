@@ -3,7 +3,7 @@ Title: Revolve an Arch
 Description: This video shares a quick tip for using Revolve to create an Arch in Plasticity.
 Duration: 60
 Version: 
-Uploaded: 20230425
+Uploaded: 2023-04-25
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

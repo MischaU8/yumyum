@@ -3,7 +3,7 @@ Title: Unjoin Curves
 Description: This video takes a quick look at using the Unjoin command on Curves in Plasticity.
 Duration: 30
 Version: 1.1.25
-Uploaded: 20230617
+Uploaded: 2023-06-17
 Tags: unsorted
 
 yum yum

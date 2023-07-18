@@ -3,7 +3,7 @@ Title: Optimizing Fillet Intersections 11
 Description: This video takes a quick look at Optimizing Fillet Intersections in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230604
+Uploaded: 2023-06-04
 Tags: unsorted
 
 yum yum

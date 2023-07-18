@@ -3,7 +3,7 @@ Title: Create a Bike Chain
 Description: This video takes a quick look at creating a Bike Chain in Plasticity.
 Duration: 80
 Version: 
-Uploaded: 20230428
+Uploaded: 2023-04-28
 Tags: unsorted
 
 yum yum

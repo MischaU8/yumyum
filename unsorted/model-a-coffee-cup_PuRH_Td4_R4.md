@@ -3,7 +3,7 @@ Title: Model a Coffee Cup
 Description: This video takes a quick look at Modeling a Coffee Cup in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230522
+Uploaded: 2023-05-22
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

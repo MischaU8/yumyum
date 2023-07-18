@@ -3,7 +3,7 @@ Title: Create an Octahedron (D8)
 Description: This video takes a quick look at Creating an Octahedron in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230502
+Uploaded: 2023-05-02
 Tags: unsorted
 
 yum yum

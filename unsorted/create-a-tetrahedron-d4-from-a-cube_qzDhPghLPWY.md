@@ -3,7 +3,7 @@ Title: Create a Tetrahedron (D4) from a Cube
 Description: This video takes a quick look at Creating a Tetrahedron from a Cube in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230502
+Uploaded: 2023-05-02
 Tags: unsorted
 
 yum yum flight here with a quick look at

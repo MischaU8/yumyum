@@ -3,7 +3,7 @@ Title: Assign Custom Keyboard Shortcut
 Description: This video shares a quick tip for assigning a custom keyboard shortcut in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230414
+Uploaded: 2023-04-14
 Tags: unsorted
 
 yum yum

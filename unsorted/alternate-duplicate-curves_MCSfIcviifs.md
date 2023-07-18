@@ -3,7 +3,7 @@ Title: Alternate Duplicate (Curves)
 Description: This video takes a quick look at the Alternate Duplicate command in Plasticity.
 Duration: 40
 Version: 
-Uploaded: 20230418
+Uploaded: 2023-04-18
 Tags: unsorted
 
 yum yum

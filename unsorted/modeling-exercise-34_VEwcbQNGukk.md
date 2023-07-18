@@ -3,7 +3,7 @@ Title: Modeling Exercise 34
 Description: This video takes a quick look at basic asset creation in Plasticity.
 Duration: 50
 Version: 1.1.25
-Uploaded: 20230614
+Uploaded: 2023-06-14
 Tags: unsorted
 
 yum yum

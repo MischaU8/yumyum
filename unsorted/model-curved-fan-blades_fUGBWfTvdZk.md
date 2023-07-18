@@ -3,7 +3,7 @@ Title: Model Curved Fan Blades
 Description: This video takes a quick look at creating curved fan blades in Plasticity.
 Duration: 40
 Version: 1.1.25
-Uploaded: 20230616
+Uploaded: 2023-06-16
 Tags: unsorted
 
 yum yum

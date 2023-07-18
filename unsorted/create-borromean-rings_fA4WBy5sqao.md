@@ -3,7 +3,7 @@ Title: Create Borromean Rings
 Description: This video takes a quick look at Creating Borromean Rings in Plasticity.
 Duration: 40
 Version: 1.1.25
-Uploaded: 20230613
+Uploaded: 2023-06-13
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

@@ -3,7 +3,7 @@ Title: Circle and Arc Curve Tools
 Description: This video takes a quick look at the Circle and Arc Curve Tools in Plasticity.
 Duration: 80
 Version: 
-Uploaded: 20230418
+Uploaded: 2023-04-18
 Tags: unsorted
 
 yum yum

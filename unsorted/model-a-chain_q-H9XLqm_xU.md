@@ -3,7 +3,7 @@ Title: Model a Chain
 Description: This video takes a quick look at Modeling a Chain in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230531
+Uploaded: 2023-05-31
 Tags: unsorted
 
 yum yum

@@ -3,7 +3,7 @@ Title: Extrude: New Body
 Description: This video takes a quick look at the New Body option for the Extrude tool in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230517
+Uploaded: 2023-05-17
 Tags: unsorted
 
 yum yum

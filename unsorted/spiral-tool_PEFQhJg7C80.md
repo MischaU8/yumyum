@@ -3,7 +3,7 @@ Title: Spiral Tool
 Description: This video shares a quick introduction to the Spiral Tool in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230519
+Uploaded: 2023-05-19
 Tags: unsorted
 
 yum yum Floyd here with a quick

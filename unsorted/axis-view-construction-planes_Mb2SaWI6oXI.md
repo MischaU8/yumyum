@@ -3,7 +3,7 @@ Title: Axis View Construction Planes
 Description: This video takes a quick look at the Axis View Construction Planes in Plasticity.
 Duration: 50
 Version: 
-Uploaded: 20230426
+Uploaded: 2023-04-26
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

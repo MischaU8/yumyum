@@ -3,7 +3,7 @@ Title: Tangency Snaps
 Description: This video takes a quick look at Tangency Snaps in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230524
+Uploaded: 2023-05-24
 Tags: unsorted
 
 yum yum Floyd here with a quick look at

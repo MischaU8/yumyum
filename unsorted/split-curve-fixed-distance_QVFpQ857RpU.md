@@ -3,7 +3,7 @@ Title: Split Curve Fixed Distance
 Description: This video shares a quick tip for placing control points on a curve with the Split Curve tool in Plasticity.
 Duration: 30
 Version: 
-Uploaded: 20230426
+Uploaded: 2023-04-26
 Tags: unsorted
 
 yum yum Floyd here with a quick tip for

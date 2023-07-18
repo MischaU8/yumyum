@@ -3,7 +3,7 @@ Title: Patch Hole: Cycle Continuity
 Description: This video takes a quick look at Cycling the Continuity attribute in Plasticity.
 Duration: 30
 Version: 1.1.32
-Uploaded: 20230626
+Uploaded: 2023-06-26
 Tags: unsorted
 
 yum yum
