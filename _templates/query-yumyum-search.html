@@ -26,11 +26,11 @@ input[type=submit] {
     line-height: 1;
     border-radius: .25rem;
 }
-pre {
+p.snippet {
     white-space: pre-wrap;
     overflow-wrap: break-word;
 }
-pre strong {
+p.snippet strong {
     background-color: yellow;
 }
 </style>
@@ -51,7 +51,7 @@ pre strong {
     
 {% for video in rows %}
     <h3><span class="topic"><a href="/{{ video.topic }}">{{ video.topic }}</a></span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</h3>
-    <pre>{{ highlight(video.snippet)|safe }}</pre>
+    <p class="snippet">{{ highlight(video.snippet)|safe }}</p>
 {% endfor %}
 
 {% endblock %}
