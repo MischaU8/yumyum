@@ -55,6 +55,11 @@ h1 {
   gap: 10px;
   align-items: flex-start;
 }
+@media (max-width: 600px) {
+  .media-item--wrapper {
+    flex-direction: column;
+  }
+}
 .img-wrapper img {
     border-radius: 12px;
 }
@@ -78,7 +83,6 @@ nav {
     text-align: left;
     background: linear-gradient(to bottom, rgb(231, 64, 53) 0%, rgb(187, 40, 35) 100%);
     color: white;
-
 }
 nav .topnav {
     overflow: hidden;
