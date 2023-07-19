@@ -12,22 +12,27 @@
 {% block title %}{{ video.title }} | Plasticity - Vaughan in 60 seconds{% endblock %}
 
 {% block extra_head %}
+<style>
+.video {
+  aspect-ratio: 16 / 9;
+  width: clamp(240px, 100%, 720px);
+}
+</style>
 {% endblock %}
 
 {% block body %}
 <h1>{{ video.title }}</h1>
 
 <iframe
-  width="720"
-  height="405"
+  class="video"
   src="https://www.youtube-nocookie.com/embed/{{ video.id }}"
   frameborder="0"
-  allow="autoplay; encrypted-media"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
 
 <p class="legend">
-Uploaded {{ video.upload_date }} &middot; Duration {{ video.duration }}s
+Uploaded {{ video.upload_date }} by William Vaughan &middot; Duration {{ video.duration }}s
 {% if video.plasticity_version %}&middot; Plasticity version {{ video.plasticity_version }}{% endif %}
 </p>
 
@@ -38,10 +43,14 @@ Uploaded {{ video.upload_date }} &middot; Duration {{ video.duration }}s
   <h3>Related</h3>
   <ul class="related">
     {% for video in related %}
-    <li><span class="topic">{{ video.topic }}</span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</li>
+    <li><span class="topic"><a href="/{{ video.topic }}">{{ video.topic }}</a></span>
+    <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</li>
     {% endfor %}
   </ul>
 {% endif %}
 
-<p class="created">Created {{ video.created }}{% if video.created != video.updated %}, updated {{ video.updated }} &middot; <a href="{{ video.url|replace("https://github.com/MischaU8/yumyum/blob/", "https://github.com/MischaU8/yumyum/commits/") }}">History</a>{% endif %} &middot; <a href="{{ video.url }}">Edit</a></p>
+<p class="created">Page created {{ video.created }}{% if video.created != video.updated %},
+  updated {{ video.updated }}
+  &middot; <a href="{{ video.url|replace("https://github.com/MischaU8/yumyum/blob/", "https://github.com/MischaU8/yumyum/commits/") }}">History</a>{% endif %}
+  &middot; <a href="{{ video.url }}">Edit</a></p>
 {% endblock %}
