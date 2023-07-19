@@ -39,6 +39,7 @@
 ></iframe>
 
 <p class="legend">
+{{ video.description }}<br/>
 Uploaded {{ video.upload_date }} by William Vaughan &middot; Duration {{ video.duration }}s
 {% if video.plasticity_version %}&middot; Plasticity version {{ video.plasticity_version }}{% endif %}
 </p>
@@ -48,7 +49,7 @@ Uploaded {{ video.upload_date }} by William Vaughan &middot; Duration {{ video.d
 {% if video.topic == "unsorted" %}
 <p class="warning">
   This video has not been fully transcribed yet, so above are automatic captions.
-  You can assist with transcribing and curating training videos, contact MischaU8 on Discord. Thanks for your support!
+  Please assist with transcribing and curating training videos, contact MischaU8 on Discord. Thanks for your support!
 </p>
 {% endif %}
 
