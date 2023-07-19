@@ -1,6 +1,6 @@
 #!/bin/bash
 
-datasette publish vercel _data/yumyum.db \
+pipenv run datasette publish vercel _data/yumyum.db \
     --project yumyum \
     --metadata metadata.yaml \
     --static static:_static \
