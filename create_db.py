@@ -2,7 +2,6 @@
 
 from datetime import timezone
 from pathlib import Path
-import re
 from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup
