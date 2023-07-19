@@ -36,6 +36,41 @@ h1 {
     text-decoration: none;
     color: black;
 }
+.media-items {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  flex-wrap: wrap;
+}
+.media-item--wrapper {
+  flex-direction: row;
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.img-wrapper img {
+    border-radius: 12px;
+}
+.media-text {
+  box-sizing: border-box;
+  flex: 1 1 auto;
+}
+.media-title {
+    font-size: large;
+}
+.media-upload-date {
+    font-size: smaller;
+}
+.media-description {
+    font-size: smaller;
+}
 pre {
     white-space: pre-wrap;
 }

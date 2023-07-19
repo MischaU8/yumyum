@@ -16,9 +16,20 @@
 
 <h1>Plasticity videos on {{ topic|capitalize }}</h1>
 
+<div class="media-items">
 {% for video in videos %}
-    <h3><span class="topic">{{ video.topic }}</span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</h3>
-    {{ first_paragraph(video["html"]).replace("</p>", " &#8230; </p>")|safe }}
+<div class="media-item--wrapper">
+    <div class="img-wrapper">
+        <img src="https://img.youtube.com/vi/{{ video.id }}/mqdefault.jpg" width="240" height="144" />
+    </div>
+    <div class="media-text">
+        <span class="topic">{{ video.topic }}</span>
+        <strong class="media-title"><a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a></strong>
+        <span class="media-upload-date">- {{ video.upload_date[:10] }}</span>
+        <span class="media-description">{{ first_paragraph(video["html"]).replace("</p>", " &#8230; </p>")|safe }}</span>
+    </div>
+</div>
 {% endfor %}
+</div>
 
 {% endblock %}

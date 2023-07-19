@@ -26,11 +26,11 @@ input[type=submit] {
     line-height: 1;
     border-radius: .25rem;
 }
-p.snippet {
+.snippet {
     white-space: pre-wrap;
     overflow-wrap: break-word;
 }
-p.snippet strong {
+.snippet strong {
     background-color: yellow;
 }
 </style>
@@ -48,10 +48,22 @@ p.snippet strong {
 {% if q and not rows %}
     <p><em>No results for "{{ q }}"</em></p>
 {% endif %}
-    
+
+<div class="media-items">
 {% for video in rows %}
-    <h3><span class="topic"><a href="/{{ video.topic }}">{{ video.topic }}</a></span> <a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a> - {{ video.upload_date[:10] }}</h3>
-    <p class="snippet">{{ highlight(video.snippet)|safe }}</p>
+<div class="media-item--wrapper">
+    <div class="img-wrapper">
+        <img src="https://img.youtube.com/vi/{{ video.id }}/mqdefault.jpg" width="240" height="144" />
+    </div>
+    <div class="media-text">
+        <span class="topic">{{ video.topic }}</span>
+        <strong class="media-title"><a href="/{{ video.topic }}/{{ video.slug }}">{{ video.title }}</a></strong>
+        <span class="media-upload-date">- {{ video.upload_date[:10] }}</span>
+        <!-- <span class="media-description">{{ first_paragraph(video["html"]).replace("</p>", " &#8230; </p>")|safe }}</span> -->
+        <p class="snippet">{{ highlight(video.snippet)|safe }}</p>
+    </div>
+</div>
 {% endfor %}
+</div>
 
 {% endblock %}
