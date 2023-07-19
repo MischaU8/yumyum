@@ -14,6 +14,12 @@
 
 {% block extra_head %}
 <style>
+.warning {
+  padding: 16px;
+  background-color: #ff9800;
+  color: white;
+  margin-bottom: 15px;
+}
 .video {
   aspect-ratio: 16 / 9;
   width: clamp(240px, 100%, 720px);
@@ -38,6 +44,13 @@ Uploaded {{ video.upload_date }} by William Vaughan &middot; Duration {{ video.d
 </p>
 
 {{ video.html|safe }}
+
+{% if video.topic == "unsorted" %}
+<p class="warning">
+  This video has not been fully transcribed yet, so above are automatic captions.
+  You can assist with transcribing and curating training videos, contact MischaU8 on Discord. Thanks for your support!
+</p>
+{% endif %}
 
 {% set related = related_videos(video) %}
 {% if related %}
