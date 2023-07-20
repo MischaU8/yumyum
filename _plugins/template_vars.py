@@ -5,6 +5,46 @@ import re
 
 non_alphanumeric = re.compile(r"[^a-zA-Z0-9\s]")
 multi_spaces = re.compile(r"\s+")
+stopwords = set(
+    [
+        "a",
+        "about",
+        "an",
+        "are",
+        "as",
+        "at",
+        "be",
+        "by",
+        "com",
+        "de",
+        "en",
+        "for",
+        "from",
+        "how",
+        "i",
+        "in",
+        "is",
+        "it",
+        "la",
+        "of",
+        "on",
+        "or",
+        "that",
+        "the",
+        "this",
+        "to",
+        "was",
+        "what",
+        "when",
+        "where",
+        "who",
+        "will",
+        "with",
+        "und",
+        "the",
+        "www",
+    ]
+)
 
 
 def first_paragraph(html):
@@ -24,7 +64,7 @@ def extra_template_vars(request, datasette):
         text = video["title"] + " " + video["body"]
         text = non_alphanumeric.sub(" ", text)
         text = multi_spaces.sub(" ", text)
-        words = list(set(text.lower().strip().split()))
+        words = list(set(text.lower().strip().split()) - stopwords)
         sql = """
         select
           video.topic, video.slug, video.title, video.upload_date
