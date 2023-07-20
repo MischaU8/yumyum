@@ -12,7 +12,7 @@ start by creating a square curve press
 shift s to subdivide the curve select
 the inner points and move them up patch
 the curve to make a sheet then extrude
-to make a solid add Phillips to the
+to make a solid add fillets to the
 corner edges duplicate the top face to
 make a sheet mirror the new sheet select
 the boundary edges and press L to Loft

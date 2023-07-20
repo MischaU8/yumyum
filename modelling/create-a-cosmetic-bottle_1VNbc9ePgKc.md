@@ -24,7 +24,7 @@ then shift select the other two curves
 to use them as guides for the loft
 patch the holes with the patch tool to
 create a solid
-then add Phillips to the edges
+then add fillets to the edges
 create a new curve up top and press C to
 cut the solid
 assign a material to the top Solid add

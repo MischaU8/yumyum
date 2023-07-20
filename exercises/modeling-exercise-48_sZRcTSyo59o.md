@@ -16,5 +16,5 @@ curves with the o key
 select these faces and extrude them with
 lock distances enabled select the solid
 press Ctrl 2 to convert the selection to
-edges then add Phillips to all edges and
+edges then add fillets to all edges and
 you're all set

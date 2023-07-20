@@ -30,6 +30,6 @@ then mirror them to create a sideways y
 shape use the new curves to cut the
 solid then remove the new solids to
 reveal the shape we're after
-add Phillips to the edges and we're good
+add fillets to the edges and we're good
 to go
 

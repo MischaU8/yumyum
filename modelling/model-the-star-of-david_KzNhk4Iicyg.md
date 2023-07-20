@@ -16,5 +16,5 @@ the origin select all the faces
 then ctrl-click the counters to deselect
 them
 extrude the selected faces to make a
-solid hide the curves then add Phillips
+solid hide the curves then add fillets
 to the edges and you're all set

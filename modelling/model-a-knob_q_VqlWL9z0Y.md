@@ -22,5 +22,5 @@ solid extrude it and flare it out at the
 base
 add a chamfer to the bottom Edge
 then Boolean Union the two solids to
-create a single solid add Phillips to
+create a single solid add fillets to
 all edges and you're good to go

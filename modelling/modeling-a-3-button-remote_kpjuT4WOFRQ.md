@@ -50,5 +50,5 @@ add fillets to the buttons into the
 button cavities
 then use the final Circle curve to punch
 a hole in the main solid
-add Phillips to the new hole and you're
+add fillets to the new hole and you're
 all set

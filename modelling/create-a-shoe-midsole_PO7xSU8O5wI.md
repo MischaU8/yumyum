@@ -24,7 +24,7 @@ then offset the top face using the
 keyboard shortcut o push the inner top
 face down
 then create a fillet to round off the
-inner Edge add Phillips to the other
+inner Edge add fillets to the other
 edges
 and your base midsole is ready for
 detailing

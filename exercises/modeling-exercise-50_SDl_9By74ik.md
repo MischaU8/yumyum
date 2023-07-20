@@ -14,7 +14,7 @@ hole through the solid create a sphere
 the diameter of the width of the solid
 fill up the two edges that make up the
 hole then shift-click the sphere delete
-the sphere add Phillips to the top two
+the sphere add fillets to the top two
 edges
 create a line curve and press shift I
 for imprint curve select the solid as

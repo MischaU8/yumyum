@@ -18,6 +18,6 @@ perform a Boolean Union to create a
 single solid select these faces
 and use the hollow solid tool to create
 a shell solid
-add Phillips to all edges and you're all
+add fillets to all edges and you're all
 set
 

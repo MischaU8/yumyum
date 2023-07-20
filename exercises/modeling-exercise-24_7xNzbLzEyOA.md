@@ -39,6 +39,6 @@ move the curves out and extrude the
 faces into the solid
 then radial array with a count of three
 perform another Boolean difference
-operation add Phillips to the new edges
+operation add fillets to the new edges
 and you're good to go
 

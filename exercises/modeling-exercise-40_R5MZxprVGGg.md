@@ -22,6 +22,6 @@ in a Boolean difference operation select
 the outer face duplicate it with shift d
 to make a sheet
 thicken the sheet to make a solid
-add Phillips to all edges and you're
+add fillets to all edges and you're
 good to go
 

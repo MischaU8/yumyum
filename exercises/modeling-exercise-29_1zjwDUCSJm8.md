@@ -27,5 +27,5 @@ create a temporary construction plane
 create a circle curve and extrude it
 through the solid to create holes
 adjust the height of the back wall to
-your liking add Phillips to all edges
+your liking add fillets to all edges
 and you're good to go

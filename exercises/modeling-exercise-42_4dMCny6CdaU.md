@@ -15,7 +15,7 @@ curve extrude the ring face then extrude
 the two main faces to create solids
 Boolean Union the solids then use the
 isopram tool to add an edge
-extrude the lower face add Phillips to
+extrude the lower face add fillets to
 these edges
 cut holes in the lower corners of the
 solid

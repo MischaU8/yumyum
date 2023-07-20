@@ -24,5 +24,5 @@ duplicate the solid rotate it 90 degrees
 then rotate it again 180 degrees
 select both solids and perform a Boolean
 intersect operation
-add Phillips to the edges
+add fillets to the edges
 and you're good to go

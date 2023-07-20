@@ -26,6 +26,6 @@ a hemisphere cut a rounded slot in the
 side of the solid
 and a hole through the front of the
 solid
-add Phillips to all edges and you're
+add fillets to all edges and you're
 good to go
 

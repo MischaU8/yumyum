@@ -22,6 +22,6 @@ select both solids and perform a Boolean
 Union pressing Q twice
 select and remove the faces on the
 inside of the cup
-then add Phillips to the handle edges
+then add fillets to the handle edges
 and you're good to go
 

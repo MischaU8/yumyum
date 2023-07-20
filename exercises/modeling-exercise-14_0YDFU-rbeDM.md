@@ -24,6 +24,6 @@ it intersects with the first solid
 select both solids and perform a Boolean
 Union operation run the delete redundant
 topology command to clean up the mesh
-then add Phillips to all edges and
+then add fillets to all edges and
 you're good to go
 

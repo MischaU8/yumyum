@@ -19,6 +19,6 @@ duplicate it twice to create a total of
 three
 extrude this face hide the curves then
 offset the face with the o key
-push the interface in add Phillips stall
+push the interface in add fillets stall
 edges and you're good to go
 

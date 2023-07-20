@@ -21,5 +21,5 @@ duplicate it
 use of the two sheets as Cutters in a
 Boolean difference operation and remove
 the two smaller solids chamfer the
-bottom Edge add Phillips tall edges and
+bottom Edge add fillets tall edges and
 you're good to go
