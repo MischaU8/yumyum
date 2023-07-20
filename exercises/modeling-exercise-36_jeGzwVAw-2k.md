@@ -32,4 +32,4 @@ create a hole through the side of the
 solid
 then add fillets to all edges and you're
 good to go
-oh look at the time
+

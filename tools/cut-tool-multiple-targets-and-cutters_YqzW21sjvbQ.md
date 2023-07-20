@@ -19,6 +19,4 @@ also add more Cutters by clicking the
 select Cutters button in the dialog then
 shift-click additional curves to use as
 Cutters use this workflow for final
-control when using the cut tool oh look
-at the time
-foreign
+control when using the cut tool

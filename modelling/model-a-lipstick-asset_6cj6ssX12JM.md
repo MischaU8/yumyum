@@ -28,5 +28,4 @@ base into two solids add fillets to all
 edges
 adjust the material attribute to change
 the color of the lower solid and you're
-good to go oh look at the time
-foreign
+good to go

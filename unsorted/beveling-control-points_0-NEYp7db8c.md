@@ -14,4 +14,4 @@ keyboard to activate the fillet tool
 adjust the Distance by moving your mouse
 and then left click to commit use these
 simple steps to quickly bevel control
-points oh look at the time
+points

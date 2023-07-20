@@ -35,5 +35,4 @@ hide the curves and unhide the original
 solid select all three solids then press
 Q on the keyboard twice and right-click
 the Boolean them together and create a
-single solid oh look at the time
-foreign
+single solid

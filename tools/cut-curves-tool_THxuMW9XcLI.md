@@ -19,5 +19,4 @@ curve followed by the face you'd like to
 cut with
 and then right click to commit add this
 tool to your toolkit to cut curves with
-curves and faces oh look at the time
-foreign
+curves and faces

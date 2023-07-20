@@ -13,6 +13,4 @@ your cursor over the outliner and press
 the forward slash or period key the
 outliner will navigate to The Selection
 use this handy command to find objects
-in the outliner in dense scenes oh look
-at the time
-thank you
+in the outliner in dense scenes

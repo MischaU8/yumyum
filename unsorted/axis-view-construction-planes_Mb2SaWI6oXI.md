@@ -25,5 +25,4 @@ be created on the construction plane
 even if you start drawing on a face
 add these handy construction planes to
 your toolkit to speed up asset creation
-oh look at the time
-foreign
+

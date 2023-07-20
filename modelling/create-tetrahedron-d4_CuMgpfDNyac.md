@@ -23,5 +23,4 @@ curves and use the patch holes command
 to create four sheets
 join the sheets to make a solid and
 you're all set
-oh look at the time
-foreign
+

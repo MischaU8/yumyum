@@ -27,4 +27,4 @@ disable the construction plane radial
 array this solid with a count of three
 Boolean Union all the solids together
 add fillets to all edges and you're all
-set oh look at the time
+set

@@ -15,5 +15,4 @@ cut tool then select the fork silhouette
 curve to use as the cutter delete the
 outer sheet hide the curves then thicken
 the sheet into a solid using the thicken
-tool and you're good to go oh look at
-the time
+tool and you're good to go

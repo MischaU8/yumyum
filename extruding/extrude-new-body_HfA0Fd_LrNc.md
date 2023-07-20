@@ -14,4 +14,4 @@ to activate the new body feature which
 will enable you to generate a separate
 solid add this feature to your toolkit
 to expand the capabilities of the
-extrude tool oh look at the time
+extrude tool

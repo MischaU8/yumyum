@@ -15,6 +15,4 @@ easily snap to various orthographic
 views such as top and front using this
 key modifier with standard free orbiting
 can enhance navigating around your asset
-so be sure to add it to your workflow oh
-look at the time
-foreign
+so be sure to add it to your workflow

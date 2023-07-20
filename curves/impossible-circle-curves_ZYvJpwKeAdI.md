@@ -20,5 +20,3 @@ select each curved face and press shift
 d to generate a single curve per face
 scale the final two curves to your
 liking and you're all set
-oh look at the time
-foreign

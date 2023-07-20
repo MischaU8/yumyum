@@ -19,5 +19,4 @@ like to use and you're all set then
 simply press the keys you assigned to
 activate the command repeat these steps
 to add additional custom keyboard
-shortcuts oh look at the time
-okay
+shortcuts

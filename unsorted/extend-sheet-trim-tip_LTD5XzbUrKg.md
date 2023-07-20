@@ -11,5 +11,4 @@ the extend sheet tool any faces on the
 same sheet it encounters will
 automatically be trimmed use this handy
 feature of the extend sheet tool to
-enhance asset creation and plasticity oh
-look at the time
+enhance asset creation and plasticity

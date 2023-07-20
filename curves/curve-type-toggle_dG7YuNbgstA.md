@@ -15,4 +15,4 @@ will convert the curve into a control
 Point curve use this handy toggle to
 quickly switch between curve types when
 generating a curve with the spline curve
-tool oh look at the time
+tool

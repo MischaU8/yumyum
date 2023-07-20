@@ -18,5 +18,4 @@ select the line curve then adjust the
 twist attribute to your liking use this
 simple technique for additional options
 when performing a linear array in
-plasticity oh look at the time
-foreign
+plasticity

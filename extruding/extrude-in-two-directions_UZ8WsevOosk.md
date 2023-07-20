@@ -17,4 +17,4 @@ extrudes in both the positive and the
 negative pressing the Tab Key again will
 disable this option use this handy
 feature when needing to extrude in two
-directions oh look at the time
+directions

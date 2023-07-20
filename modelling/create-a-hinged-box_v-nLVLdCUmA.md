@@ -48,5 +48,4 @@ select the inside faces of the two
 solids and offset them then push them in
 to create the inner walls of the box
 select all the edges generate a fillet
-and you're all set oh look at the time
-foreign
+and you're all set

@@ -35,5 +35,4 @@ followed by the cross
 and press Q to perform a Boolean
 select all the edges and add fillets
 then scale the solid to your liking and
-you're good to go oh look at the time
-foreign
+you're good to go

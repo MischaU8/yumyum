@@ -21,5 +21,4 @@ opposite side of the body
 use the normal method and click the
 bi-directional attribute
 use this powerful feature to make light
-work of complex shapes oh look at the
-time
+work of complex shapes

@@ -17,5 +17,4 @@ into curves that lie on the same plane
 then perform separate curve array
 operations per curve use this workflow
 for finer control when duplicating with
-curve array oh look at the time
-foreign
+curve array

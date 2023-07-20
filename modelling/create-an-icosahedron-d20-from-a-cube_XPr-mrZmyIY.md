@@ -50,4 +50,4 @@ holes command to create a face repeat
 this process for each of the remaining
 seven three-phase pyramid topology
 until you have a finished icosahedron
-oh look at the time
+

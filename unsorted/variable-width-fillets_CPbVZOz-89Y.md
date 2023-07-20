@@ -20,5 +20,4 @@ your liking you can continue to add new
 variable points as needed by simply
 pressing the V key again use this
 powerful feature to enhance the Phillips
-on your assets oh look at the time
-foreign
+on your assets

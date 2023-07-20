@@ -15,5 +15,4 @@ on this curve press the F key on the
 keyboard type in delete and click delete
 redundant topology use this handy
 command to quickly remove unneeded
-components oh look at the time
-foreign
+components

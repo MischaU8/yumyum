@@ -17,4 +17,4 @@ cut or join
 then click the select tool bodies button
 and shift select the items you'd like to
 cut or join with right click to commit
-and you're all set oh look at the time
+and you're all set

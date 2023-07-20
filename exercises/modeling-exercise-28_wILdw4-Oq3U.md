@@ -21,4 +21,4 @@ extrude this face hide the curves then
 offset the face with the o key
 push the interface in add Phillips stall
 edges and you're good to go
-oh look at the time
+

@@ -27,5 +27,4 @@ and hide all curves
 select all the solids and perform a
 union Boolean then add fillets to the
 edges and you're all set
-oh look at the time
-foreign
+

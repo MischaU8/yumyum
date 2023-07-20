@@ -26,5 +26,3 @@ line across the bottom then press C for
 cut and select the main solid select all
 the edges and add fillets and you're
 good to go
-oh look at the time
-okay

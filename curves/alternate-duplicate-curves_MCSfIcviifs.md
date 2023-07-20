@@ -20,5 +20,3 @@ construction plane this also works when
 using the construction plane from camera
 feature simply select some edges
 and press alt D to generate new curves
-oh look at the time
-foreign

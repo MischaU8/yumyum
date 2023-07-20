@@ -13,5 +13,4 @@ s twice then enter the numeric value
 you'd like to use as a multiplier for
 all three axes this can be a real Time
 Saver so be sure to add it to your
-toolkit oh look at the time
-foreign
+toolkit

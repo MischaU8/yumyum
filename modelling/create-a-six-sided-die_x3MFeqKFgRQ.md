@@ -33,5 +33,4 @@ Spheres and press Q to Boolean subtract
 the Spheres from the cube
 select all the edges and add a fillet
 the finish off the die and you're good
-to go oh look at the time
-foreign
+to go

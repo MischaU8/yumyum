@@ -14,5 +14,4 @@ face to extend the selected Edge press F
 on the keyboard start typing extend and
 click extend Edge use this handy command
 to quickly extend edges on your meshes
-oh look at the time
-foreign
+

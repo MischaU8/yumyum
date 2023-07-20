@@ -23,4 +23,4 @@ the sheets and join them by pressing the
 J key then finish it off by patching the
 end caps and you're good to go keep this
 technique in your tool kit to Aid and
-asset creation oh look at the time
+asset creation

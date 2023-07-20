@@ -16,5 +16,4 @@ the viewport camera's position so the
 rotation axis will change based on the
 orientation of the view add this handy
 option to your workflow to enhance
-rotation and plasticity oh look at the
-time
+rotation and plasticity

@@ -21,4 +21,4 @@ then select the faces that make up the
 symbol and extrude them to create a
 solid hide the curves add fillets to all
 edges and you're all set
-oh look at the time
+

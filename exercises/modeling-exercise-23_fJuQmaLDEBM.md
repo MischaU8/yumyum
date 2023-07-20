@@ -37,5 +37,4 @@ through to create a new hole into the
 solid
 mirror the solid twice to create a
 symmetrical mesh and you're all set
-oh look at the time
-foreign
+

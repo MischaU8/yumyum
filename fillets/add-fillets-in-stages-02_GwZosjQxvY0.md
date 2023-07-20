@@ -14,5 +14,3 @@ and stages I can achieve a more
 desirable outcome keep this in mind when
 adding fillets to gain more control when
 creating assets and plasticity
-oh look at the time
-thank you

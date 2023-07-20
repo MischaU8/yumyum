@@ -17,5 +17,4 @@ each triangle use radial array with the
 number attributes set to 4 to duplicate
 the triangles then press J on the
 keyboard to join all sheets to make a
-solid and you're all set oh look at the
-time
+solid and you're all set

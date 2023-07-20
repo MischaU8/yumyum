@@ -24,6 +24,4 @@ join the sheets to make a solid and join
 the top faces and you're all set these
 options will get you the result you're
 after so experiment with both and use
-what works best for your needs oh look
-at the time
-thank you
+what works best for your needs

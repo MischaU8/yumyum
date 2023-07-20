@@ -22,5 +22,4 @@ the solid to cut it and right click to
 commit select all of the outer solids
 and delete them hide the curves to save
 them for later or simply delete them and
-you're all set oh look at the time
-foreign
+you're all set

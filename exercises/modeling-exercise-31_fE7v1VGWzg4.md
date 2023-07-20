@@ -27,4 +27,4 @@ delete the smaller solid
 add fillets to these edges
 then Boolean a hole through the solid
 here and you're all set
-oh look at the time
+

@@ -12,4 +12,4 @@ creating a new fillet you can click on
 existing fillets to copy their radius
 value this can be extremely useful to
 ensure that fillets match each other
-when needed oh look at the time
+when needed

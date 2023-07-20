@@ -16,4 +16,4 @@ switch to back press 3 on the numeric
 keypad for left View and control 3 for
 right use these hotkeys to quickly
 access the different Ortho views in
-plasticity oh look at the time
+plasticity

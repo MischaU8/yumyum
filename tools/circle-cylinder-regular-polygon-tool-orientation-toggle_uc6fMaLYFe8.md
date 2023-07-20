@@ -15,5 +15,4 @@ key on the keyboard which toggles
 between vertical and horizontal this can
 be useful when generating components in
 one axis but want the new geometry to be
-oriented in another oh look at the time
-foreign
+oriented in another

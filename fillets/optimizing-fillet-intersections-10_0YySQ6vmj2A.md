@@ -14,5 +14,4 @@ use the iso param tool then select these
 faces and press shift X to delete them
 all that's left is to select the
 boundary edges and use the patch hole
-tool to finish the process oh look at
-the time
+tool to finish the process

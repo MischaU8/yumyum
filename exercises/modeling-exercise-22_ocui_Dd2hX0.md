@@ -29,4 +29,4 @@ select both solids and perform a Boolean
 Union operation
 then add fillets to all edges and you're
 good to go
-oh look at the time
+

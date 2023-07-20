@@ -14,5 +14,3 @@ the UI any open edges on the selected
 object will be selected if the boundary
 edges make up a hole you can quickly cap
 the holes using the patch holes command
-oh look at the time
-thank you

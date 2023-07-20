@@ -19,6 +19,4 @@ and if the repeat attribute is greater
 than one you can adjust the distance of
 the second Direction when you're happy
 with the configuration simply right
-click in the view to commit oh look at
-the time
-foreign
+click in the view to commit

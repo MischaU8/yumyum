@@ -16,4 +16,4 @@ prospective enabled in the viewport you
 can right click the icon to adjust the
 field of view use this field of view
 attribute to adjust the perspective view
-to your liking oh look at the time
+to your liking

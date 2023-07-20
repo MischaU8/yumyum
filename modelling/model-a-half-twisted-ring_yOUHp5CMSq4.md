@@ -28,4 +28,4 @@ and remove the smaller overhang solids
 Boolean Union the three solids
 then repeat the steps for the other side
 to complete the ring and you're all set
-oh look at the time
+

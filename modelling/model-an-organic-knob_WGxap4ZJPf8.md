@@ -22,5 +22,4 @@ use of the two sheets as Cutters in a
 Boolean difference operation and remove
 the two smaller solids chamfer the
 bottom Edge add Phillips tall edges and
-you're good to go oh look at the time
-foreign
+you're good to go

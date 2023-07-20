@@ -14,5 +14,4 @@ these holes using the patch holes
 command by clicking on the patch holes
 icon in the lower right corner of the UI
 use this handy option to quickly patch
-holes on your assets oh look at the time
-okay
+holes on your assets

@@ -24,5 +24,3 @@ and print the curves onto the sphere
 then remove this extra Edge
 select these faces and offset them add
 fillets and you're good to go
-oh
-look at the time

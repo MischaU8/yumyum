@@ -14,5 +14,3 @@ mirrored version of the selection
 without duplicating simply scale it by
 negative one use the simple process to
 reorient your selections in plasticity
-oh look at the time
-okay

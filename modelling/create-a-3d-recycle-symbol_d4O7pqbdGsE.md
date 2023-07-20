@@ -28,4 +28,4 @@ radial array the solid with the count of
 three then move the solids into place so
 that the inner edges create a triangle
 and you're good to go
-oh look at the time
+

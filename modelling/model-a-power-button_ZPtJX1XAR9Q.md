@@ -33,5 +33,4 @@ move the curves above the solid
 press shift I to imprint the curves onto
 the sphere offset these faces then add
 fillets to the edges and you're all set
-oh look at the time
-foreign
+

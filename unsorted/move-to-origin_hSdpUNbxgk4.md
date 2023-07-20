@@ -17,4 +17,4 @@ the center of the selection then right
 click again to move the selection to the
 origin use these simple steps to quickly
 move and Center a selection to the
-origin oh look at the time
+origin

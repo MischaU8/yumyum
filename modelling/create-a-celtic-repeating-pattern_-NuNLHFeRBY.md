@@ -32,5 +32,4 @@ select both sheets and then use the
 rectangular array tool to duplicate them
 as many times as you'd like
 and you're all set
-oh look at the time
-foreign
+

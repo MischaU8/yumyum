@@ -26,5 +26,4 @@ faces select all three solids and
 perform a Boolean Union operation add
 fillets to all the edges and you're all
 set
-oh look at the time
-foreign
+

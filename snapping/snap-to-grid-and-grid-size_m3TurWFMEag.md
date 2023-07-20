@@ -19,6 +19,4 @@ grid size is displayed as well if you'd
 like to assign snap to grid to a hotkey
 press F on the keyboard type snap then
 right click toggle grid snapping and use
-the assign shortcut option oh look at
-the time
-foreign
+the assign shortcut option

@@ -24,4 +24,4 @@ Boolean Union all the solids together
 use the delete redundant topology
 command to clean up the Stray edges
 produced by the offset command earlier
-and you're all set oh look at the time
+and you're all set

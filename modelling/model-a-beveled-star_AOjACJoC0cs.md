@@ -16,5 +16,4 @@ press s for scale V for pivot place the
 scale handle at the origin and then
 scale the points in to make a star
 extrude the star and taper it to a point
-and you're all set oh look at the time
-foreign
+and you're all set

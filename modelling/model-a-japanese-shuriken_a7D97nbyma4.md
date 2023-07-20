@@ -28,5 +28,4 @@ Circle curves
 Jam for the new edges and then flatten
 the solid to your liking and you're good
 to go
-oh look at the time
-foreign
+

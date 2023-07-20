@@ -16,5 +16,4 @@ or face
 this can be extremely useful for
 orienting the Tool's handles so be sure
 to experiment with it to gain more
-control of this powerful feature oh look
-at the time
+control of this powerful feature

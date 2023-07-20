@@ -27,5 +27,4 @@ select all the faces that make up the
 gear silhouette and extrude them
 then select all edges and add chamfers
 or fillets and you're all set
-oh look at the time
-foreign
+

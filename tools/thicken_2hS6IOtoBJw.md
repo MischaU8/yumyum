@@ -14,5 +14,4 @@ lower right corner of the UI adjust the
 thickness using the handle and right
 click to commit the sheet will be
 converted into a solid and you're all
-set oh look at the time
-foreign
+set

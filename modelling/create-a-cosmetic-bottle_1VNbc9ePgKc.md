@@ -30,5 +30,4 @@ cut the solid
 assign a material to the top Solid add
 fillets to the new edges and you're all
 set
-oh look at the time
-foreign
+

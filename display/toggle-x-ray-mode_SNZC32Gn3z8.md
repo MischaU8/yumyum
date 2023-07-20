@@ -15,5 +15,4 @@ keyboard shortcut alt the disabling
 x-ray mode hides the visibility of the
 occluded elements and can Aid in
 cleaning up visual noise on dense scenes
-so be sure to add it to your toolkit oh
-look at the time
+so be sure to add it to your toolkit

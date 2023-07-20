@@ -17,5 +17,4 @@ edges and select the signed shortcut
 choose a key that works best for you
 I've chosen the tilde key which is easy
 to access use this simple setup to speed
-up working in plasticity oh look at the
-time
+up working in plasticity

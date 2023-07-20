@@ -12,6 +12,4 @@ plasticity when creating a rectangular
 box simply press the Tab Key
 to toggle between Center and Corner use
 this handy hotkey for more flexibility
-when working with these tools oh look at
-the time
-foreign
+when working with these tools

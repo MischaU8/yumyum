@@ -19,5 +19,4 @@ the shift key and use the mouse wheel to
 add or subtract cuts when you're happy
 with the preview simply left click to
 commit use this handy tool to quickly
-add additional segments to faces oh look
-at the time
+add additional segments to faces

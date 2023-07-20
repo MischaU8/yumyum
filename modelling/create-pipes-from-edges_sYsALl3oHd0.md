@@ -14,5 +14,4 @@ keyboard to activate the new body
 feature to create a new solid adjust the
 attributes to your liking and then right
 click to commit use the simple workflow
-to quickly create pipes from edges oh
-look at the time
+to quickly create pipes from edges

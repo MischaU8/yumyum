@@ -25,5 +25,4 @@ sphere mirror the two panel solids to
 create all the panels assign a color to
 all the panel solids and you're good to
 go
-oh look at the time
-foreign
+

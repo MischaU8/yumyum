@@ -17,6 +17,4 @@ then ctrl-click the counters to deselect
 them
 extrude the selected faces to make a
 solid hide the curves then add Phillips
-to the edges and you're all set oh look
-at the time
-foreign
+to the edges and you're all set

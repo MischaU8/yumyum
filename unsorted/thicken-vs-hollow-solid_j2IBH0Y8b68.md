@@ -21,6 +21,4 @@ faces which result is correct depends on
 what your needs are but this is worth
 taking note for future asset creation
 add both tools to your toolkit to expand
-your options in plasticity oh look at
-the time
-thank you
+your options in plasticity

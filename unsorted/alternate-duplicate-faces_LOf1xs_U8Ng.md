@@ -15,4 +15,4 @@ with then use the keyboard shortcut alt
 d a new solid will be created based on
 the selection use this powerful feature
 to quickly generate new solids based on
-the base geometry oh look at the time
+the base geometry

@@ -17,5 +17,4 @@ like to extrude select the face click
 the sweep icon in the lower right corner
 of the UI click the line curve then use
 the twist attribute add this workflow to
-your toolkit for future use oh look at
-the time
+your toolkit for future use

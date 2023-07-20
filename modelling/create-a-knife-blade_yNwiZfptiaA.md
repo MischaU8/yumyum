@@ -23,5 +23,4 @@ the keyboard shortcut alt X to mirror
 the blade and press Q before committing
 to Union the two solids then scale the
 blade to the thickness of your liking
-and you're all set oh look at the time
-foreign
+and you're all set

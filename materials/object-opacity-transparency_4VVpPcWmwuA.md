@@ -19,5 +19,4 @@ material you can disable this material
 attribute in the viewport by simply
 disabling the render mode use this handy
 material attribute to generate
-transparent objects oh look at the time
-foreign
+transparent objects

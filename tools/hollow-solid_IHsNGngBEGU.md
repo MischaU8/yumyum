@@ -14,6 +14,4 @@ the hollow solid icon in the lower right
 corner of the UI and adjust the
 thickness to your liking use these
 simple steps to hollow a solid
-oh
-look at the time
-foreign
+

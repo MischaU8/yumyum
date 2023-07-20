@@ -20,4 +20,4 @@ and use the hollow solid tool to create
 a shell solid
 add Phillips to all edges and you're all
 set
-oh look at the time
+

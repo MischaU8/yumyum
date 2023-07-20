@@ -20,6 +20,4 @@ freestyle option by pressing F on the
 keyboard and clicking anywhere in the
 scene to place the tool center point add
 this handy mirror option to your toolkit
-to gain more control when mirroring oh
-look at the time
-foreign
+to gain more control when mirroring

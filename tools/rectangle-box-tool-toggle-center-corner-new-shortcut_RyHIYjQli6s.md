@@ -13,5 +13,4 @@ a box simply press the updated keyboard
 shortcut C to toggle between Center and
 Corner use this handy hotkey for more
 flexibility when working with these
-tools oh look at the time
-thank you
+tools

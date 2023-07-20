@@ -22,4 +22,4 @@ main solid
 radial array the new pipe then use all
 pipes as Cutters in a Boolean difference
 operation and you're good to go
-oh look at the time
+

@@ -16,4 +16,4 @@ distances select the faces that make up
 the icon then extrude them to create a
 solid
 add fillets to the edges and you're good
-to go oh look at the time
+to go

@@ -16,5 +16,4 @@ curvature you've already established
 it's important to note that this
 functionality doesn't work on CVS use
 this powerful feature to preserve
-curvature when editing a curve oh look
-at the time
+curvature when editing a curve

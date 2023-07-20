@@ -27,4 +27,4 @@ hide the curves then Union Boolean the
 three solids into one
 add a fillet to these edges and you're
 all set
-oh look at the time
+

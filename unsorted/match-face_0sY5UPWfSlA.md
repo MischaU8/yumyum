@@ -14,5 +14,4 @@ corner of the UI next click the face
 you'd like to match and right click to
 commit use the match face command to
 replace the surface of one face with the
-surface of another oh look at the time
-foreign
+surface of another

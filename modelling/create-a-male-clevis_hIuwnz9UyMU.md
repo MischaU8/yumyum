@@ -29,5 +29,4 @@ select these edges and add a small
 fillet
 remove these two stray edges and you're
 all set
-oh look at the time
-foreign
+

@@ -15,6 +15,4 @@ option is to activate the bridge surface
 tool then click on the two faces I want
 to transition between use this simple
 process to quickly create smooth
-transitions between faces oh look at the
-time
-foreign
+transitions between faces

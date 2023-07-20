@@ -18,5 +18,4 @@ adjust the rotation pivot release the
 control key then left click and drag on
 a handle to rotate the selection use
 this handy feature to gain more control
-when using the rotate tool oh look at
-the time
+when using the rotate tool

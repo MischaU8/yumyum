@@ -12,4 +12,4 @@ press and hold the control on alt keys
 and left click a face to select parallel
 faces as well use this handy selection
 option to speed up selection and
-plasticity oh look at the time
+plasticity

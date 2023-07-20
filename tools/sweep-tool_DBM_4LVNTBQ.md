@@ -19,6 +19,4 @@ corner of the UI or press shift plus P
 then select the curve to sweep along and
 you're all set use this tool as an
 alternative to the pipe tool to sweep
-custom profiles along a curve oh look at
-the time
-foreign
+custom profiles along a curve

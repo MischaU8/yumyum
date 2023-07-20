@@ -25,4 +25,4 @@ difference operation Boolean Union the
 two solids together add large fillets to
 these edges then add fillets to all the
 other edges and you're good to go
-oh look at the time
+

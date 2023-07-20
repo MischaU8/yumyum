@@ -27,4 +27,4 @@ out to smooth the curve then scale these
 points to further smooth the Curve
 use the pipe tool to create a solid from
 the curve and you're all set
-oh look at the time
+

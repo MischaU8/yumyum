@@ -22,4 +22,4 @@ use the patch hole tool with its fill
 preference set to smooth
 with G1 continuity
 right click to commit and you're good to
-go oh look at the time
+go

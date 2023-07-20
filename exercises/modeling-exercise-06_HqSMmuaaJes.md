@@ -24,4 +24,4 @@ select all the solids and perform a
 union Boolean to create a single solid
 select all the edges and add a fillet
 and you're all set
-oh look at the time
+

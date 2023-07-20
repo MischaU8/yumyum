@@ -27,5 +27,4 @@ hide the curves select all the Border
 edges of the triangles
 and add a chamfer and you're all set use
 this simple process to add grid webbing
-detail to your assets oh look at the
-time
+detail to your assets

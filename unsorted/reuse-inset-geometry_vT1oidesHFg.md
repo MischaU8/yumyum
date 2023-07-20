@@ -17,4 +17,4 @@ duplicate command move the new solid
 into place and use it to perform a
 Boolean use this simple process to
 easily duplicate details on your assets
-oh look at the time
+

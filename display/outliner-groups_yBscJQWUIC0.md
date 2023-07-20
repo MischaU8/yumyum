@@ -22,4 +22,4 @@ dragging them in or out and to remove a
 group simply select it and press X on
 the keyboard use groups to stay
 organized while creating assets in
-plasticity oh look at the time
+plasticity

@@ -16,5 +16,4 @@ where the fillet goes use the attributes
 in the dialog to adjust the results
 spend some time experimenting with this
 powerful tool and add it to your toolkit
-to enhance asset creation oh look at the
-time
+to enhance asset creation

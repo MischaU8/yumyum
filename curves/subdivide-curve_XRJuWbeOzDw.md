@@ -15,5 +15,4 @@ clicking on the subdivide curve icon in
 the lower right corner of the UI or by
 pressing the keyboard shortcut alt one
 this can be a quick way to make denser
-curves oh look at the time
-foreign
+curves

@@ -13,5 +13,4 @@ quick way to select the edges is to
 select the solid then press Ctrl 2 to
 convert the solid selection to edges add
 this technique to your selection toolkit
-to speed up selecting in plasticity oh
-look at the time
+to speed up selecting in plasticity

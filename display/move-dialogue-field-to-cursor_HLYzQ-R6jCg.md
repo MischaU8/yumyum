@@ -13,6 +13,4 @@ active we'll move the tools dialog to
 the cursor's location when you Mouse
 away it'll return to its default
 location use this handy shortcut to cut
-down on screen travel oh look at the
-time
-okay
+down on screen travel

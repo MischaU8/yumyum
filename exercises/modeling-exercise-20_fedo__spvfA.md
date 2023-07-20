@@ -32,5 +32,4 @@ solid then remove the new solids to
 reveal the shape we're after
 add Phillips to the edges and we're good
 to go
-oh look at the time
-foreign
+

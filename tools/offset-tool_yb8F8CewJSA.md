@@ -21,4 +21,4 @@ curves offsetting edges also provides
 the lock distance option explore all of
 these options to take full advantage of
 what the offset tool has to offer to
-your workflow oh look at the time
+your workflow

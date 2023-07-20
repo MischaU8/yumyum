@@ -15,5 +15,3 @@ white ring handle to adjust the degrees
 attribute you can also draft multiple
 Faces by shift selecting the faces you'd
 like to draft as seen here
-oh look at the time
-oh

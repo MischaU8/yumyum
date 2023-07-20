@@ -14,5 +14,4 @@ Loop or press and hold the control and
 ALT key together and click on an edge to
 select an edge ring use these handy
 selection modifiers to speed up Edge
-selection oh look at the time
-thank you
+selection

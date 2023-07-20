@@ -13,5 +13,4 @@ activate the cut tool next select the
 target body then select the face to cut
 with and right click to commit use these
 simple steps to enhance your modeling
-workflow oh look at the time
-foreign
+workflow

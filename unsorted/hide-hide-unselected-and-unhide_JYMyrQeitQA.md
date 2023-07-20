@@ -15,4 +15,4 @@ unhide if you'd like to hide everything
 that's not selected use the keyboard
 shortcut shift H to hide unselected use
 these commands to help navigate heavily
-populated scenes oh look at the time
+populated scenes

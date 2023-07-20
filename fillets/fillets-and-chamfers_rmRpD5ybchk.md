@@ -15,6 +15,4 @@ generate fillets and negative values
 will create chamfers right click to
 commit you can quickly remove a fillet
 or chamfer by simply selecting it and
-using the keyboard shortcut X oh look at
-the time
-thank you
+using the keyboard shortcut X

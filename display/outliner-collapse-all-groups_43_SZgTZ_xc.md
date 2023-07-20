@@ -13,4 +13,4 @@ small carrot next to the category name
 use the carrot in the top right of the
 outliner to collapse all grooves this
 can be a handy feature to reduce visual
-noise while creating oh look at the time
+noise while creating

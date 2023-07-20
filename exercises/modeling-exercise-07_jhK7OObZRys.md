@@ -37,4 +37,4 @@ create a single solid out of the two
 solids using a union Boolean
 add fillets to all the edges and you're
 good to go
-oh look at the time
+

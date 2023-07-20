@@ -16,4 +16,4 @@ isopram tool to add edges to the three
 ends remove the corner faces patch the
 open boundary edges and you're good to
 go
-oh look at the time
+

@@ -13,5 +13,4 @@ delete operation won't remove the faces
 use the keyboard shortcut shift plus
 delete to remove the faces it's
 important to note that the solid will be
-converted into a sheet oh look at the
-time
+converted into a sheet

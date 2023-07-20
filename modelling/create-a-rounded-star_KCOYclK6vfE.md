@@ -18,5 +18,4 @@ selected points in to produce a star
 shape select all the points then press B
 and bevel the points to round off the
 star to your liking and you're all set
-oh look at the time
-foreign
+

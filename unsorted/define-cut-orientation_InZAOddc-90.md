@@ -17,4 +17,4 @@ screen space feature or simply switch to
 an orthographic view before activating
 the cut tool use either of these methods
 to achieve predictable results when
-using the cut tool oh look at the time
+using the cut tool

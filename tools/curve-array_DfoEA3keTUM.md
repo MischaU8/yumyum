@@ -17,6 +17,4 @@ use the tools attributes to adjust the
 number of duplicates twist and scale
 along the curve and the alignment method
 add this handy tool to your toolkit to
-quickly make copies along a curve oh
-look at the time
-foreign
+quickly make copies along a curve

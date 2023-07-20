@@ -12,6 +12,4 @@ key and left click on a group in the
 outliner and all items in that group
 will be selected
 use this handy option to speed up
-selection and plasticity oh look at the
-time
-foreign
+selection and plasticity

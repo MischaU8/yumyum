@@ -19,6 +19,4 @@ when designing since the silhouette is
 the most immediately recognizable and
 identifiable shape of an asset take
 advantage of this display mode to help
-aid in the design of your assets oh look
-at the time
-foreign
+aid in the design of your assets

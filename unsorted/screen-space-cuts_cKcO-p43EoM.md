@@ -18,6 +18,4 @@ select the target body that you want to
 cut into and then right click to commit
 press delete and you're all set be sure
 to experiment with this powerful feature
-to speed up asset creation oh look at
-the time
-foreign
+to speed up asset creation

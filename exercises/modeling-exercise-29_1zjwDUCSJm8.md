@@ -29,5 +29,3 @@ through the solid to create holes
 adjust the height of the back wall to
 your liking add Phillips to all edges
 and you're good to go
-oh look at the time
-thank you

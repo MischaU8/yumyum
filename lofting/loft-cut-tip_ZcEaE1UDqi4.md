@@ -16,5 +16,4 @@ option is to cut the ends away to
 produce cleaner boundary edges this will
 often produce cleaner Lofts add this tip
 to your tool kit for better lofting when
-creating your assets in plasticity oh
-look at the time
+creating your assets in plasticity

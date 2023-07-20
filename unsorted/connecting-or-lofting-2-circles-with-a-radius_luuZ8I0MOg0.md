@@ -21,4 +21,4 @@ create two line curves off the circle
 curves Loft the points then sweep the
 new curve to make a sheet experiment
 with these options and use what works
-best for you oh look at the time
+best for you

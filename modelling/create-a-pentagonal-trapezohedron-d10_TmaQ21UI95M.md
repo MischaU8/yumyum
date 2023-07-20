@@ -19,4 +19,4 @@ so that the tips line up then press Q
 for Boolean
 followed by shift e for intersect
 right-click to commit and you're all set
-oh look at the time
+

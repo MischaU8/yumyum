@@ -22,4 +22,4 @@ been trimmed simply select the two
 portions of the logo and extrude them
 next select all the construction items
 and delete them to clean things up and
-you're all set oh look at the time
+you're all set

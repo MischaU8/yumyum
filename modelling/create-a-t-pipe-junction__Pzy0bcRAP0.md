@@ -34,4 +34,4 @@ three end cap faces and use the hollow a
 solid tool to finish off the pipe with
 some thickness change the render mode to
 have a look at the finished t-pipe and
-you're good to go oh look at the time
+you're good to go

@@ -12,6 +12,4 @@ least two curves and then press the
 keyboard shortcut lofting can be a quick
 way to generate complex shapes from
 simple curves so be sure to experiment
-with this powerful modeling operation oh
-look at the time
-foreign
+with this powerful modeling operation

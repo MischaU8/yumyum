@@ -17,5 +17,4 @@ Bridges from the end point of a curve to
 a component on a solid spend some time
 experimenting with this powerful tool
 and add it to your toolkit to enhance
-asset creation and plasticity oh
-look at the time
+asset creation and plasticity

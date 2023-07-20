@@ -30,5 +30,3 @@ mirror the solid to create a duplicate
 and Boolean Union them together
 add fillets to all edges and you're good
 to go
-oh look at the time
-thank you

@@ -17,5 +17,4 @@ three axes to position all selected
 points in the same location which can be
 useful when wanting to join curves add
 these to your toolkit to speed up asset
-creation and plasticity oh look at the
-time
+creation and plasticity

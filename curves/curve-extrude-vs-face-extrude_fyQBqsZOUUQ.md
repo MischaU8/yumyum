@@ -18,5 +18,4 @@ to convert the solid to a sheet simply
 remove faces using the shift X hotkey
 be mindful of what's selected before
 extruding and you'll be in control of
-what gets generated oh look at the time
-foreign
+what gets generated

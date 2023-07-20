@@ -12,6 +12,4 @@ to use the select the Json command start
 by making a selection then press F on
 the keyboard and locate select adjacent
 this handy command can be a quick way to
-grow or expand a selection with ease oh
-look at the time
-foreign
+grow or expand a selection with ease

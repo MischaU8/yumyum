@@ -24,4 +24,4 @@ can transform along
 add this powerful feature to your
 toolkit for additional control when
 moving rotating and scaling in
-plasticity oh look at the time
+plasticity

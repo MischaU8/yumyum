@@ -16,5 +16,4 @@ simply double-clicking the name you want
 to edit in the outliner typing a new
 name and then pressing enter add this
 simple step to your workflow to speed up
-asset creation and plasticity oh look at
-the time
+asset creation and plasticity

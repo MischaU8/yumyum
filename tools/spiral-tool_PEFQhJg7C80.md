@@ -24,6 +24,4 @@ then use the white ring handle to tape
 with a spiral when you're happy with the
 results right click to commit to quickly
 turn a spiral curve into a solid press P
-for the pipe tool and you're all set oh
-look at the time
-okay
+for the pipe tool and you're all set

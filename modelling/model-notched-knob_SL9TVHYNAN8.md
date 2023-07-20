@@ -23,4 +23,4 @@ D for alternate duplicate to create a
 solid move it to create an offset then
 Boolean Union all the solids add fillets
 to all edges but in stages as seen here
-and you're all set oh look at the time
+and you're all set

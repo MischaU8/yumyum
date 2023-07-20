@@ -13,5 +13,4 @@ the handle to adjust the fillet you can
 remove the fillet by selecting the face
 and using the keyboard shortcut X use
 these options to refine the fillets on
-your assets oh look at the time
-foreign
+your assets

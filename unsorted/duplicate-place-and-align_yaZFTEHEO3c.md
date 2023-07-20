@@ -22,6 +22,4 @@ commit and place as many duplicates as
 you'd like this can be a quick way to
 place and align multiple duplicates on
 the surface of a solid so be sure to
-experiment with this powerful feature oh
-look at the time
-foreign
+experiment with this powerful feature

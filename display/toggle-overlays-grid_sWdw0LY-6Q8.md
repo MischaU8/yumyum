@@ -13,6 +13,4 @@ overlays icon in the upper right corner
 of the UI or use the keyboard shortcut
 alt shift Z use this handy display
 option to customize the appearance of
-the viewport and plasticity oh look at
-the time
-foreign
+the viewport and plasticity

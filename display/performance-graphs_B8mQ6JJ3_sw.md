@@ -22,4 +22,4 @@ part they can be useful to see what your
 Hardware performance is while using
 plasticity and they can also be useful
 information when sharing user feedback
-with the developers oh look at the time
+with the developers

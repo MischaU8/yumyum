@@ -13,5 +13,4 @@ edges you can select an edge and press
 the delete key to merge it with the
 connected Edge use this option to
 quickly merge divided edges in
-plasticity oh look at the time
-thank you
+plasticity

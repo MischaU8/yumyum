@@ -19,5 +19,4 @@ the keyboard pressing it again will
 unhide everything and focus on
 everything use these handy commands to
 improve working on densely populated
-projects oh look at the time
-foreign
+projects

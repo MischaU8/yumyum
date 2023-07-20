@@ -14,4 +14,4 @@ and press the shift key to create a
 parallel snap guide generate new
 geometry faster and more efficient using
 this powerful snapping option
-oh look at the time
+

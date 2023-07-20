@@ -14,4 +14,4 @@ the curve and create a curve for each
 segment that makes up the shape you can
 use this handy feature as an option to
 quickly split or cut curves as seen here
-oh look at the time
+

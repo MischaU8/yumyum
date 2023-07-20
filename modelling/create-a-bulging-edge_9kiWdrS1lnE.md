@@ -13,5 +13,4 @@ keyboard to activate the pipe tool press
 Q for Union adjust your liking and right
 click to commit select the intersecting
 Edge loops and generate fillets to blend
-the transition and you're good to go oh
-look at the time
+the transition and you're good to go

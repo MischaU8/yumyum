@@ -25,6 +25,4 @@ then rotate it again 180 degrees
 select both solids and perform a Boolean
 intersect operation
 add Phillips to the edges
-and you're good to go oh look at the
-time
-[Music]
+and you're good to go

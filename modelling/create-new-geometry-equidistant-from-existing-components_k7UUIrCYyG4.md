@@ -15,6 +15,4 @@ and press the shift key to create a
 temporary guide this can be extremely
 useful for aligning elements during
 asset creation so be sure to experiment
-with it and add it to your toolkit oh
-look at the time
-foreign
+with it and add it to your toolkit

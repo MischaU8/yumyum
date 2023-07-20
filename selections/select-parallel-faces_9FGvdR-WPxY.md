@@ -12,6 +12,4 @@ and hold the control alt keys and left
 click on a face all parallel faces will
 be selected add the selection method to
 your toolkit to speed up selecting faces
-oh
-look at the time
-foreign
+

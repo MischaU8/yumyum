@@ -14,5 +14,4 @@ curve where you'd like to add a point
 clicking on a solid body Edge will split
 the edge into multiple edges use this
 handy tool to add points to Curves and
-split edges oh look at the time
-thank you
+split edges

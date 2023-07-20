@@ -33,5 +33,4 @@ so select the cube press Q for Boolean
 then select the cylinder and right click
 to commit use the original cylinder
 anytime you need to add an inset screw
-and you're all set oh look at the time
-foreign
+and you're all set

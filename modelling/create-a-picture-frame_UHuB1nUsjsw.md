@@ -18,6 +18,4 @@ lower right corner of the UI or use the
 keyboard shortcut shift p select the
 rectangle curve and you're all set
 experiment with different profile curves
-for an endless variety of frames oh look
-at the time
-foreign
+for an endless variety of frames

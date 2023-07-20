@@ -14,5 +14,4 @@ the tangency display pop up when using
 splines use control point splines for
 the cleanest results take advantage of
 this powerful feature when creating
-Curves in plasticity oh look at the time
-thank you
+Curves in plasticity

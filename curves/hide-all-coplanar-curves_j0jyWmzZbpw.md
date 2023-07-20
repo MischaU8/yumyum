@@ -12,6 +12,4 @@ hide all curves that are on the same
 plane simply select the curve and use
 the keyboard shortcut H this can be a
 quick way to hide construction curves
-without deleting them from the scene oh
-look at the time
-foreign
+without deleting them from the scene

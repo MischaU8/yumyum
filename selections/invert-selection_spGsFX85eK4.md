@@ -12,4 +12,4 @@ quickly switch the selection state of
 all solid sheets and Curves in a scene
 use the keyboard shortcut alt a use this
 handy shortcut to speed up selecting in
-plasticity oh look at the time
+plasticity

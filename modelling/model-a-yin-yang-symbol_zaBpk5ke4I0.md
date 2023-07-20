@@ -20,4 +20,4 @@ fillets to the edges then duplicate the
 solid and rotate it 180 degrees select
 one of the solids and change its
 material attributes to your liking and
-you're all set oh look at the time
+you're all set

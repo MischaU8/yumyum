@@ -18,5 +18,4 @@ key to lock distances select all faces
 then deselect the counter faces
 extrude the selected faces hide the
 curves then add fillets to all the
-curves and you're all set oh look at the
-time
+curves and you're all set

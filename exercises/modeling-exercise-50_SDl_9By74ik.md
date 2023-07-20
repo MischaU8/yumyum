@@ -24,5 +24,4 @@ corner edges create a rectangle curve
 and use it to cut the solid then remove
 the curve in the middle solid add
 Phillips to all edges and you're all set
-oh look at the time
-foreign
+

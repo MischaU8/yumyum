@@ -21,5 +21,4 @@ shortcut J to join them into a single
 curve select the curve and press p on
 the keyboard to activate the pipe tool
 adjust the section size attribute to
-your liking and you're all set oh look
-at the time
+your liking and you're all set

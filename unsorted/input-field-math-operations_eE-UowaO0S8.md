@@ -15,4 +15,4 @@ subtract
 multiply
 or divide and the result will be applied
 use this handy feature as your built-in
-calculator oh look at the time
+calculator

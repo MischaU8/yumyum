@@ -25,4 +25,4 @@ use the keyboard shortcut alt X to
 mirror the sheet then join the two
 sheets into one use the thickened sheet
 tool to give the pipe some thickness and
-you're all set oh look at the time
+you're all set

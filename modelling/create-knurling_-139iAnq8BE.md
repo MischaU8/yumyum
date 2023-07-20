@@ -31,4 +31,4 @@ followed by all the pipe solids then
 press Q for Boolean and perform a
 Boolean difference
 your knurling is all set
-oh look at the time
+

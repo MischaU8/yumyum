@@ -35,4 +35,4 @@ array and select the curve as the path
 hold down the shift key and use the
 mouse wheel to increase the number of
 duplicates
-and you're all set oh look at the time
+and you're all set

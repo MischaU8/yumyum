@@ -18,6 +18,4 @@ line art this can be useful to reduce
 the visual noise on assets made up of
 many components so take advantage of
 this display mode to help aid in the
-design of your assets oh look at the
-time
-foreign
+design of your assets

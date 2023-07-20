@@ -26,4 +26,4 @@ Union operation run the delete redundant
 topology command to clean up the mesh
 then add Phillips to all edges and
 you're good to go
-oh look at the time
+

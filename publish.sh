@@ -1,4 +1,7 @@
 #!/bin/bash
+set -e
+
+pipenv run ./create_db.py
 
 pipenv run datasette publish vercel _data/yumyum.db \
     --project yumyum \

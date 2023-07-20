@@ -23,6 +23,5 @@ new face into the solid to create a slot
 then select the solid press Ctrl 2 to
 convert the selection to edges add
 fillets and you're good to go
-oh look at the time
-foreign
+
 [Music]

@@ -20,4 +20,4 @@ use the patch holes command to convert
 the sheet into a solid then select the
 two solids and perform a union Boolean
 to create a single solid and you're good
-to go oh look at the time
+to go

@@ -18,4 +18,4 @@ then simply remove the faces you'd like
 to rebuild
 and use the patch hole tool and you're
 all set
-oh look at the time
+

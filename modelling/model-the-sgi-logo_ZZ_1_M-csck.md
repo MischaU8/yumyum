@@ -30,4 +30,4 @@ create a new curve
 Press B to Bevel the points
 then press P to use the pipe tool to
 create a solid and you're good to go
-oh look at the time
+

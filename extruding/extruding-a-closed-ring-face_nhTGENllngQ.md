@@ -14,5 +14,4 @@ try pressing shift d to create a sheet
 then use the thicken tool to thicken the
 sheet and create a solid then select
 both solids and perform a Boolean Union
-operation and you're good to go oh look
-at the time
+operation and you're good to go

@@ -22,6 +22,4 @@ bodies press the keyboard shortcut queue
 to perform a Boolean Union this powerful
 feature enables you to spend less time
 constructing on symmetrical assets and
-can also be useful to explore shapes oh
-look at the time
-foreign
+can also be useful to explore shapes

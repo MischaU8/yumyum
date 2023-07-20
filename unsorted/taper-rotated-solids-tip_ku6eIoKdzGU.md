@@ -15,4 +15,4 @@ the solid changes size as well if this
 isn't the result you're after
 use the draft face tool to achieve a
 taper at one end without affecting the
-other end oh look at the time
+other end

@@ -28,4 +28,4 @@ make a solid
 hide all the construction curves then
 add fillets to all the edges and you're
 all set
-oh look at the time
+

@@ -19,5 +19,4 @@ disabled in viewport will remain hidden
 even when the unhide all keyboard
 shortcut alt H is used use a combination
 of these two options to allow for more
-visual scene control oh look at the time
-okay
+visual scene control

@@ -26,5 +26,4 @@ the solid rotate it 180 degrees and move
 it into place select both solids and use
 the rectangular array tool to generate
 as many duplicates as you'd like and
-you're good to go oh look at the time
-okay
+you're good to go

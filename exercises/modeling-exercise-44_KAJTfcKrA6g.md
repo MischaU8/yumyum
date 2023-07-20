@@ -20,4 +20,4 @@ create a new body by extruding this face
 and pressing B
 scale the new body Boolean Union all the
 solids then add fillets to all edges and
-you're good to go oh look at the time
+you're good to go

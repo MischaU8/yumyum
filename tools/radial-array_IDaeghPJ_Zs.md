@@ -21,5 +21,4 @@ happy with the results right click in
 the view or click OK take advantage of
 this handy feature to quickly create
 evenly spaced duplicates in a radio
-pattern oh look at the time
-foreign
+pattern

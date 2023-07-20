@@ -19,5 +19,4 @@ toggle between locked and unlocked
 disabling selection in the viewport can
 be extremely useful in densely populated
 scenes so be sure to make note of this
-handy option oh look at the time
-foreign
+handy option

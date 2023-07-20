@@ -25,6 +25,4 @@ curve array the other solid with the
 same duplicate count then delete every
 other duplicate and your chain is ready
 to go
-oh
-look at the time
-foreign
+

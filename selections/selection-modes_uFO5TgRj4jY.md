@@ -25,4 +25,4 @@ use control 2 I can convert the face
 selection to an edge selection selection
 plays a large role in asset creation so
 you'll want to be familiar with these
-options oh look at the time
+options

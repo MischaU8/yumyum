@@ -22,5 +22,4 @@ profile curve Press B to Bevel the
 points e to extrude it and tab to
 activate the lock distances thicken the
 sheet add fillets to all edges and
-you're good to go oh look at the time
-foreign
+you're good to go

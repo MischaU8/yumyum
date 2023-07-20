@@ -16,5 +16,4 @@ to save the file as a step file next
 open plasticity and import the file into
 your scene and you're all set use this
 handy tool to import your illustrator
-art into plasticity oh look at the time
-foreign
+art into plasticity

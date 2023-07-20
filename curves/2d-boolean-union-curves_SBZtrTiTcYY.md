@@ -12,6 +12,4 @@ the same plane that overlap you can
 generate a 2d Boolean Union result by
 selecting the faces and pressing shift d
 on the keyboard this can be a quick way
-to generate more complex shapes oh look
-at the time
-okay
+to generate more complex shapes

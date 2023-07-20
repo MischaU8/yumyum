@@ -17,5 +17,4 @@ shift X to delete them
 select the boundary edges and use the
 patch hole tool to re-patch the surface
 repeat the steps for these three faces
-and you're all set oh look at the time
-foreign
+and you're all set

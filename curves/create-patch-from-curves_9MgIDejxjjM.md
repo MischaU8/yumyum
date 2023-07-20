@@ -16,4 +16,4 @@ curves start by joining the curves using
 the keyboard shortcut J then click the
 create patch from curves button use this
 handy command to quickly generate sheets
-from curves oh look at the time
+from curves

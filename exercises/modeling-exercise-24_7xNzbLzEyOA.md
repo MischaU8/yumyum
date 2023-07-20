@@ -41,4 +41,4 @@ then radial array with a count of three
 perform another Boolean difference
 operation add Phillips to the new edges
 and you're good to go
-oh look at the time
+

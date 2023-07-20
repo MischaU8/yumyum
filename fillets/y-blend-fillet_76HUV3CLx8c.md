@@ -15,4 +15,4 @@ results may be undesirable enabling the
 Y blend attribute attempts to create a
 wide blend which produces better patch
 topology add this to your tool kit for
-cleaner fillets oh look at the time
+cleaner fillets

@@ -15,5 +15,4 @@ three dot icon next to the toggle and
 choose which components you'd like to
 toggle on and off use these options to
 refine snapping when creating and
-editing geometry and plasticity oh look
-at the time
+editing geometry and plasticity

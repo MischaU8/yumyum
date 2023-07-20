@@ -37,4 +37,4 @@ select both solids and press Q twice to
 perform a Boolean Union
 then add fillets to the new edges
 and you're good to go
-oh look at the time
+

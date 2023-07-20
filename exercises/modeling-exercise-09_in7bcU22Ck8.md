@@ -37,5 +37,4 @@ then use the thickened sheets tool to
 convert the sheets into solids and give
 them thickness move the two solids
 together and you're all set
-oh look at the time
-foreign
+

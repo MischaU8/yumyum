@@ -38,5 +38,4 @@ then create a sphere at the origin and
 flatten it with the scale tool
 make a duplicate for the other side and
 you're good to go
-oh look at the time
-foreign
+

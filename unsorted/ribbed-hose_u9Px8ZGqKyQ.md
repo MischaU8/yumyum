@@ -21,5 +21,4 @@ select all the edges and add a fillet
 press M to assign a material adjust its
 attributes and click ok
 use this simple process to create a
-ribbed hose oh look at the time
-foreign
+ribbed hose

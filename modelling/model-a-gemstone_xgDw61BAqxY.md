@@ -24,4 +24,4 @@ of three then select all sheets and
 press J to join them use the patch tool
 to fill the holes and create a solid
 and you're all set
-oh look at the time
+

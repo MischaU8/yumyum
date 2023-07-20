@@ -24,4 +24,4 @@ select and remove the faces on the
 inside of the cup
 then add Phillips to the handle edges
 and you're good to go
-oh look at the time
+

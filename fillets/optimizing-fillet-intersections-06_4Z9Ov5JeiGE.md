@@ -18,4 +18,4 @@ then select the boundary edges and use
 the patch hole tool with the fill
 preference set to smooth to finish the
 process
-oh look at the time
+

@@ -26,5 +26,3 @@ solid and use it as a cutter for a
 Boolean difference operation add
 Phillips to all the edges and you're
 good to go
-oh look at the time
-okay

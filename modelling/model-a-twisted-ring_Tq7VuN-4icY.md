@@ -16,5 +16,4 @@ formation
 move them over to the original curve
 then use the sweep tool and enter 2080
 for the twist attribute
-hide the curves and you're all set oh
-look at the time
+hide the curves and you're all set

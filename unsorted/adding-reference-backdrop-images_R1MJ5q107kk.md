@@ -28,5 +28,4 @@ single group you can quickly lock or
 hide them by locking and hiding the
 group use this simple setup to work with
 reference images during the creation of
-your assets oh look at the time
-foreign
+your assets

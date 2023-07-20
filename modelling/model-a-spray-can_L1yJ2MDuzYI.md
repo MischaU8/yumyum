@@ -30,5 +30,3 @@ shift d to create a new sheet from it
 use the thickened sheet tool to create a
 solid press M to adjust the material
 attributes and you're all set
-oh look at the time
-thank you

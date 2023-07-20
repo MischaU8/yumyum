@@ -18,5 +18,4 @@ then name your new files the same name
 as the files you're replacing restart
 plasticity and your new maccap is ready
 to use
-oh look at the time
-foreign
+

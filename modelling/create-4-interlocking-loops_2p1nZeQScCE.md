@@ -19,4 +19,4 @@ select each curve press P to activate
 the pipe tool and change the section
 size attribute to .075 use the simple
 process to generate four symmetrically
-clustered Loops oh look at the time
+clustered Loops

@@ -15,5 +15,4 @@ the curve such as the middle of the
 curve and quarter and three quarter
 positions on the Curve
 use this handy option for more accurate
-placement of control points on curves oh
-look at the time
+placement of control points on curves

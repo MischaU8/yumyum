@@ -14,6 +14,4 @@ curves and press J on the keyboard to
 create a single curve if you don't want
 the transition to be linear simply
 double-click on the point where the two
-curves intersect and you're all set oh
-look at the time
-foreign
+curves intersect and you're all set

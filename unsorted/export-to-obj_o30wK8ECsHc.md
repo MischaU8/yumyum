@@ -23,5 +23,4 @@ a higher resolution mesh use these two
 attributes and the others to dial in the
 quality you're after and press OK loaded
 in your choice of rendering software and
-you're all set oh look at the time
-thank you
+you're all set

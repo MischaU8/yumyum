@@ -18,5 +18,4 @@ make a sheet mirror the new sheet select
 the boundary edges and press L to Loft
 them
 join the sheets to make a solid and
-you're all set oh look at the time
-foreign
+you're all set

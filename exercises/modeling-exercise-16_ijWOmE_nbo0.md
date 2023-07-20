@@ -25,4 +25,4 @@ use the new solids to perform a Boolean
 difference operation on the main solid
 add fillets to all edges and you're good
 to go
-oh look at the time
+

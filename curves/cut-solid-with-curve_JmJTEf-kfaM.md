@@ -17,6 +17,4 @@ followed by the curve and then click OK
 the result will be two solids separated
 where the curve intersected the target
 solid use this powerful feature to
-quickly cut solids with curves oh look
-at the time
-foreign
+quickly cut solids with curves

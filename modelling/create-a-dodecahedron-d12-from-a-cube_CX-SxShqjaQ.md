@@ -35,5 +35,3 @@ cut the cube with the curves and delete
 the corner solids
 then simply delete the curves and your
 dodecahedron is ready to go
-oh look at the time
-thank you

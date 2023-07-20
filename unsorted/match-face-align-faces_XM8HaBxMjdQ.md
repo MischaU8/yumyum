@@ -14,6 +14,4 @@ face you'd like to match or align with
 and right click to commit this can be an
 extremely useful tool for aligning items
 so be sure to spend some time
-experimenting with it oh look at the
-time
-foreign
+experimenting with it

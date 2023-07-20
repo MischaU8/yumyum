@@ -17,5 +17,4 @@ then extrude the line to create a sheet
 select the original face activate the
 match face tool select the reference
 sheet and you're all set
-oh look at the time
-foreign
+

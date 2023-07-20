@@ -18,4 +18,4 @@ the degrees attribute or simply type in
 the value you'd like to use follow these
 simple steps to take advantage of the
 power of the revolve tool
-oh look at the time
+

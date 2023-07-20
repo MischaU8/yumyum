@@ -15,5 +15,4 @@ disabling the selection attribute add
 tangent edges
 use this handy attribute to add or
 remove tangent edges when adding fillets
-to your assets oh look at the time
-foreign
+to your assets

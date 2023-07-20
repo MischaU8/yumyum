@@ -22,5 +22,4 @@ again to remove a material
 select an object that has a material and
 then press alt M use these keyboard
 shortcuts to quickly add and remove
-materials oh look at the time
-okay
+materials

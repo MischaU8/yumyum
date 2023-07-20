@@ -22,5 +22,4 @@ launch the application you assigned the
 pi menu to and use the hotkey to access
 the menu use this handy tool to add Pi
 menus and enhance your workflow to any
-application oh look at the time
-foreign
+application

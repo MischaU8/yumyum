@@ -31,6 +31,4 @@ offset the new face then create fillets
 On the Border Edge loops and you're all
 set use this simple method to generate a
 tennis ball seam or similar details such
-as curved panel seams on your assets oh
-look at the time
-foreign
+as curved panel seams on your assets

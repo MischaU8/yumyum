@@ -13,6 +13,4 @@ select the cap Edge start creating a
 fillet then click the side of the
 cylinder to produce a rounded cap use
 this handy workflow to speed up asset
-creation and plasticity oh look at the
-time
-foreign
+creation and plasticity

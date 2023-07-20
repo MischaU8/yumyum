@@ -18,4 +18,4 @@ click the point to change which portion
 of the edge is affected add this
 powerful feature to your toolkit for
 additional control when adding chamfers
-and fillets oh look at the time
+and fillets

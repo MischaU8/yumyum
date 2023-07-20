@@ -15,5 +15,4 @@ one you want to slice simply select the
 face before activating the tool and the
 cut will be limited to that face use
 this workflow to get the result you're
-after every time oh look at the time
-okay
+after every time

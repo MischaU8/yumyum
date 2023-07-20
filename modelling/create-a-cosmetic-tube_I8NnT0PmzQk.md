@@ -18,5 +18,4 @@ Circle curve to create a solid extrude
 the top curve then hide all the curves
 add fillets to the bottom edges and
 you're good to go
-oh look at the time
-foreign
+

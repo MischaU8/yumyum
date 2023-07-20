@@ -20,5 +20,4 @@ like to clean
 and press shift X to delete them select
 the boundary edges and use the patch
 hole tool with the fill preference set
-to smooth and you're all set oh look at
-the time
+to smooth and you're all set

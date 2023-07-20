@@ -28,5 +28,4 @@ and a hole through the front of the
 solid
 add Phillips to all edges and you're
 good to go
-oh look at the time
-foreign
+

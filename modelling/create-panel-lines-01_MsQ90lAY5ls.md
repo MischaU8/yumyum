@@ -18,5 +18,4 @@ to cut
 then select the edges on each solid and
 add fillets
 repeat this process for additional panel
-lines and you're all set oh look at the
-time
+lines and you're all set

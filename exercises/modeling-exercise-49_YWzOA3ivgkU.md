@@ -19,4 +19,4 @@ rectangle curve create a new rectangle
 curve and use it as a cutter then remove
 the curve in the middle solid add
 Phillips tall edges and you're good to
-go oh look at the time
+go

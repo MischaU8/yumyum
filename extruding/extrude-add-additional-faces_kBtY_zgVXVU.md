@@ -14,5 +14,4 @@ key on the keyboard and select
 additional faces to include them in the
 operation add the simple modifier to
 your extruding workflow to speed up
-asset creation oh look at the time
-foreign
+asset creation

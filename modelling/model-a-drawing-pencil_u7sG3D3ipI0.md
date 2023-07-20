@@ -21,5 +21,4 @@ cut the tip of the solid then adjust the
 material attribute to the tip
 chamfer these edges and feel free to
 lengthen the body of the pencil to your
-liking and you're all set oh look at the
-time
+liking and you're all set

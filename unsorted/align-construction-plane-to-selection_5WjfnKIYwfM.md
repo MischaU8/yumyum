@@ -21,5 +21,4 @@ aligned to the selection and the camera
 will be aligned to the construction
 plane experiment with each of these
 options as both can be useful when
-creating assets oh look at the time
-foreign
+creating assets

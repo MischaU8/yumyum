@@ -14,5 +14,4 @@ retain the tools use the keyboard
 shortcut T to activate the keep tools
 feature this can be an extremely handy
 option so be sure to add it to your
-toolkit oh look at the time
-foreign
+toolkit

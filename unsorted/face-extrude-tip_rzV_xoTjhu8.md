@@ -17,5 +17,4 @@ skipping that step and simply extruding
 the faces that make up the shape keep
 this basic concept in mind when
 constructing your assets to save time
-and work smarter oh look at the time
-foreign
+and work smarter

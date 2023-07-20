@@ -15,4 +15,4 @@ is where rebuild curve can come in handy
 simply select the curve press F on the
 keyboard and click rebuild curve this
 will result in a cleaner curve using
-less control points oh look at the time
+less control points

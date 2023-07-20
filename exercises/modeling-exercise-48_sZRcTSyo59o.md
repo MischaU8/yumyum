@@ -17,5 +17,4 @@ select these faces and extrude them with
 lock distances enabled select the solid
 press Ctrl 2 to convert the selection to
 edges then add Phillips to all edges and
-you're all set oh look at the time
-foreign
+you're all set

@@ -17,4 +17,4 @@ space bar this will align the view to
 your selection and create a temporary
 construction plane use this handy
 workflow to enhance asset creation and
-plasticity oh look at the time
+plasticity

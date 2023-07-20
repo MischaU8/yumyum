@@ -25,5 +25,4 @@ Boolean Union them together
 select the end faces and use the hollow
 solid tool to finish off the pipe and
 you're good to go
-oh look at the time
-foreign
+

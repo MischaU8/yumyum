@@ -14,6 +14,4 @@ the selected face pressing F on the
 keyboard activates the freestyle option
 which enables you to Define an arbitrary
 axis use this handy feature for more
-freedom when extruding oh look at the
-time
-okay
+freedom when extruding

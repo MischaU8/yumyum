@@ -16,4 +16,4 @@ the calling attribute front only will
 hide the image on the back side of the
 image plane take advantage of this handy
 option when working with images in
-plasticity oh look at the time
+plasticity

@@ -19,5 +19,4 @@ recall the saved construction plane
 simply click on it double-clicking it
 will align the plane to the camera
 to remove a custom plane select it and
-press delete oh look at the time
-foreign
+press delete

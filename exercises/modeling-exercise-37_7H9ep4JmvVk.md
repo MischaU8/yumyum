@@ -37,4 +37,4 @@ then Boolean Union all the solids
 add fillets to these Corner edges then
 add fillets to all edges and you're good
 to go
-oh look at the time
+

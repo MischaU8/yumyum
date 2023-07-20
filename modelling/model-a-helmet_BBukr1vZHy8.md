@@ -25,4 +25,4 @@ outer face and press shift d to create a
 new sheet thicken the sheet then add
 fillets to the outer edges and you're
 all set
-oh look at the time
+

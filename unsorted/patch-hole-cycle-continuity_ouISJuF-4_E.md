@@ -16,5 +16,4 @@ also cycle through the options by simply
 pressing the Tab Key this saves on
 screen travel and enables you to quickly
 see which option works best for your
-needs oh look at the time
-okay
+needs

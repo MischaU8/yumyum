@@ -16,6 +16,4 @@ tube
 to use a custom profile click the select
 custom profile option and then click a
 curve use this handy tool to quickly
-create tubes cables pipes and more oh
-look at the time
-foreign
+create tubes cables pipes and more

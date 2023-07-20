@@ -27,5 +27,4 @@ then create a fillet to round off the
 inner Edge add Phillips to the other
 edges
 and your base midsole is ready for
-detailing oh look at the time
-foreign
+detailing

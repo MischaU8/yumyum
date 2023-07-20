@@ -17,5 +17,4 @@ then use the rectangular array tool to
 duplicate the pair horizontally
 use the rectangular array tool again to
 duplicate the pair vertically and you're
-all set oh look at the time
-foreign
+all set

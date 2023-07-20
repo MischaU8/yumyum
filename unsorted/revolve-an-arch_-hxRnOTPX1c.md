@@ -29,5 +29,4 @@ the two solids then press Q on the
 keyboard twice and right click to
 Boolean them together and create a
 single solid
-oh look at the time
-foreign
+

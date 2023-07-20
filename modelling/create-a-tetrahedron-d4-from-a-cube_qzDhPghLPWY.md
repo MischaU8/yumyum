@@ -19,5 +19,4 @@ three faces that make up Each corner
 using the keyboard shortcut shift X
 and use patch holes to cap the open
 edges hidden in the center of the cube
-will be a tetrahedron oh look at the
-time
+will be a tetrahedron

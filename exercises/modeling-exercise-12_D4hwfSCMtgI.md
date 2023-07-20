@@ -35,5 +35,3 @@ Boolean difference operations with the
 main solid as the target
 select all edges and add fillets and
 you're good to go
-oh look at the time
-thank you

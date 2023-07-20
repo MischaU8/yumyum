@@ -17,4 +17,4 @@ liking right click to commit and you're
 all set with the thickness attribute you
 can extrude a boundary or wall instead
 of extruding the entire region of the
-face oh look at the time
+face

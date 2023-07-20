@@ -17,4 +17,4 @@ solid then select edges on the solid and
 press P to activate the pipe tool set
 the vertex count to 3 adjust the section
 size to your liking and you're good to
-go oh look at the time
+go

@@ -38,5 +38,4 @@ second click is the end of the arc and
 the third click defines the height spend
 some time experimenting with all of
 these options so that you're ready to
-use them when needed oh look at the time
-foreign
+use them when needed

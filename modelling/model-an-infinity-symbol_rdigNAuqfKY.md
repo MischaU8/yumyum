@@ -18,5 +18,4 @@ rotate them 45 degrees the opposite
 direction
 select the curve and press P to create a
 pipe and you're all set
-oh look at the time
-foreign
+

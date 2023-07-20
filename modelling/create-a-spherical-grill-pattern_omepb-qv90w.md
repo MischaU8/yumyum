@@ -30,4 +30,4 @@ face then delete the top and sides of
 the solid to create a sheet
 hide the Curves in your spherical Grille
 pattern is ready to go
-oh look at the time
+

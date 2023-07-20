@@ -12,6 +12,4 @@ select the faces you'd like to produce a
 new curve from and use the keyboard
 shortcut shift d to generate a new curve
 use this handy tip to quickly create
-clean curves from overlapping curves oh
-look at the time
-okay
+clean curves from overlapping curves

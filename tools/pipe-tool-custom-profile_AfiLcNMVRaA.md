@@ -14,5 +14,4 @@ enable the custom profile option and
 click the profile curve you'd like to
 use add this handy option to your
 toolkit for added functionality when
-using the pipe tool oh look at the time
-foreign
+using the pipe tool

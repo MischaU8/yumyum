@@ -23,6 +23,4 @@ select the art curve to use it as a
 guide using guide curves with the patch
 tool can be a great alternative to
 lofting so be sure to experiment with it
-and add it to your toolkit oh look at
-the time
-thank you
+and add it to your toolkit

@@ -11,4 +11,4 @@ plasticity to select all curves that are
 on the same plane simply press and hold
 the ALT key then left click on a curve
 use this selection technique to speed up
-selecting curves oh look at the time
+selecting curves

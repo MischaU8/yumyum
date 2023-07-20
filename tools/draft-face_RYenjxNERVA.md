@@ -15,5 +15,4 @@ use the keyboard shortcut shift s then
 select the face to be angled or shift
 select multiple faces adjust the degrees
 attribute to angle the faces relative to
-the reference face oh
-look at the time
+the reference face

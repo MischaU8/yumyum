@@ -12,6 +12,4 @@ with the rotate tool you can reset or
 realign the rotation handles to World
 Space by pressing the keyboard shortcut
 W use this handy feature to gain more
-control when using the rotate tool oh
-look at the time
-foreign
+control when using the rotate tool

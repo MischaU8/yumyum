@@ -16,5 +16,4 @@ this enables you to make significant
 changes at any time freeing you to
 explore unlimited options be sure to
 take advantage of this freedom to
-experiment in plasticity oh look at the
-time
+experiment in plasticity

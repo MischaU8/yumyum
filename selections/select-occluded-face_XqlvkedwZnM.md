@@ -16,4 +16,4 @@ the face you want to select is
 pre-highlighted release the mouse button
 and you're all set use this handy
 selection method to speed up selecting
-faces oh look at the time
+faces

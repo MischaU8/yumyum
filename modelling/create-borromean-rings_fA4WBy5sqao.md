@@ -19,5 +19,4 @@ duplicate the solid again and rotate the
 new solid into place select all faces
 and offset them to increase their
 diameter to your liking and you're all
-set oh look at the time
-foreign
+set

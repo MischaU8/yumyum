@@ -26,4 +26,4 @@ to your liking and commit make two
 duplicates and move them into place and
 you're all set
 add this simple process to your toolkit
-to generate braids oh look at the time
+to generate braids

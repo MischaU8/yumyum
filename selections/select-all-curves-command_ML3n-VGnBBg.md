@@ -18,4 +18,4 @@ command and for even faster access to
 this powerful command assign it to a
 custom hotkey add this handy command to
 your toolkit to enhance your modeling
-workflow oh look at the time
+workflow

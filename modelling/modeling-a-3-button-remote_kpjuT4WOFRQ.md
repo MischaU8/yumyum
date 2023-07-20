@@ -51,5 +51,4 @@ button cavities
 then use the final Circle curve to punch
 a hole in the main solid
 add Phillips to the new hole and you're
-all set oh look at the time
-okay
+all set

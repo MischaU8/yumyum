@@ -23,6 +23,4 @@ tool for the standard Boolean difference
 operation this is only one example of
 how you can use the project curve onto
 surface feature so be sure to experiment
-with this powerful option oh look at the
-time
-foreign
+with this powerful option

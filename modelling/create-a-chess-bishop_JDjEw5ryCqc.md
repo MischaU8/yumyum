@@ -19,4 +19,4 @@ followed by the curve and press C to
 perform a cut
 delete the notch solid select the notch
 boundary edges and add a fillet and
-you're good to go oh look at the time
+you're good to go

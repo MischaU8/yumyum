@@ -18,5 +18,4 @@ all set another option is to create a
 180 art curve using the center point Arc
 tool and use it to cut the main solid
 explore both options and use what works
-best for you oh look at the time
-foreign
+best for you

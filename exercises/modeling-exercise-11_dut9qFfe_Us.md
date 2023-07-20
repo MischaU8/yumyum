@@ -43,5 +43,4 @@ cutter for a Boolean difference
 operation
 select all edges and add fillets and
 you're all set
-oh look at the time
-foreign
+

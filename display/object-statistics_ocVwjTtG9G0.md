@@ -20,6 +20,4 @@ changing selection mode will change the
 information displayed as well use these
 object statistics to help determine how
 many items you have selected their
-volume length and geometric Center oh
-look at the time
-foreign
+volume length and geometric Center

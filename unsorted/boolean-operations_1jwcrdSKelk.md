@@ -30,5 +30,4 @@ retains both the tool and Target but
 slices both generating the intersecting
 geometry as well experiment with all of
 these options to take full advantage of
-booleans oh look at the time
-foreign
+booleans

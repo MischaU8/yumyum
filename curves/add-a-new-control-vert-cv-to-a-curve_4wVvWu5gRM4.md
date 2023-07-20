@@ -15,4 +15,4 @@ again and press alt 1 to subdivide it
 this will bring back the control verbs
 then double click on the new point to
 convert it to a control point and you're
-good to go oh look at the time
+good to go

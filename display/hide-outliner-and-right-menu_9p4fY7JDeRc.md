@@ -11,4 +11,4 @@ plasticity if you'd like to maximize the
 viewport use the keyboard shortcut Ctrl
 B to hide the outliner in right menu
 re-fire the command to bring them back
-oh look at the time
+

@@ -15,4 +15,4 @@ to an edge selection then press shift d
 to convert The Edge selection to Curves
 use this simple process to quickly
 generate curves from edges in plasticity
-oh look at the time
+

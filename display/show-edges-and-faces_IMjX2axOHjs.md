@@ -17,4 +17,4 @@ my asset you can also Disable face
 visibility with the show faces button
 use these two options to customize how
 your assets are displayed in the
-viewport oh look at the time
+viewport

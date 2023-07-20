@@ -26,4 +26,4 @@ select both solids and press Q twice to
 perform a Boolean Union adjust the root
 of the threading to your liking add a
 chamfer to the crest and you're all set
-oh look at the time
+

@@ -25,4 +25,4 @@ C to cut
 delete the curve in the new solid then
 add a fillet to all edges and you're
 good to go
-oh look at the time
+

@@ -20,4 +20,4 @@ these edges
 cut holes in the lower corners of the
 solid
 add fillets to all edges and you're good
-to go oh look at the time
+to go

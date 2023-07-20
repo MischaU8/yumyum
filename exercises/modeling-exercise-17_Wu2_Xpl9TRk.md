@@ -22,4 +22,4 @@ then radial array it with a count of six
 select the faces and extrude them to
 make a solid hide the curves then add
 fillets to the edges and you're good to
-go oh look at the time
+go
