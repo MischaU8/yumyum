@@ -1,0 +1,16 @@
+{% extends "yumyum_base.html" %}
+
+{% block title %}{% if title %}{{ title }}{% else %}Error {{ status }}{% endif %}{% endblock %}
+
+{% block extra_head %}
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+<script>plausible('404', {props: {path: document.location.pathname}})</script>
+{% endblock %}
+
+{% block body %}
+
+<h1>{% if title %}{{ title }}{% else %}Error {{ status }}{% endif %}</h1>
+
+<div style="padding: 1em; margin: 1em 0; border: 3px solid red;">{{ error }}</div>
+
+{% endblock %}
