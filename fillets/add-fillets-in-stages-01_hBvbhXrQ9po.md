@@ -13,7 +13,7 @@ in most of my previous videos but for
 instances we're attempting to add
 fillets to all edges fails or produces
 undesirable results as with this example
-my recommendation is to add the Phillips
+my recommendation is to add the fillets
 and stages by breaking the process up
 you can usually achieve the results
 you're after and you can also gain more

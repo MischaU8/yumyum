@@ -18,5 +18,5 @@ target remove the two side solids in the
 rectangle curve create a new rectangle
 curve and use it as a cutter then remove
 the curve in the middle solid add
-Phillips tall edges and you're good to
+fillets to all edges and you're good to
 go

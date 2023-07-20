@@ -23,5 +23,4 @@ offset these two faces fill up the
 corner edges create a rectangle curve
 and use it to cut the solid then remove
 the curve in the middle solid add
-Phillips to all edges and you're all set
-
+fillets to all edges and you're all set

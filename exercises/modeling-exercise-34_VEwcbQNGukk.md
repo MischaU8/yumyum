@@ -24,5 +24,5 @@ thickened tool to create a solid create
 a circle curve extrude it through the
 solid and use it as a cutter for a
 Boolean difference operation add
-Phillips to all the edges and you're
+fillets to all the edges and you're
 good to go

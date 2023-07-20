@@ -11,7 +11,7 @@ start by creating a cylinder then select
 and offset the top face using the
 keyboard shortcut o push the face down
 to create the Cup's cavity then add
-Phillips to all the edges
+fillets to all the edges
 create a circle curve on the side of the
 cup scale it to create an oval shape
 then offset it using the keyboard
@@ -24,4 +24,3 @@ select and remove the faces on the
 inside of the cup
 then add fillets to the handle edges
 and you're good to go
-

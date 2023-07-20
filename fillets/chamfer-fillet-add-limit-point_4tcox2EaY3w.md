@@ -8,7 +8,7 @@ Uploaded: 2023-04-14
 yum yum
 Floyd here with a quick introduction to
 the ad limit point feature for chamfers
-and Phillips in Plasticity when
+and fillets in Plasticity when
 creating a chamfer or fillet you can add
 a stop Point anywhere along an edge by
 pressing the L key on the keyboard and
