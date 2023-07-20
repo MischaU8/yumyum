@@ -5,14 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-25
 
-yum yum Floyd here with a quick look at
-the explode command in plasticity if
-you'd like to unjoin Connected faces
-sheets or Curves use the keyboard
-shortcut Alt J to fire the explode
-command in this example the solid is
-converted into disconnected sheets using
-the keyboard shortcut J will join or
-connect the sheets back into a solid
-body oh look at the time
-foreign
+If you'd like to unjoin connected faces, sheets or curves use the keyboard shortcut `Alt-J` to fire the *Explode* command.
+
+In this example the solid is converted into disconnected sheets.
+
+Using the keyboard shortcut `J` will join or connect the sheets back into a solid body.

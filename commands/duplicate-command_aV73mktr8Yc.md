@@ -5,14 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-17
 
-yum yum Floyd here with a quick look at
-using the duplicate command and
-plasticity if you'd like to duplicate a
-solid or curve simply make a selection
-and press shift d on the keyboard a
-duplicate will be generated and selected
-with the move tool active enabling you
-to reposition the new item you'll most
-likely use this feature often so make
-note of the shortcut for quick access oh
-look at the time
+If you'd like to *Duplicate* a solid or curve, simply make a selection and press `shift-D` on the keyboard.
+
+A duplicate will be generated and selected with the [[move tool]] active, enabling you to reposition the new item.
+
+You'll most likely use this feature often so make note of the shortcut for quick access.

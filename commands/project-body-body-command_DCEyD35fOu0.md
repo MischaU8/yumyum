@@ -5,14 +5,8 @@ Duration: 30
 Version: 1.1.31
 Uploaded: 2023-06-23
 
-yum yum
-Floyd here with a quick look at the
-project body body command and plasticity
-to use select two solids and run the
-project body body command which uses two
-solids and finds their intersection to
-create a new curve this is a simple
-example of using this feature so be sure
-to experiment with this powerful option
-oh look at the time
-foreign
+To use Project Body Body, select two solids, press the `F` key and run the *Project Body Body* command.
+
+This uses two solids and finds their intersection to create a new curve.
+
+This is a simple example of using this feature, so be sure to experiment with this powerful option.

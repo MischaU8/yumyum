@@ -5,19 +5,13 @@ Duration: 40
 Version: 
 Uploaded: 2023-05-24
 
-yum yum
-Floyd here with a quick introduction to
-the wrap and unwrap commands in
-plasticity start by selecting the face
-you'd like to unwrap then press F on the
-keyboard type wrap and click the unwrap
-command new curves will be generated
-that you can use as reference guides
-next create a curve within the bounds of
-the reference curves then select the new
-curve along with the reference curves
-add the original face to the selection
-then press F on the keyboard type wrap
-and click the wrap command the new Curve
-will be imprinted onto the surface of
-the solid oh look at the time
+Start by selecting the face you'd like to unwrap, then press `F` on the keyboard, type `wrap` and click the *Unwrap Face*
+command.
+
+New curves will be generated that you can use as [[reference guides]].
+
+Next create a curve within the bounds of the reference curves, then select the new curve along with the reference curves.
+
+Add the original face to the selection, then press `F` on the keyboard type `wrap` and click the *Wrap Face* command.
+
+The new curve will be [[imprinted]] onto the surface of the solid.

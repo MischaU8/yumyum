@@ -5,13 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-23
 
-yum yum Floyd here with a quick look at
-using the knife command and plasticity
-when generating new curves you have the
-option to enable the knife command by
-pressing K on the keyboard with a knife
-option enabled you can right click to
-commit and slice into a solid use this
-handy command to speed up asset creation
-oh look at the time
-foreign
+When generating new curves, you have the option to enable the *knife* command by pressing `K` on the keyboard.
+
+With the knife option enabled, you can right click to commit and slice into a solid.
+
+Use this handy command to speed up asset creation.
