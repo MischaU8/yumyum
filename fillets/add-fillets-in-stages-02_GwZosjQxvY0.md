@@ -5,12 +5,8 @@ Duration: 30
 Version: 1.1.41
 Uploaded: 2023-07-07
 
-yum yum Floyd here with a quick look at
-adding fillets and stages in Plasticity
-in many scenarios adding fillets to all
-edges produces the results I'm after
-in this example by simply adding fillets
-and stages I can achieve a more
-desirable outcome keep this in mind when
-adding fillets to gain more control when
-creating assets in Plasticity
+In many scenarios adding fillets to all edges produces the results I'm after.
+
+In this example by simply adding fillets in stages, I can achieve a more desirable outcome.
+
+Keep this in mind when adding fillets to gain more control when creating assets in Plasticity.

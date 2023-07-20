@@ -5,14 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-26
 
-yum yum Floyd here with a quick look at
-object snaps in Plasticity when object
-snaps is enabled you can easily snap to
-faces curves and edges you can disable
-object snapping completely using the
-enable snapping toggle or click the
-three dot icon next to the toggle and
-choose which components you'd like to
-toggle on and off use these options to
-refine snapping when creating and
-editing geometry in Plasticity
+When *Object snaps* is enabled you can easily snap to faces, curves and edges.
+
+You can disable object snapping completely using the *Enable snapping* toggle or click the three dot (…) icon next to the toggle and choose which components (*Face* / *Curve* / *Edge*) you'd like to toggle on and off.
+
+Use these options to refine snapping when creating and editing geometry in Plasticity.
