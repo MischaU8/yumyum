@@ -5,18 +5,15 @@ Duration: 40
 Version: 1.1.41
 Uploaded: 2023-07-07
 
-yum yum
-Floyd here with a quick look at creating
-impossible Circle Curves in Plasticity
-start by creating a circle curve offset
-it to create a duplicate select both
-curves duplicate them and move them to
-the side like so use the bridge curve
-tool with the trim attribute disabled to
-create two new curves with tangency on
-top and bottom then use the trim tool to
-remove these inner edges
-select each curved face and press shift
-d to generate a single curve per face
-scale the final two curves to your
-liking and you're all set
+To create impossible circle curves:
+
+Start by creating a circle curve, offset it (`O`).
+
+To create a duplicate, select both curves, [[duplicate]] them (`shift-D F`) and move them to the side.
+
+Use the [[Bridge Curve]] tool with the *trim* attribute disabled to
+create two new curves with tangency on top and bottom, then use the [[trim tool]] to remove these inner edges.
+
+Select each curved face and press `shift-D` to generate a single curve per face.
+
+Scale the final two curves to your liking and you're all set.
