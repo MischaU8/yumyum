@@ -7,7 +7,7 @@ Uploaded: 2023-05-01
 
 yum yum
 Floyd here with a quick look at creating
-a hinged box in plasticity start by
+a hinged box in Plasticity start by
 creating a line that runs through the
 center of the default Cube select the
 cube in the line press C on the keyboard

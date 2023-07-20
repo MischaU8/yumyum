@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-14
 
 yum yum Floyd here with a quick look at
-creating Patches from curves and
-plasticity simply select the curve you'd
+creating Patches from curves in Plasticity
+simply select the curve you'd
 like to patch and click the create patch
 from curves button in the lower right
 corner of the UI a new sheet will be

@@ -7,7 +7,7 @@ Uploaded: 2023-06-04
 
 yum yum Floyd here with a quick look at
 the toggle x-ray mode option in
-plasticity to toggle the X-ray display
+Plasticity to toggle the X-ray display
 mode in the viewport simply click the
 toggle x-ray mode icon in the upper
 right corner of the UI or use the

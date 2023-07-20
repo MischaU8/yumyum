@@ -9,7 +9,7 @@ yum yum
 Floyd here with a quick look at basic
 asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build this simple
+Plasticity let's build this simple
 object start by creating a circle curve
 then use radial array to create two new
 Circle curves equally spaced use the

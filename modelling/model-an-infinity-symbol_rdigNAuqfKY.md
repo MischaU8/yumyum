@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-22
 
 yum yum deployed here with a quick look
-at modeling an infinity symbol and
-plasticity start by creating a circle
+at modeling an infinity symbol in Plasticity
+start by creating a circle
 curve press shift s to subdivide the
 curve move the top Point down and the
 bottom point up to squeeze the center of

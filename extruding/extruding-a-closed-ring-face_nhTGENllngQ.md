@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-29
 
 yum yum Floyd here with a quick tip for
-extruding a closed ring face and
-plasticity if attempting to extrude a
+extruding a closed ring face in Plasticity
+if attempting to extrude a
 face produces undesirable results as
 seen here
 try pressing shift d to create a sheet

@@ -7,7 +7,7 @@ Uploaded: 2023-06-07
 
 yum yum
 Floyd here with a quick look at creating
-a cosmetic bottle in plasticity start by
+a cosmetic bottle in Plasticity start by
 creating a rectangle curve add a 180 Arc
 to one side trim the inner segment
 select both curves and press J to join

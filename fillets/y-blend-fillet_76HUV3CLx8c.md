@@ -7,8 +7,8 @@ Uploaded: 2023-06-10
 
 yum yum
 Floyd here with a quick introduction to
-the Y blend attribute for Phillips and
-plasticity when adding fillets to edges
+the Y blend attribute for Phillips in Plasticity
+when adding fillets to edges
 such as this solid where the cube and
 cylinder share the same width the
 results may be undesirable enabling the

@@ -8,7 +8,7 @@ Uploaded: 2023-06-04
 yum yum
 Floyd here with a quick look at a key
 difference between thicken and Hollow
-solid in plasticity for this top sheet
+solid in Plasticity for this top sheet
 I'll use the thicken tool to add
 thickness and create a solid for this
 bottom sheet I'll patch the holes and
@@ -21,4 +21,4 @@ faces which result is correct depends on
 what your needs are but this is worth
 taking note for future asset creation
 add both tools to your toolkit to expand
-your options in plasticity
+your options in Plasticity

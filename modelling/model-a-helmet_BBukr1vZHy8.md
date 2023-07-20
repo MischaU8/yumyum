@@ -7,7 +7,7 @@ Uploaded: 2023-06-04
 
 yum yum
 Floyd here with a quick look at modeling
-a simple helmet in plasticity start by
+a simple helmet in Plasticity start by
 creating a sphere then squash its width
 using the scale tool switch to the side
 view and draw a line curve through the

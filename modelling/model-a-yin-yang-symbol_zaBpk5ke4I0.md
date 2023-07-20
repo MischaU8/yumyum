@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-31
 
 yum yum Floyd here with a quick look at
-modeling a yin yang symbol in plasticity
+modeling a yin yang symbol in Plasticity
 start by enabling the snap to grid
 option then draw a circle curve that
 snaps to the grid use the center point

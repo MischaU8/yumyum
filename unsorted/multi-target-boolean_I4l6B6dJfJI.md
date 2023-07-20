@@ -7,7 +7,7 @@ Uploaded: 2023-05-07
 
 yum yum Floyd here with a quick look at
 performing a multi-target Boolean
-operation in plasticity start by
+operation in Plasticity start by
 pressing Q on the keyboard to activate
 the Boolean tool then select the first
 Target body next click the select Target

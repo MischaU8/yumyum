@@ -7,7 +7,7 @@ Uploaded: 2023-05-02
 
 yum yum flight here with a quick look at
 creating a tetrahedron from a cube in
-plasticity start with a new scene use
+Plasticity start with a new scene use
 the line tool to create diagonal lines
 through each face then select the cube
 followed by the curves and use the

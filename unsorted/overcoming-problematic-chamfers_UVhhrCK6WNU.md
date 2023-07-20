@@ -6,8 +6,8 @@ Version: 1.1.21
 Uploaded: 2023-06-06
 
 yum yum Floyd here with a quick look at
-overcoming problematic chamfers and
-plasticity if you encounter geometry
+overcoming problematic chamfers in Plasticity
+if you encounter geometry
 that produces undesirable chamfers one
 option is to manually create them by
 selecting the edges pressing P to create

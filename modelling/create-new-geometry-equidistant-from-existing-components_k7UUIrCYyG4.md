@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-17
 
 yum yum Floyd here with a quick tip for
-working with temporary guides and
-plasticity to create new geometry
+working with temporary guides in Plasticity
+to create new geometry
 equidistant from existing components
 simply hover the cursor over an edge or
 point

@@ -7,7 +7,7 @@ Uploaded: 2023-04-20
 
 yum yum Floyd here with a quick tip for
 adding edges during affiliate operation
-in plasticity when performing a fillet
+in Plasticity when performing a fillet
 on edges you can press and hold the
 control key to add additional edges use
 this handy option to speed up asset

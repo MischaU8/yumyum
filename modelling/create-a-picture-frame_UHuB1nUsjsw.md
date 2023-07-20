@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-24
 
 yum yum Floyd here with a quick tip for
-creating a picture frame in plasticity
+creating a picture frame in Plasticity
 start by creating a rectangle curve then
 press one on the keyboard to switch to
 the front orthographic view activate the

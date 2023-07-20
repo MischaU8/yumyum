@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-05
 
 yum yum Floyd here with a quick look at
-creating a six-sided die in plasticity
+creating a six-sided die in Plasticity
 start with a new scene select the cube
 and Center it at the origin by selecting
 it pressing G followed by F on the

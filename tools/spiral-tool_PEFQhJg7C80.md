@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-19
 
 yum yum Floyd here with a quick
-introduction to the spiral tool and
-plasticity to create a spiral curve
+introduction to the spiral tool in Plasticity
+to create a spiral curve
 simply activate the spiral tool
 left-click in the viewport to define the
 start click again to define the axis the

@@ -7,7 +7,7 @@ Uploaded: 2023-04-16
 
 yum yum
 Floyd here with a quick look at the
-hollow solid tool in plasticity to
+hollow solid tool in Plasticity to
 hollow a solid start by selecting the
 faces you'd like to remove then click
 the hollow solid icon in the lower right

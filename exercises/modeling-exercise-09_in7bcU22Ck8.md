@@ -8,7 +8,7 @@ Uploaded: 2023-05-13
 yum yum Floyd here with a quick look at
 basic asset creation in Plasticity to
 Showcase some of the features of
-plasticity let's build this simple
+Plasticity let's build this simple
 object start by creating a circle curve
 at the origin press the o key to offset
 it and create a smaller Circle then

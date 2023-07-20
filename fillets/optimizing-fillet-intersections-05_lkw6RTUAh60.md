@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-17
 
 yum yum Floyd here with a quick look at
-optimizing fillet intersections and
-plasticity to produce cleaner Corner
+optimizing fillet intersections in Plasticity
+to produce cleaner Corner
 topology on this asset start by adding
 new edges using the keyboard shortcut
 Ctrl R to use the iso param tool and use

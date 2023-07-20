@@ -7,7 +7,7 @@ Uploaded: 2023-05-20
 
 yum yum Floyd here with a quick look at
 the extrude tools freestyle option in
-plasticity activate the extrude tool
+Plasticity activate the extrude tool
 using the keyboard shortcut e by default
 new faces are generated perpendicular to
 the selected face pressing F on the

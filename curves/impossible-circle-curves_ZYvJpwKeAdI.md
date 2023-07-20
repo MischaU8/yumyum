@@ -7,7 +7,7 @@ Uploaded: 2023-07-07
 
 yum yum
 Floyd here with a quick look at creating
-impossible Circle Curves in plasticity
+impossible Circle Curves in Plasticity
 start by creating a circle curve offset
 it to create a duplicate select both
 curves duplicate them and move them to

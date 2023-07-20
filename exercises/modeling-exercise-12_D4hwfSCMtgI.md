@@ -8,7 +8,7 @@ Uploaded: 2023-05-24
 yum yum Floyd here with a quick look at
 basic asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build this simple
+Plasticity let's build this simple
 object start by creating a circle curve
 then radial array it with a count of
 three create a curve connected to two of

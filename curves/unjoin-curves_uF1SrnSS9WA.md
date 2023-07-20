@@ -7,11 +7,10 @@ Uploaded: 2023-06-17
 
 yum yum
 Floyd here with a quick look at using
-the unjoined command on curves and
-plasticity selecting a curve and using
+the unjoined command on curves in Plasticity
+selecting a curve and using
 the keyboard shortcut Alt J will unjoin
 the curve and create a curve for each
 segment that makes up the shape you can
 use this handy feature as an option to
 quickly split or cut curves as seen here
-

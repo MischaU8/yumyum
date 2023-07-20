@@ -7,8 +7,8 @@ Uploaded: 2023-04-14
 
 yum yum
 Floyd here with a quick introduction to
-Edge Loop and ring selection and
-plasticity press and hold the ALT key
+Edge Loop and ring selection in Plasticity
+press and hold the ALT key
 and click on an edge to select an edge
 Loop or press and hold the control and
 ALT key together and click on an edge to

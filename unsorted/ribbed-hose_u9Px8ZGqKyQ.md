@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-27
 
 yum yum Floyd here with a quick tip for
-creating a ribbed hose in plasticity
+creating a ribbed hose in Plasticity
 start with a sphere and a curve scale
 the sphere into a squashed lentil shape
 then press F on the keyboard and type

@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-31
 
 yum yum Floyd here with a quick look at
-modeling the Star of David in plasticity
+modeling the Star of David in Plasticity
 start by creating a triangle curve using
 the regular polygon tool press o to
 offset the curve then duplicate the

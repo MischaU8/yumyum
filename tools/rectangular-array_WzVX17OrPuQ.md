@@ -7,7 +7,7 @@ Uploaded: 2023-04-16
 
 yum yum
 Floyd here with a quick look at the
-rectangular array tool in plasticity to
+rectangular array tool in Plasticity to
 use start by selecting the solids or
 Curves you'd like to duplicate click the
 rectangular array icon in the lower

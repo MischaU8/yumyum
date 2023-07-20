@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-04-26
 
 yum yum Floyd here with a quick look at
-the access view construction planes and
-plasticity when creating new geometry
+the access view construction planes in Plasticity
+when creating new geometry
 such as curves the curves will be
 positioned on the construction plane if
 you start drawing a new curve on a face

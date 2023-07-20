@@ -7,7 +7,7 @@ Uploaded: 2023-06-02
 
 yum yum
 Floyd here with a quick look at modeling
-a peace symbol in plasticity start by
+a peace symbol in Plasticity start by
 creating a circle curve then create a
 line curve that extends from the center
 of the circle to the edge of the circle

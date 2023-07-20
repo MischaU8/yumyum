@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
-the revolve tool in plasticity to use
+the revolve tool in Plasticity to use
 start by selecting the components you'd
 like to revolve then click the revolve
 icon in the lower right corner of the UI

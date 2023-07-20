@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-18
 
 yum yum Floyd here with a quick look at
-modeling a simple gear in plasticity
+modeling a simple gear in Plasticity
 start by creating a circle curve then
 use the line tool to create half the
 profile of a gear tooth press alt X to

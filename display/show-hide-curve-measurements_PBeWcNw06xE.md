@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-06-05
 
 yum yum Floyd here with a quick look at
-displaying curve measurements and
-plasticity when generating new curves
+displaying curve measurements in Plasticity
+when generating new curves
 measurements will be displayed which can
 Aid in the accuracy of their creation if
 you have no need for this information or
@@ -20,4 +20,3 @@ with this option inactive measurements
 will no longer be displayed add this
 display option to your toolkit to
 customize your workflow in Plasticity
-

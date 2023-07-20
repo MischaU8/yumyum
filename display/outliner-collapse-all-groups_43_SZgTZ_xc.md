@@ -7,7 +7,7 @@ Uploaded: 2023-05-18
 
 yum yum Floyd here with a quick look at
 collapsing all groups in the outliner in
-plasticity you can collapse individual
+Plasticity you can collapse individual
 groups in the outliner by clicking the
 small carrot next to the category name
 use the carrot in the top right of the

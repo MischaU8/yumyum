@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-05
 
 yum yum Floyd here with a quick look at
-creating a chess Bishop piece and
-plasticity start by using the spline or
+creating a chess Bishop piece in Plasticity
+start by using the spline or
 control Point curve tool to create a
 profile curve in the shape of the chess
 piece then use the revolve tool to sweep

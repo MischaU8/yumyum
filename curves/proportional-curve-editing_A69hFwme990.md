@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-06-02
 
 yum yum Floyd here with a quick tip for
-proportional curve editing and
-plasticity start by moving an end point
+proportional curve editing in Plasticity
+start by moving an end point
 on a curve then press and hold the ALT
 key all of the CVS will move
 proportional to their parametric value

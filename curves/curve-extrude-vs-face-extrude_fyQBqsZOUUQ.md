@@ -7,7 +7,7 @@ Uploaded: 2023-05-27
 
 yum yum Floyd here with a quick look at
 the difference between extruding a curve
-and a face in plasticity when extruding
+and a face in Plasticity when extruding
 a closed curve and a face the closed
 Curve will produce a sheet while the
 face will generate a solid if you'd like

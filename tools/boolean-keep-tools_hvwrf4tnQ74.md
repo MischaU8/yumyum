@@ -7,7 +7,7 @@ Uploaded: 2023-05-02
 
 yum yum Floyd here with a quick look at
 the keep tools Boolean feature in
-plasticity when using the Boolean
+Plasticity when using the Boolean
 command the tool bodies will be removed
 after the operation if you'd like to
 retain the tools use the keyboard

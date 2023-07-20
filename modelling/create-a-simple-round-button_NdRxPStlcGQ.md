@@ -7,7 +7,7 @@ Uploaded: 2023-06-19
 
 yum yum Floyd here with a quick look at
 creating a simple round button in
-plasticity start by creating a cylinder
+Plasticity start by creating a cylinder
 solid create a sphere off the top face
 which by default will be set to
 difference

@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-16
 
 yum yum Floyd here with a quick look at
-optimizing fillet interactions and
-plasticity in this example if I add
+optimizing fillet interactions in Plasticity
+in this example if I add
 fillets to these edges the results of
 the transition area is undesirable
 to produce cleaner fillets
@@ -22,4 +22,3 @@ shift X to delete them select the
 boundary edges and use the patch hole
 tool with the fill preference set to
 smooth and you're all set
-

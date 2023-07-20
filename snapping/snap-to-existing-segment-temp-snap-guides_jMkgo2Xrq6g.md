@@ -7,7 +7,7 @@ Uploaded: 2023-04-23
 
 yum yum
 Floyd here with a quick look at snapping
-to existing segments in plasticity when
+to existing segments in Plasticity when
 creating new lines or Curves you can
 hover your mouse over an edge or segment
 and press the shift key to create a

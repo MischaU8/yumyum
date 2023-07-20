@@ -7,7 +7,7 @@ Uploaded: 2023-04-21
 
 yum yum Floyd here with a quick
 introduction to adding fillets and
-chamfers in plasticity start by
+chamfers in Plasticity start by
 selecting the edges you'd like to
 manipulate then left click and drag on
 the tool handle positive values will

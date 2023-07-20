@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-03
 
 yum yum Floyd here with a quick look at
-modeling a beveled star in plasticity
+modeling a beveled star in Plasticity
 activate the regular polygon tool and
 create a 10-sided curve at the origin by
 holding down the shift key and using the

@@ -6,8 +6,8 @@ Version: 1.1.25
 Uploaded: 2023-06-12
 
 yum yum Floyd here with a quick tip for
-creating a tangent surface and
-plasticity to create a tangent surface
+creating a tangent surface in Plasticity
+to create a tangent surface
 for this face in relation to the
 circular portion of the mesh select this
 face convert the selection to edges
@@ -17,4 +17,3 @@ then extrude the line to create a sheet
 select the original face activate the
 match face tool select the reference
 sheet and you're all set
-

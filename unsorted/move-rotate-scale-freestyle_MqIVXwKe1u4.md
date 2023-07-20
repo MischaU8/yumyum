@@ -7,7 +7,7 @@ Uploaded: 2023-05-15
 
 yum yum Floyd here with a quick look at
 the freestyle feature for the move scale
-and rotate Tools in plasticity when
+and rotate Tools in Plasticity when
 using any of the transform tools
 pressing the F key will enable you to
 reposition the Tool's pivot for the move
@@ -24,4 +24,4 @@ can transform along
 add this powerful feature to your
 toolkit for additional control when
 moving rotating and scaling in
-plasticity
+Plasticity

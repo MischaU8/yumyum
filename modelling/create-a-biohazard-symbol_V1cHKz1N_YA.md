@@ -7,7 +7,7 @@ Uploaded: 2023-05-30
 
 yum yum Floyd here with a quick look at
 creating a biohazard symbol in
-plasticity start by creating a small
+Plasticity start by creating a small
 circle at the origin followed by two
 additional Circle curves like so
 radial array the two larger curves with

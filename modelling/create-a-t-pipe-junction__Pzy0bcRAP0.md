@@ -7,7 +7,7 @@ Uploaded: 2023-05-06
 
 yum yum
 Floyd here with a quick look at creating
-a t-pipe junction in plasticity start
+a t-pipe junction in Plasticity start
 with a cylinder duplicate it rotate it
 90 degrees and then move it above the
 original cylinder select the bottom face

@@ -7,8 +7,8 @@ Uploaded: 2023-06-27
 
 yum yum Floyd here with a quick look at
 the select all curves command in
-plasticity most assets created in
-plasticity are constructed from curves
+Plasticity most assets created in
+Plasticity are constructed from curves
 over the course of a modeling session
 you can end up with many curves that you
 either want to hide or delete to quickly

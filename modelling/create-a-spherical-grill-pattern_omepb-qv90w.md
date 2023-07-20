@@ -7,7 +7,7 @@ Uploaded: 2023-05-26
 
 yum yum Floyd here with a quick look at
 creating a spherical Grille pattern in
-plasticity start by creating a sphere
+Plasticity start by creating a sphere
 solid then radial array it with a count
 of three
 create another sphere in the center as a

@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-15
 
 yum yum Floyd here with a quick look at
-modeling a hex bolt head in plasticity
+modeling a hex bolt head in Plasticity
 start by activating the center circle
 tool and create a circle curve next
 activate the regular polygon tool press

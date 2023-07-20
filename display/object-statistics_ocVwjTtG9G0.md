@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-04-20
 
 yum yum Floyd here with a quick
-introduction to object statistics and
-plasticity when objects are selected
+introduction to object statistics in Plasticity
+when objects are selected
 object statistics will appear in the
 lower right corner of the UI the number
 of objects selected will be displayed as

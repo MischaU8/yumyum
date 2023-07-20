@@ -7,7 +7,7 @@ Uploaded: 2023-05-31
 
 yum yum
 Floyd here with a quick look at modeling
-a chain in plasticity start by creating
+a chain in Plasticity start by creating
 a square curve create a 180 arc on one
 side of the square then mirror it to
 make a duplicate select the three faces

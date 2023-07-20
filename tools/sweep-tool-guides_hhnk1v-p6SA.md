@@ -7,8 +7,8 @@ Uploaded: 2023-05-21
 
 yum yum
 Floyd here with a quick look at using
-guides with the sweep tool and
-plasticity start by selecting the face
+guides with the sweep tool in Plasticity
+start by selecting the face
 or curve you'd like to sweep activate
 the sweep tool then select the spine to
 sweep along for more control you can

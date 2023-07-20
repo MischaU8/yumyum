@@ -8,7 +8,7 @@ Uploaded: 2023-05-03
 yum yum
 Floyd here with a quick look at creating
 a pentagonal trapezeahedron in
-plasticity start by creating a pentagon
+Plasticity start by creating a pentagon
 with the regular polygon tool extrude
 the face and taper it to a point
 then delete the curve Center the solid

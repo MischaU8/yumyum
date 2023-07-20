@@ -7,8 +7,8 @@ Uploaded: 2023-04-17
 
 yum yum
 Floyd here with a quick tip to move and
-Center an item at the origin and
-plasticity if you'd like to quickly
+Center an item at the origin in Plasticity
+if you'd like to quickly
 place and Center an item at the origin
 activate the move tool with keyboard
 shortcut G press F to activate freestyle

@@ -7,7 +7,7 @@ Uploaded: 2023-05-23
 
 yum yum
 Floyd here with a quick look at modeling
-and drawing pencil in plasticity start
+and drawing pencil in Plasticity start
 by creating a cylinder then select the
 top face extrude it and use the white
 ring handle to taper it create a

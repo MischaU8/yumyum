@@ -7,7 +7,7 @@ Uploaded: 2023-05-26
 
 yum yum Floyd here with a quick look at
 creating a Celtic repeating pattern in
-plasticity start by creating a line
+Plasticity start by creating a line
 curve and Radial array it with a count
 of three press o to offset followed by
 the Tab Key to offset in both directions

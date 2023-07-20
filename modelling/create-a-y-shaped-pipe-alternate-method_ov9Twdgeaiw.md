@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-26
 
 yum yum Floyd here with a quick look at
-creating a y-shaped pipe in plasticity
+creating a y-shaped pipe in Plasticity
 start by creating a 180 Arc using the
 center point Arc tool then use the split
 curve tool to add a point in the center

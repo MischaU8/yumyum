@@ -7,7 +7,7 @@ Uploaded: 2023-06-01
 
 yum yum
 Floyd here with a quick look at renaming
-items in plasticity as your scene
+items in Plasticity as your scene
 becomes more populated with items such
 as curves solids and grooves staying
 organized becomes important one way to

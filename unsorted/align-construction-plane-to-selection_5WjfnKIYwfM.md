@@ -8,7 +8,7 @@ Uploaded: 2023-04-16
 yum yum
 Floyd here with a quick look at aligning
 the construction plane to a selection in
-plasticity start by making a selection
+Plasticity start by making a selection
 and then press the shift plus space bar
 on the keyboard the construction plane
 will be aligned to the selection

@@ -7,7 +7,7 @@ Uploaded: 2023-06-13
 
 yum yum
 Floyd here with a quick look at modeling
-a twisted ring in plasticity start by
+a twisted ring in Plasticity start by
 creating a large Circle curve then
 create a smaller Circle curve in the
 front view duplicate it twice to produce

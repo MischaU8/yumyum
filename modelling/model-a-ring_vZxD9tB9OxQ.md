@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-21
 
 yum yum Floyd here with a quick look at
-modeling a simple ring in plasticity
+modeling a simple ring in Plasticity
 start by creating a sphere solid using
 the sphere tool create a curve that runs
 through the side of the sphere and

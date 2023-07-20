@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-17
 
 yum yum Floyd here with a quick look at
-optimizing fillet intersections and
-plasticity in this example if I add
+optimizing fillet intersections in Plasticity
+in this example if I add
 fillets to these edges the result of the
 transition area is undesirable to
 produce cleaner fillets start by adding

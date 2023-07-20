@@ -7,8 +7,8 @@ Uploaded: 2023-04-18
 
 yum yum
 Floyd here with a quick look at the
-alternate duplicate command and
-plasticity the alternate duplicate
+alternate duplicate command in Plasticity
+the alternate duplicate
 command uses the construction plane to
 duplicate selected edges you'll need to
 be in an orthographic view then select

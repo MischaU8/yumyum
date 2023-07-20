@@ -7,8 +7,8 @@ Uploaded: 2023-04-18
 
 yum yum
 Floyd here with a quick look at the
-Circle and art curve tools and
-plasticity the main Circle curve tool is
+Circle and art curve tools in Plasticity
+the main Circle curve tool is
 the center circle when activated you can
 simply left click to place the center of
 the circle and move the mouse to adjust

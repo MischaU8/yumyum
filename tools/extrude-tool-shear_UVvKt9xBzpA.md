@@ -6,9 +6,9 @@ Version:
 Uploaded: 2023-06-02
 
 yum yum Floyd here with a quick look at
-sharing with the extrude tool and
-plasticity when using the extrude tool
+sharing with the extrude tool in Plasticity
+when using the extrude tool
 you can shift the Extrusion by
 left-clicking and dragging on the blue
 square handle use this option to quickly
-Shear an extrusion in plasticity
+Shear an extrusion in Plasticity

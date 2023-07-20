@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-23
 
 yum yum Floyd here with a quick tip for
-tapering and set faces in plasticity
+tapering and set faces in Plasticity
 start by selecting a face to use as a
 reference then click the draft face icon
 in the lower right corner of the UI then

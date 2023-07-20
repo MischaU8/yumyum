@@ -6,8 +6,8 @@ Version: 1.1.25
 Uploaded: 2023-06-16
 
 yum yum Floyd here with a quick look at
-a 2d Boolean process for Curves and
-plasticity if you generate 2D curves on
+a 2d Boolean process for Curves in Plasticity
+if you generate 2D curves on
 the same plane that overlap you can
 generate a 2d Boolean Union result by
 selecting the faces and pressing shift d

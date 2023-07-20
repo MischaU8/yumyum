@@ -17,4 +17,4 @@ shape creation tools such as the circle
 regular polygon
 and rectangle tool use this handy
 feature for more accurate asset Creation
-in plasticity
+in Plasticity

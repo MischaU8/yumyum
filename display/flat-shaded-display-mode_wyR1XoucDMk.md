@@ -7,7 +7,7 @@ Uploaded: 2023-06-01
 
 yum yum Floyd here with a quick look at
 the flat shaded display mode in
-plasticity you can enable the flat
+Plasticity you can enable the flat
 shaded display mode by right-clicking on
 the render mode icon in the top right
 corner of the viewport and selecting it

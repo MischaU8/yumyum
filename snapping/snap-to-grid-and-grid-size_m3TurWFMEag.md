@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-04-21
 
 yum yum Floyd here with a quick look at
-snap to grid and grid size and
-plasticity to enable the snap to grid
+snap to grid and grid size in Plasticity
+to enable the snap to grid
 option simply click the snap to grid
 toggle in the upper right corner of the
 UI once enabled elements will snap to

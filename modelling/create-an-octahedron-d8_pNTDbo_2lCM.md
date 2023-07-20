@@ -7,7 +7,7 @@ Uploaded: 2023-05-02
 
 yum yum
 Floyd here with a quick look at creating
-an octahedron in plasticity start by
+an octahedron in Plasticity start by
 using the line tool to create two
 triangles that use the center of three
 connected faces on the default Cube for

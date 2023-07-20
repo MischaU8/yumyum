@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-22
 
 yum yum Floyd here with a quick look at
-modeling a coffee cup in plasticity
+modeling a coffee cup in Plasticity
 start by creating a cylinder then select
 and offset the top face using the
 keyboard shortcut o push the face down

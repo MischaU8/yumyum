@@ -7,7 +7,7 @@ Uploaded: 2023-04-19
 
 yum yum
 Floyd here with a quick look at creating
-a paper clip in plasticity create a
+a paper clip in Plasticity create a
 straight curve using the line tool then
 activate the three-point Arc tool and
 create an arc starting at the end of the

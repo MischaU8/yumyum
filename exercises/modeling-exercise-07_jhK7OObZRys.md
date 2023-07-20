@@ -9,7 +9,7 @@ yum yum
 Floyd here with a quick look at basic
 asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build this simple
+Plasticity let's build this simple
 object start by creating a rectangle
 then use the two-point Circle tool to
 create a circle that snaps to the top

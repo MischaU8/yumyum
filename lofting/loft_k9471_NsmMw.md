@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-17
 
 yum yum Floyd here with a quick look at
-the Loft feature in plasticity to use
+the Loft feature in Plasticity to use
 the Loft option start by selecting at
 least two curves and then press the
 keyboard shortcut lofting can be a quick

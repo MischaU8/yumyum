@@ -7,7 +7,7 @@ Uploaded: 2023-04-20
 
 yum yum Floyd here with a quick tip for
 moving the dialogue field to your cursor
-in plasticity using the keyboard
+in Plasticity using the keyboard
 shortcut shift tab when the Tool is
 active we'll move the tools dialog to
 the cursor's location when you Mouse

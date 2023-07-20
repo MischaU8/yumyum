@@ -9,7 +9,7 @@ yum yum
 Floyd here with a quick look at basic
 asset creation in Plasticity to
 Showcase some of the features of
-plasticity let's build this simple solid
+Plasticity let's build this simple solid
 start by creating a six-sided curve with
 a regular polygon tool create a line
 through the center of the shade then use

@@ -7,7 +7,7 @@ Uploaded: 2023-05-15
 
 yum yum Floyd here with a quick tip for
 controlling the orientation of a cut in
-plasticity when performing a cut using
+Plasticity when performing a cut using
 the cut tool you can Define the
 orientation of The Cutting plane to a
 specific orthographic view by switching

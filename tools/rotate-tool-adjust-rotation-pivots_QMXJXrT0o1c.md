@@ -7,8 +7,8 @@ Uploaded: 2023-05-14
 
 yum yum
 Floyd here with a quick look at
-adjusting the rotation pivots and
-plasticity start by activating the
+adjusting the rotation pivots in Plasticity
+start by activating the
 rotate tool by pressing r on the
 keyboard before left clicking and
 dragging on one of the rotation handles

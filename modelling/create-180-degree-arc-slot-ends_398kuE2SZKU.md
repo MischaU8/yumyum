@@ -7,7 +7,7 @@ Uploaded: 2023-06-23
 
 yum yum Floyd here with a quick tip for
 creating 180 degree Arc slot ends in
-plasticity start by creating a sphere
+Plasticity start by creating a sphere
 with the radius equal to half the slot
 width then select the edges you'd like
 to work with increase the fillet

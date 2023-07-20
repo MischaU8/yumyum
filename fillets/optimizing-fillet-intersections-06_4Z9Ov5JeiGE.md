@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-17
 
 yum yum Floyd here with a quick look at
-optimizing fillet intersections and
-plasticity in this example after I add
+optimizing fillet intersections in Plasticity
+in this example after I add
 fillets to these edges I can produce
 cleaner fillets by adding new edges
 using the keyboard shortcut Ctrl R to

@@ -8,7 +8,7 @@ Uploaded: 2023-04-20
 yum yum
 Floyd here with a quick tip for adding
 additional regions to an extrude
-operation in plasticity when extruding
+operation in Plasticity when extruding
 faces you can press and hold the control
 key on the keyboard and select
 additional faces to include them in the

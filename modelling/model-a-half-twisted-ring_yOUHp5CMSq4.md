@@ -7,7 +7,7 @@ Uploaded: 2023-06-14
 
 yum yum Floyd here with a quick look at
 modeling a half Twisted ring in
-plasticity start by creating a 180 art
+Plasticity start by creating a 180 art
 curve mirror it then create a square
 curve sweep the square curve with the
 top Arc and use a Twist of 360. then

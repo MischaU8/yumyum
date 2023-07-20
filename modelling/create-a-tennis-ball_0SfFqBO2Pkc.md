@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-23
 
 yum yum Floyd here with a quick look at
-creating a tennis ball in plasticity
+creating a tennis ball in Plasticity
 start by creating a rectangle curve
 using the corner rectangle tool then
 activate the center point Arc tool and

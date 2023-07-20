@@ -7,7 +7,7 @@ Uploaded: 2023-05-26
 
 yum yum
 Floyd here with a quick look at modeling
-a power button in plasticity start by
+a power button in Plasticity start by
 creating a large Circle curve then press
 the o key to offset it create a line
 curve from the center of the circle and

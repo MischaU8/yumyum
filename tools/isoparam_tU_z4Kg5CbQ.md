@@ -7,7 +7,7 @@ Uploaded: 2023-04-24
 
 yum yum Floyd here with a quick
 introduction to the isopram tool in
-plasticity to quickly add horizontal or
+Plasticity to quickly add horizontal or
 vertical edges to a face use the
 keyboard shortcut Ctrl R to activate the
 iso param tool then place the cursor

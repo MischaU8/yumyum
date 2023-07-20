@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-04-18
 
 yum yum Floyd here with a quick look at
-the focus and isolate commands and
-plasticity if you'd like to focus the
+the focus and isolate commands in Plasticity
+if you'd like to focus the
 viewport on what is currently selected
 press the forward slash key on the
 keyboard pressing it again will focus on

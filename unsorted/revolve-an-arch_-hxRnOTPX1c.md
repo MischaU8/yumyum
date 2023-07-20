@@ -7,7 +7,7 @@ Uploaded: 2023-04-25
 
 yum yum Floyd here with a quick tip for
 using revolve to create an arch in
-plasticity there are several ways to
+Plasticity there are several ways to
 create an arch connecting these two
 solids and for this example we'll take a
 look at using the revolve tool select

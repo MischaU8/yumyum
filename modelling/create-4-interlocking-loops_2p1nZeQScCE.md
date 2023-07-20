@@ -7,7 +7,7 @@ Uploaded: 2023-06-13
 
 yum yum Floyd here with a quick look at
 creating four interlocking Loops in
-plasticity start with a new scene and
+Plasticity start with a new scene and
 use the line tool to create a triangle
 curve that snaps to the midpoints of the
 Cube's edges like so repeat this process

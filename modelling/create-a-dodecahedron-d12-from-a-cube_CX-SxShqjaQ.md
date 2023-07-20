@@ -7,7 +7,7 @@ Uploaded: 2023-05-02
 
 yum yum Floyd here with a quick look at
 creating a dodecahedron from a cube in
-plasticity start with the new scene and
+Plasticity start with the new scene and
 move the default Cube to the origin by
 pressing the G key on the keyboard to
 activate the move tool press f for

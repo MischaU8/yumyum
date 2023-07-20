@@ -20,4 +20,4 @@ be selected this is true in all
 selection modes
 spend some time and get familiar with
 the selection concept to gain full
-control over selecting in plasticity
+control over selecting in Plasticity

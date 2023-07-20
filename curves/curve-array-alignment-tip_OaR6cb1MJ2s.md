@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-06-07
 
 yum yum Point here with a quick curvary
-alignment tip for plasticity when using
+alignment tip for Plasticity when using
 curve array you may encounter situations
 where the item being duplicated changes
 orientation along the curve one option

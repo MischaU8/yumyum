@@ -8,7 +8,7 @@ Uploaded: 2023-04-25
 yum yum
 Floyd here with a quick look at
 extruding with the thickness attribute
-enabled in plasticity start by selecting
+enabled in Plasticity start by selecting
 a face then use the keyboard shortcut e
 to activate the extrude tool next use
 the keyboard shortcut shift T to enable

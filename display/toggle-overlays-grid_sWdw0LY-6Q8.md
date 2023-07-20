@@ -6,7 +6,7 @@ Version: 1.1.20
 Uploaded: 2023-06-04
 
 yum yum Floyd here with a quick look at
-the toggle overlays option in plasticity
+the toggle overlays option in Plasticity
 to toggle the visibility of the Grid in
 the viewport simply click the toggle
 overlays icon in the upper right corner

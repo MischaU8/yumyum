@@ -7,7 +7,7 @@ Uploaded: 2023-04-18
 
 yum yum
 Floyd here with a quick look at deleting
-faces in plasticity if you'd like to
+faces in Plasticity if you'd like to
 delete faces from a solid the standard
 delete operation won't remove the faces
 use the keyboard shortcut shift plus

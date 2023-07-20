@@ -9,7 +9,7 @@ yum yum
 Floyd here with a quick look at basic
 asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build the simple solid
+Plasticity let's build the simple solid
 start by creating a rectangle curve add
 a 180 Arc to one end trim the inner
 segment and join the two curves into one

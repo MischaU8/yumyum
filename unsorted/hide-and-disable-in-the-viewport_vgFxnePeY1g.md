@@ -7,7 +7,7 @@ Uploaded: 2023-04-19
 
 yum yum Floyd here with a quick look at
 the hide and disable and viewport
-options in plasticity if you'd like to
+options in Plasticity if you'd like to
 disable the visibility of the current
 selection you can click the eye icon for
 the item or use the keyboard shortcut H

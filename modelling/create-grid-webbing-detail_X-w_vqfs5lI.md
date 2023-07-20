@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-04-24
 
 yum yum Floyd here with a quick look at
-creating grid webbing detail and
-plasticity start by selecting the face
+creating grid webbing detail in Plasticity
+start by selecting the face
 you'd like to add grid webbing detail to
 press the spacebar to create a temporary
 construction plane and align the view to

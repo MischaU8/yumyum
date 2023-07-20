@@ -8,7 +8,7 @@ Uploaded: 2023-04-27
 yum yum Floyd here with a quick look at
 basic asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build this simple
+Plasticity let's build this simple
 object start by creating a cylinder at
 the origin using the cylinder tool
 select the top face and press o on the

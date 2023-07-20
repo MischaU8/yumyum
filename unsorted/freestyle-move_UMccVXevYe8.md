@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-17
 
 yum yum Floyd here with a quick look at
-the freestyle move feature in plasticity
+the freestyle move feature in Plasticity
 when using the move tool you can press F
 to activate freestyle move when
 freestyle move is activated the first
@@ -21,5 +21,5 @@ then left-click to commit to the move
 after activating freestyle move you can
 right click twice to move the selection
 to the origin use this handy move
-feature to enhance moving in plasticity
+feature to enhance moving in Plasticity
 

@@ -7,7 +7,7 @@ Uploaded: 2023-05-18
 
 yum yum Floyd here with a quick look at
 the hide hide unselected and unhide
-commands in plasticity you can quickly
+commands in Plasticity you can quickly
 hide all selected items in a scene by
 pressing the H key on the keyboard and
 use the keyboard shortcut alt age to

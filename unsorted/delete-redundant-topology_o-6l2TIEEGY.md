@@ -7,8 +7,8 @@ Uploaded: 2023-04-19
 
 yum yum
 Floyd here with a quick look at the
-delete redundant topology command and
-plasticity to remove any redundant
+delete redundant topology command in Plasticity
+to remove any redundant
 control points edges or faces from a
 selection such as these control points
 on this curve press the F key on the

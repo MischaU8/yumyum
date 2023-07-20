@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-21
 
 yum yum Floyd here with a quick tip for
-creating lines with fixed links and
-plasticity when creating a line curve
+creating lines with fixed links in Plasticity
+when creating a line curve
 with the line tool you can press the tab
 key on the keyboard to enter a specific
 numeric value this will lock the length

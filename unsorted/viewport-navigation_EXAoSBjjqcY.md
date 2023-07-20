@@ -29,4 +29,4 @@ the top right or use the keyboard
 shortcut numeric 5.
 spend some time getting comfortable with
 these navigation options to speed up
-working in plasticity
+working in Plasticity

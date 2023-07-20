@@ -7,7 +7,7 @@ Uploaded: 2023-04-19
 
 yum yum Floyd here with a quick look at
 the disable selection and viewport
-option in plasticity to lock an item and
+option in Plasticity to lock an item and
 prevent it from being selected in the
 viewport make a selection press F on the
 keyboard type lock and click lock

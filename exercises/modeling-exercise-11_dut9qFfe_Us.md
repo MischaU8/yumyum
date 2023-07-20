@@ -8,7 +8,7 @@ Uploaded: 2023-05-24
 yum yum Floyd here with a quick look at
 basic asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build this simple
+Plasticity let's build this simple
 object start by drawing two Circle
 curves then create a line with tangency
 along the side followed by a line down

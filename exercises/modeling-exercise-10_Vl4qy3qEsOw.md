@@ -8,7 +8,7 @@ Uploaded: 2023-05-23
 yum yum Floyd here with a quick look at
 basic asset creation in Plasticity to
 Showcase some of the features in
-plasticity let's build the simple object
+Plasticity let's build the simple object
 start by creating a 180 Arc with the
 center Arc tool then create two new line
 curves that extend the arc on each end

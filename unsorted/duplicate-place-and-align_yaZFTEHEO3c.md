@@ -7,7 +7,7 @@ Uploaded: 2023-04-17
 
 yum yum
 Floyd here with a quick look at the
-place duplicate feature in plasticity
+place duplicate feature in Plasticity
 start by selecting the item you'd like
 to duplicate and then use the keyboard
 shortcut Ctrl D click on the item where

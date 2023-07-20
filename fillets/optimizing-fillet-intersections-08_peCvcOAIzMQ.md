@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-05-18
 
 yum yum Floyd here with a quick look at
-optimizing fillet intersections and
-plasticity in this example I can produce
+optimizing fillet intersections in Plasticity
+in this example I can produce
 cleaner fillets by adding new edges
 using the keyboard shortcut Ctrl R to
 use the iso param tool

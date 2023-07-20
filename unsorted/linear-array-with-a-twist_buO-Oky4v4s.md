@@ -7,8 +7,8 @@ Uploaded: 2023-07-06
 
 yum yum
 Floyd here with a quick tip for creating
-a linear array with a Twist and
-plasticity to create a linear array
+a linear array with a Twist in Plasticity
+to create a linear array
 simply select the Target and then use
 the rectangular array tool to create a
 linear array with the twist create a
@@ -18,4 +18,4 @@ select the line curve then adjust the
 twist attribute to your liking use this
 simple technique for additional options
 when performing a linear array in
-plasticity
+Plasticity

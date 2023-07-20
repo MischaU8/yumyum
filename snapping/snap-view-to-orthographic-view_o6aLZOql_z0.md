@@ -8,7 +8,7 @@ Uploaded: 2023-04-14
 yum yum
 Floyd here with a quick tip for snapping
 the view to an orthographic view in
-plasticity pressing and holding down the
+Plasticity pressing and holding down the
 ALT key while orbiting the view with the
 middle Mouse button enables you to
 easily snap to various orthographic

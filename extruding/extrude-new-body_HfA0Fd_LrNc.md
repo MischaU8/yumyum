@@ -7,8 +7,8 @@ Uploaded: 2023-05-17
 
 yum yum
 Floyd here with a quick look at the new
-body option for the extrude tool and
-plasticity when using the extrude tool
+body option for the extrude tool in Plasticity
+when using the extrude tool
 you can press the b key on the keyboard
 to activate the new body feature which
 will enable you to generate a separate

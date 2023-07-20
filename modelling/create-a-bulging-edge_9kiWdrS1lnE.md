@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-04
 
 yum yum Floyd here with a quick look at
-creating a bulging Edge in plasticity
+creating a bulging Edge in Plasticity
 start by selecting The Edge Loop you'd
 like to manipulate then press p on the
 keyboard to activate the pipe tool press

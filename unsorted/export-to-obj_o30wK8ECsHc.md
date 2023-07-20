@@ -7,8 +7,8 @@ Uploaded: 2023-04-19
 
 yum yum
 Floyd here with a quick look at
-exporting to an obj in plasticity to
-save a plasticity file as an obj use the
+exporting to an obj in Plasticity to
+save a Plasticity file as an obj use the
 keyboard shortcut Ctrl shift s give the
 file a name change the save as type
 attribute to obj and click save you'll

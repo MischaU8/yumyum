@@ -7,7 +7,7 @@ Uploaded: 2023-05-04
 
 yum yum Floyd here with a quick look at
 the show edges and show faces options in
-plasticity if you right click on the
+Plasticity if you right click on the
 render mode icon in the top right
 portion of the UI you can toggle Edge
 visibility using the show edges button I

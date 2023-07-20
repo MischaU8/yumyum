@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-19
 
 yum yum Floyd here with a quick look at
-modeling a threaded bar in plasticity
+modeling a threaded bar in Plasticity
 start by creating a cylinder then create
 a spiral the same diameter and increase
 the turns attribute to your liking

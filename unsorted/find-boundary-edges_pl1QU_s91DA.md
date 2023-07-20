@@ -6,8 +6,8 @@ Version:
 Uploaded: 2023-04-21
 
 yum yum Floyd here with a quick look at
-the fine boundary edges command and
-plasticity to quickly find and select
+the fine boundary edges command in Plasticity
+to quickly find and select
 boundary edges click the find boundary
 edges icon in the lower right corner of
 the UI any open edges on the selected

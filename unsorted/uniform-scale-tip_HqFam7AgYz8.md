@@ -7,7 +7,7 @@ Uploaded: 2023-06-26
 
 yum yum Floyd here with a quick tip for
 numerically scaling uniformly in
-plasticity to quickly scale a selection
+Plasticity to quickly scale a selection
 numerically press the keyboard shortcut
 s twice then enter the numeric value
 you'd like to use as a multiplier for

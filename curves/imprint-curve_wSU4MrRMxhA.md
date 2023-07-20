@@ -7,7 +7,7 @@ Uploaded: 2023-04-18
 
 yum yum
 Floyd here with a quick look at the
-imprint curve feature in plasticity to
+imprint curve feature in Plasticity to
 use imprint curve start by using the
 keyboard shortcut shift I then select
 the target body to project onto followed

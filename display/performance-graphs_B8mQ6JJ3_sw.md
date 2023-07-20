@@ -20,6 +20,6 @@ polygon faceting performance while you
 can ignore these graphs for the most
 part they can be useful to see what your
 Hardware performance is while using
-plasticity and they can also be useful
+Plasticity and they can also be useful
 information when sharing user feedback
 with the developers

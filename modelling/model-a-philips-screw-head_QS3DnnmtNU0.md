@@ -7,7 +7,7 @@ Uploaded: 2023-05-19
 
 yum yum
 Floyd here with a quick look at modeling
-a Phillips screw head in plasticity
+a Phillips screw head in Plasticity
 start by creating a sphere then use the
 scale tool to squash it vertically
 create a line through the center of the

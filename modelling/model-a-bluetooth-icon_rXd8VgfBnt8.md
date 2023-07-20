@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-31
 
 yum yum Floyd here with a quick look at
-modeling a Bluetooth icon in plasticity
+modeling a Bluetooth icon in Plasticity
 start by creating a square curve create
 line curves that split the square
 vertically horizontally and diagonally

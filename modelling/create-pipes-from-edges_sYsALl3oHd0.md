@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-18
 
 yum yum Floyd here with a quick look at
-creating pipes from edges in plasticity
+creating pipes from edges in Plasticity
 start by selecting the edges you'd like
 to build from then press P to activate
 the pipe tool next press B on the

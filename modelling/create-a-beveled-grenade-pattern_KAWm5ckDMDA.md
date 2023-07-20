@@ -7,7 +7,7 @@ Uploaded: 2023-06-18
 
 yum yum Floyd here with a quick look at
 creating a beveled grenade pattern in
-plasticity start by creating a profile
+Plasticity start by creating a profile
 curve revolve it to create a sheet then
 patch it to create a solid
 use the isopram tool to create three new

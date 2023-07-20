@@ -8,7 +8,7 @@ Uploaded: 2023-06-22
 yum yum
 Floyd here with a quick look at the
 project curve curve command in
-plasticity to you select two curves you
+Plasticity to you select two curves you
 want to work with and run the project
 curve curve command this uses the two
 curves and finds their projected

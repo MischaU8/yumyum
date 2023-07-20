@@ -7,8 +7,8 @@ Uploaded: 2023-05-02
 
 yum yum Floyd here with a quick look at
 toggling between Center and Corner when
-using the rectangle and box tools and
-plasticity when creating a rectangular
+using the rectangle and box tools in Plasticity
+when creating a rectangular
 box simply press the Tab Key
 to toggle between Center and Corner use
 this handy hotkey for more flexibility

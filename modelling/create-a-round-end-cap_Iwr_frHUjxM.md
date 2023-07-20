@@ -7,7 +7,7 @@ Uploaded: 2023-05-07
 
 yum yum
 Floyd here with a quick tip for creating
-a round end cap in plasticity use the
+a round end cap in Plasticity use the
 split Edge tool to split the top and
 bottom Edge at the end of the solid
 select the end cap face press Ctrl 2 to

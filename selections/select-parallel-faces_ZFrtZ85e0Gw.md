@@ -11,5 +11,4 @@ When selecting planar faces you can
 press and hold the control on alt keys
 and left click a face to select parallel
 faces as well use this handy selection
-option to speed up selection and
-plasticity
+option to speed up selection in Plasticity

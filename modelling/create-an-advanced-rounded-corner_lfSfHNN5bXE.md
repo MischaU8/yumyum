@@ -7,7 +7,7 @@ Uploaded: 2023-06-23
 
 yum yum Floyd here with a quick look at
 creating an advanced rounded Corner in
-plasticity start with a cube select the
+Plasticity start with a cube select the
 three edges that make up the corner
 you'd like to edit chamfer the edges
 offset the corner face to remove it add

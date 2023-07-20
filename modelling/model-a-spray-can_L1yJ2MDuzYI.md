@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-07
 
 yum yum Floyd here with a quick look at
-modeling a spray can in plasticity start
+modeling a spray can in Plasticity start
 by creating a simple profile curve for
 this example I'll use the line tool
 and then bevel any sharp angles to round

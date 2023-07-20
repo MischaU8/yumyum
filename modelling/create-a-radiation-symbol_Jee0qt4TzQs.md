@@ -7,7 +7,7 @@ Uploaded: 2023-05-30
 
 yum yum
 Floyd here with a quick look at creating
-a radiation symbol in plasticity start
+a radiation symbol in Plasticity start
 by creating a circle curve and offset it
 with the lock distances attribute
 enabled to create two new curves create

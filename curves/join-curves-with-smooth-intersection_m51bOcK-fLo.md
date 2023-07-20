@@ -7,7 +7,7 @@ Uploaded: 2023-05-21
 
 yum yum Floyd here with a quick tip for
 joining curves and creating smooth
-transitions in plasticity start by
+transitions in Plasticity start by
 making sure the curves and points share
 the same world space then select both
 curves and press J on the keyboard to

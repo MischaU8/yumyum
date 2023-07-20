@@ -7,8 +7,8 @@ Uploaded: 2023-05-19
 
 yum yum
 Floyd here with a quick look at
-optimizing fillet intersections and
-plasticity in this example I can produce
+optimizing fillet intersections in Plasticity
+in this example I can produce
 cleaner fillets by selecting these edges
 and pressing shift d to create a new
 curve select this point and bevel it

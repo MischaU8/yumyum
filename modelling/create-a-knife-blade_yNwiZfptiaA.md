@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-04
 
 yum yum Floyd here with a quick look at
-creating a knife blade in plasticity
+creating a knife blade in Plasticity
 start by blocking out the shape of the
 blade using the line tool bevel the
 lower point to curve the blade

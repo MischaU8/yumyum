@@ -7,7 +7,7 @@ Uploaded: 2023-04-24
 
 yum yum
 Floyd here with a quick tip for creating
-an inset screw tool in plasticity start
+an inset screw tool in Plasticity start
 by creating a simple cylinder primitive
 select the top face and press the
 spacebar to create a temporary
