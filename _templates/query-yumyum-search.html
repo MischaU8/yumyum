@@ -3,10 +3,12 @@
 {% block title %}Video search: {{ q }}{% endblock %}
 
 {% block extra_head %}
-<script>
-window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
-plausible('Search', {props: {q: '{{ q }}', result: '{{ row|length }}'}})
-</script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+{% if q and rows %}
+<script>plausible('Search', {props: {q: '{{ q }}'}})</script>
+{% elif q and not rows %}
+<script>plausible('Search - no results', {props: {q: '{{ q }}'}})</script>
+{% endif %}
 <style>
 input[type=search] {
     padding: .25em;

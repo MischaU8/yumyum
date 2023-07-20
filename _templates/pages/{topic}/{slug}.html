@@ -7,7 +7,9 @@
 %}
 {% set video = videos[0] %}
 {% if not videos %}
-    {% set raised = raise_404("video not found") %}
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <script>plausible('404', {props: {path: document.location.pathname}})</script>
+  {% set raised = raise_404("video not found") %}
 {% endif %}
 
 {% block title %}{{ video.title }} | Plasticity - Vaughan in 60 seconds{% endblock %}
