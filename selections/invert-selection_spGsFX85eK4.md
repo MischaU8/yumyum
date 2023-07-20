@@ -5,11 +5,6 @@ Duration: 20
 Version: 1.1.29
 Uploaded: 2023-06-20
 
-yum yum
-Floyd here with a quick look at
-inverting selections in Plasticity to
-quickly switch the selection state of
-all solid sheets and Curves in a scene
-use the keyboard shortcut alt a use this
-handy shortcut to speed up selecting in
-Plasticity
+To quickly switch the selection state of all solids, sheets and curves in a scene, use the keyboard shortcut `alt-A`.
+
+Use this handy shortcut to speed up selecting in Plasticity.
