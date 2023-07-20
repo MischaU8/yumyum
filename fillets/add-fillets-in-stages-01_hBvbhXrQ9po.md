@@ -6,7 +6,7 @@ Version: 1.1.20
 Uploaded: 2023-06-03
 
 yum yum Floyd here with a quick tip for
-adding fillets and plasticity in most
+adding fillets in Plasticity in most
 cases I can usually get away with adding
 fillets to all edges in one step as seen
 in most of my previous videos but for

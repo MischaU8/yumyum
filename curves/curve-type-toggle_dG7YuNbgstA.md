@@ -7,7 +7,7 @@ Uploaded: 2023-05-05
 
 yum yum
 Floyd here with a quick look at the
-spline curve type toggle and plasticity
+spline curve type toggle in Plasticity
 when creating a curve with the spline
 curve tool the default curve type is a
 through Point curve pressing the Tab Key

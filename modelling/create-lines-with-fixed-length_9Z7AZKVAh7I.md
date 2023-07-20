@@ -15,4 +15,4 @@ of the line to that value you can also
 numerically fix the angle by tabbing to
 the angle input field and entering a
 numeric value use this workflow for more
-accurate line creation and plasticity
+accurate line creation in Plasticity

@@ -7,7 +7,7 @@ Uploaded: 2023-06-01
 
 yum yum Floyd here with a quick look at
 the freestyle option for the mirror tool
-and plasticity when you activate the
+in Plasticity when you activate the
 mirror tool using the keyboard shortcut
 Altex the tools handles will be
 positioned at the origin while I think

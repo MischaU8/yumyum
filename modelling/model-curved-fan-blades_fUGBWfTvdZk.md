@@ -7,7 +7,7 @@ Uploaded: 2023-06-16
 
 yum yum
 Floyd here with a quick look at creating
-curved fan blades and plasticity start
+curved fan blades in Plasticity start
 by creating a rectangle curve scale one
 end and bevel the points to round off
 the corners create a line curve

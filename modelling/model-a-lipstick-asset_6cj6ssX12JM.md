@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-15
 
 yum yum flight here with a quick look at
-modeling a lipstick asset and plasticity
+modeling a lipstick asset in Plasticity
 start by creating a six-sided curve with
 the regular polygon tool then extrude it
 to create a solid create a cylinder

@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-22
 
 yum yum Floyd here with a quick look at
-creating a Celtic knot and plasticity
+creating a Celtic knot in Plasticity
 start by activating the center point Arc
 tool and create a 180 Arc create a line
 at one end of the arc then mirror it to

@@ -7,7 +7,7 @@ Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
 saving and reusing Custom Construction
-planes and plasticity using construction
+planes in Plasticity using construction
 planes while creating a mesh can be
 incredibly useful if you'd like to save
 a custom construction plane simply

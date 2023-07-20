@@ -6,7 +6,7 @@ Version: 1.1.41
 Uploaded: 2023-07-06
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple part start by
 creating a cylinder chamfer the edges
 create a line curve along the edge of

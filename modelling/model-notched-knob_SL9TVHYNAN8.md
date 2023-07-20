@@ -7,7 +7,7 @@ Uploaded: 2023-06-18
 
 yum yum
 Floyd here with a quick look at modeling
-a notched knob and plasticity create a
+a notched knob in Plasticity create a
 large Circle curve then create a smaller
 Circle curve on the inner Edge and
 mirror it to create a duplicate create a

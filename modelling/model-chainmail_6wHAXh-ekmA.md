@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-03
 
 yum yum Floyd here with a quick look at
-modeling chain metal and plasticity
+modeling chain metal in Plasticity
 start by creating a circle curve and
 then use the revolve tool to create a
 Taurus solid next rotate the solid 15

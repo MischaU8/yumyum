@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-03
 
 yum yum Floyd here with a quick look at
-modeling braids and plasticity start by
+modeling braids in Plasticity start by
 creating a curve with nine control
 points in the shape of an s
 select the second and sixth point on the

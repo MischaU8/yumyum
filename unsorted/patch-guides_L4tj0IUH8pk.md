@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-24
 
 yum yum Floyd here with a quick look at
-using patch guides and plasticity in
+using patch guides in Plasticity in
 this example I'd like to rebuild this
 top face with a more organic surface
 start by selecting the face and pressing

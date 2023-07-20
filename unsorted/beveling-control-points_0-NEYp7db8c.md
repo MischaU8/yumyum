@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-17
 
 yum yum Floyd here with a quick look at
-beveling control points and plasticity
+beveling control points in Plasticity
 to Bevel control points start by
 selecting the control points you'd like
 to work with then press B on the

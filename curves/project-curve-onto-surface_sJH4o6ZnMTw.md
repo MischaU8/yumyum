@@ -7,7 +7,7 @@ Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
 the project curve onto surface feature
-and plasticity to project a curve onto a
+in Plasticity to project a curve onto a
 surface start by selecting a curve and
 clicking on the project curve onto
 surface icon in the lower right corner

@@ -7,7 +7,7 @@ Uploaded: 2023-05-25
 
 yum yum
 Floyd here with a quick look at creating
-panel lines and plasticity to create
+panel lines in Plasticity to create
 panel lines on a solid simply create
 curves that intersect the solid where
 you'd like the panel lines to be

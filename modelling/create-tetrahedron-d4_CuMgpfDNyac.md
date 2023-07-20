@@ -7,7 +7,7 @@ Uploaded: 2023-05-02
 
 yum yum
 Floyd here with a quick look at creating
-a tetrahedron and plasticity start by
+a tetrahedron in Plasticity start by
 creating a triangle with the regular
 polygon tool duplicate it using shift d
 then rotate the duplicate 180 degrees

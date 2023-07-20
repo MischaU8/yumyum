@@ -7,7 +7,7 @@ Uploaded: 2023-06-16
 
 yum yum
 Floyd here with a quick look at editing
-existing Phillips and plasticity to edit
+existing Phillips in Plasticity to edit
 a fill it simply select the face and use
 the handle to adjust the fillet you can
 remove the fillet by selecting the face

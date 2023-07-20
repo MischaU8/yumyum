@@ -7,7 +7,7 @@ Uploaded: 2023-06-10
 
 yum yum Floyd here with a quick
 introduction to the bridge surface tool
-and plasticity to use activate the tool
+in Plasticity to use activate the tool
 and then click on two disconnected faces
 a fillet or blend will be generated keep
 in mind that the camera angle and where

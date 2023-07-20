@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-19
 
 yum yum Floyd here with a quick face
-extrude tip and plasticity when
+extrude tip in Plasticity when
 extruding faces it's not necessary to
 trim and join curves if I select these
 faces and use the keyboard shortcut

@@ -7,7 +7,7 @@ Uploaded: 2023-07-07
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this cross Cube start by creating
 a rectangle curve duplicate it and
 rotate it 90 degrees select all the

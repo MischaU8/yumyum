@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-21
 
 yum yum Floyd here with a quick look at
-the offset tool and plasticity to offset
+the offset tool in Plasticity to offset
 a single face select it press o on the
 keyboard and then move the cursor to
 adjust the distance attribute

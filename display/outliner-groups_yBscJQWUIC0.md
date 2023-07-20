@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-31
 
 yum yum Floyd here with a quick look at
-outliner groups and plasticity when
+outliner groups in Plasticity when
 creating an asset the outliner can
 quickly become populated with components
 one option for organizing the outliner

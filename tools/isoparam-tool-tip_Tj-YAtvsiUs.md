@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-25
 
 yum yum Floyd here with a quick tip when
-using the iso param tool and plasticity
+using the iso param tool in Plasticity
 when using the isopram tool you may run
 into situations where you can't snap the
 new Edge to an existing Point The Edge

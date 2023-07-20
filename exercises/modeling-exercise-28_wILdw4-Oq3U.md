@@ -7,7 +7,7 @@ Uploaded: 2023-06-11
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple asset start by
 creating a rectangle curve press B to
 Bevel the points to create rounded

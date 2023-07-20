@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-18
 
 yum yum Floyd here with a quick look at
-the mirror tool and plasticity the
+the mirror tool in Plasticity the
 meritool duplicates the selected items
 in a flipped or mirrored orientation to
 the original to use start by making a

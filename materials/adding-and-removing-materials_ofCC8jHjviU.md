@@ -7,7 +7,7 @@ Uploaded: 2023-04-14
 
 yum yum Floyd here with a quick
 introduction to adding and removing
-materials and plasticity to add a
+materials in Plasticity to add a
 material simply select an object and
 then press the m key on the keyboard
 adjust the material attributes to your

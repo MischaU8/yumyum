@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-15
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple asset create a
 circle curve then mirror it to duplicate
 it add a connecting line curve on the

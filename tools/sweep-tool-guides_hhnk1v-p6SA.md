@@ -15,4 +15,4 @@ sweep along for more control you can
 select additional curves to use as
 guides to define the shape of The Suite
 use this option to maximize the power of
-sweeping and plasticity
+sweeping in Plasticity

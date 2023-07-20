@@ -7,7 +7,7 @@ Uploaded: 2023-04-21
 
 yum yum Floyd here with a quick look at
 the focus object and outliner command
-and plasticity to quickly locate the
+in Plasticity to quickly locate the
 selected object in the outliner hover
 your cursor over the outliner and press
 the forward slash or period key the

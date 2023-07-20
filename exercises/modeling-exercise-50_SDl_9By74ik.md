@@ -6,7 +6,7 @@ Version: 1.1.44
 Uploaded: 2023-07-12
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build the simple part start by
 creating a solid with the corner Cube
 tool use the cylinder tool to create a

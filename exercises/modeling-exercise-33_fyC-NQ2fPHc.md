@@ -7,7 +7,7 @@ Uploaded: 2023-06-13
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple asset start using the
 line tool with SNAP to grid enabled to
 create this shape bevel this point and

@@ -7,7 +7,7 @@ Uploaded: 2023-05-13
 
 yum yum
 Floyd here with a quick look at modeling
-a simple pillow and plasticity start by
+a simple pillow in Plasticity start by
 creating a wavy 180 degree Arc curve
 then select every other point on the
 curve and move it forward

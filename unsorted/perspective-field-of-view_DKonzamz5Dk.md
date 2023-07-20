@@ -7,7 +7,7 @@ Uploaded: 2023-04-20
 
 yum yum Floyd here with a quick look at
 adjusting the perspective field of view
-and plasticity you can toggle between
+in Plasticity you can toggle between
 perspective and orthographic View using
 the number five key on the numeric
 keypad or by using its icon in the top

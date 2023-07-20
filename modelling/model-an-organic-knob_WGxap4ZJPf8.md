@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-18
 
 yum yum Floyd here with a quick look at
-modeling an organic knob and plasticity
+modeling an organic knob in Plasticity
 create a cylinder solid fill up the top
 Edge and click the side of the solid to
 create a hemisphere extrude the bottom

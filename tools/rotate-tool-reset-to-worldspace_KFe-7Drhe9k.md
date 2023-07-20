@@ -7,7 +7,7 @@ Uploaded: 2023-05-14
 
 yum yum Floyd here with a quick look at
 resetting the rotate tool handles to
-World space and plasticity when working
+World space in Plasticity when working
 with the rotate tool you can reset or
 realign the rotation handles to World
 Space by pressing the keyboard shortcut

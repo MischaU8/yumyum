@@ -13,4 +13,4 @@ material used on one object to another
 simply click and drag the color swatch
 onto the target object in the outliner
 use this workflow to quickly assign
-materials and plasticity
+materials in Plasticity

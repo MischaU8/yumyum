@@ -6,7 +6,7 @@ Version: 1.1.36
 Uploaded: 2023-06-29
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple rounded shape
 start by creating a square curve press
 shift s to subdivide the curve select

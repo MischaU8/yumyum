@@ -7,7 +7,7 @@ Uploaded: 2023-04-15
 
 yum yum
 Floyd here with a quick tip for copying
-a fillet radius and plasticity when
+a fillet radius in Plasticity when
 creating a new fillet you can click on
 existing fillets to copy their radius
 value this can be extremely useful to

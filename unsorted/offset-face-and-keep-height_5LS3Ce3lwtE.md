@@ -8,7 +8,7 @@ Uploaded: 2023-06-06
 yum yum
 Floyd here with a quick look at
 offsetting a tapered face and keeping
-its height and plasticity when
+its height in Plasticity when
 offsetting this tapered face the
 thickness of the face changes one option
 to address this is to select the two

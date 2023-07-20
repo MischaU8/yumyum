@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-30
 
 yum yum Floyd here with a quick look at
-the extend curve tool and plasticity to
+the extend curve tool in Plasticity to
 use select an end point on a curve then
 activate the extend curve tool you can
 adjust the distance attribute with
@@ -15,5 +15,5 @@ negative values to trim it
 and you can use the shape attribute to
 change the shape of the extension
 add this tool to your curve workflow to
-enhance asset creation and plasticity
+enhance asset creation in Plasticity
 

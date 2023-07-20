@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-13
 
 yum yum Floyd here with a quick look at
-creating bermian rings and plasticity
+creating bermian rings in Plasticity
 start by creating a square curve add a
 180 Arc curve to one side mirror it to
 duplicate it trim the inner segments

@@ -7,7 +7,7 @@ Uploaded: 2023-07-11
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple part start by creating
 a circle curve duplicate it with shift d
 press s for scale then V for pivot and

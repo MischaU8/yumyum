@@ -7,7 +7,7 @@ Uploaded: 2023-04-17
 
 yum yum
 Floyd here with a quick look at the
-select adjacent command and plasticity
+select adjacent command in Plasticity
 to use the select the Json command start
 by making a selection then press F on
 the keyboard and locate select adjacent

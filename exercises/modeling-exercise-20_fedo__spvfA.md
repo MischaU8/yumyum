@@ -7,7 +7,7 @@ Uploaded: 2023-06-01
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity to
+asset creation in Plasticity to
 Showcase some of the features in
 plasticity let's build the simple object
 start by creating a circle curve then

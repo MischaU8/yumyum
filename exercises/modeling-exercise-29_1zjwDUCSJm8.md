@@ -7,7 +7,7 @@ Uploaded: 2023-06-12
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple object start with a
 default scene activate the line tool
 create a line in the lower corner press

@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-20
 
 yum yum Floyd here with a quick tip for
-selecting bi-direction and plasticity
+selecting bi-direction in Plasticity
 it's important to note that the
 direction you select from plays a role
 in what gets selected when left clicking

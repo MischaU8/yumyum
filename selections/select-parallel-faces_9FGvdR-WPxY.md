@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-21
 
 yum yum Floyd here with a quick tip for
-selecting parallel faces and plasticity
+selecting parallel faces in Plasticity
 to select parallel faces simply press
 and hold the control alt keys and left
 click on a face all parallel faces will

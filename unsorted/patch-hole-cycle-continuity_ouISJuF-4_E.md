@@ -7,7 +7,7 @@ Uploaded: 2023-06-26
 
 yum yum
 Floyd here with a quick look at cycling
-the continuity attribute and plasticity
+the continuity attribute in Plasticity
 when using the patch hole tool you can
 choose the type of continuity you'd like
 to apply to the operation by clicking on

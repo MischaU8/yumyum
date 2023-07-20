@@ -7,7 +7,7 @@ Uploaded: 2023-04-25
 
 yum yum
 Floyd here with a quick tip for reusing
-inset geometry and plasticity in this
+inset geometry in Plasticity in this
 example I'd like to use this inset
 geometry to produce the same results on
 another spot on the solid body start by

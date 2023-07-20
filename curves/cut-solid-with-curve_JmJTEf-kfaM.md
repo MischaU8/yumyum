@@ -7,7 +7,7 @@ Uploaded: 2023-04-14
 
 yum yum Floyd here with a quick
 introduction to the cut solid with curve
-feature and plasticity start with a
+feature in Plasticity start with a
 solid you'd like to cut then create a
 curve to use as the cutter click the cut
 solid with curve icon in the lower left

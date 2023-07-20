@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-13
 
 yum yum Floyd here with a quick look at
-generating knurling and plasticity for
+generating knurling in Plasticity for
 this example we'll add knurling to this
 cylinder start by creating a line that
 snaps to the bottom and top Edge like so

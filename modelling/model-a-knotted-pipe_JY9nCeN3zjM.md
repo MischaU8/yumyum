@@ -6,7 +6,7 @@ Version: 1.1.23
 Uploaded: 2023-06-09
 
 yum yum Floyd here with a quick look at
-modeling and knotted pipe and plasticity
+modeling and knotted pipe in Plasticity
 start by creating a 1.95 meter circle at
 the origin duplicate it and move it up
 rotate it 90 degrees and sweep it to

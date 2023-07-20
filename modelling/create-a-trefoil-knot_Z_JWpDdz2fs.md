@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-30
 
 yum yum Floyd here with a quick look at
-creating a Trey foil knot and plasticity
+creating a Trey foil knot in Plasticity
 start by creating a small circle curve
 offset from the origin duplicate the
 curve and rotate it 120 degrees with the

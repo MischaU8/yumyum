@@ -7,7 +7,7 @@ Uploaded: 2023-06-27
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple part create three
 Circle curves
 then use the bridge curve tool to create

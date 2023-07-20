@@ -6,7 +6,7 @@ Version: 1.1.23
 Uploaded: 2023-06-09
 
 yum yum void here the quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple asset start by
 creating a circle curve then create a
 two segment line with 120 degree angle

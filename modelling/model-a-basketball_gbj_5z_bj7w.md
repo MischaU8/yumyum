@@ -6,7 +6,7 @@ Version: 1.1.20
 Uploaded: 2023-06-08
 
 yum yum Floyd here with a quick look at
-modeling and basketball and plasticity
+modeling and basketball in Plasticity
 start by creating a sphere solid then
 create two lines that cut through the
 center of the solid in the front view

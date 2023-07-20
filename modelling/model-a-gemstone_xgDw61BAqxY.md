@@ -7,7 +7,7 @@ Uploaded: 2023-05-28
 
 yum yum
 Floyd here with a quick look at modeling
-a gemstone and plasticity start by using
+a gemstone in Plasticity start by using
 the regular polygon tool to create a
 six-sided curve extrude and taper it to
 a point move the curve up and rotate it

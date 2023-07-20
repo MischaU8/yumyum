@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
-the pipe tool and plasticity to use the
+the pipe tool in Plasticity to use the
 pipe tool start by selecting a curve and
 pressing the P key on the keyboard you
 can adjust the section size attribute to

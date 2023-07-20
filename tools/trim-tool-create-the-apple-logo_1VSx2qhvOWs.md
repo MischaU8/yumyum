@@ -7,7 +7,7 @@ Uploaded: 2023-04-15
 
 yum yum Floyd here with a quick look at
 using the trim tool to create the Apple
-logo and plasticity for this example I
+logo in Plasticity for this example I
 created 11 intersecting Circle curves
 using the center circle tool all that's
 left to do is activate the trim tool and

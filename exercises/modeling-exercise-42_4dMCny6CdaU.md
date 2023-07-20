@@ -6,7 +6,7 @@ Version: 1.1.36
 Uploaded: 2023-06-28
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple part create a
 circle curve followed by a rectangle
 curve trim the inner Edge on the

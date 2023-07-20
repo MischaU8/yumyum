@@ -7,7 +7,7 @@ Uploaded: 2023-04-28
 
 yum yum
 Floyd here with a quick look at creating
-a bike chain and plasticity start by
+a bike chain in Plasticity start by
 using the center circle tool to create
 two Circle curves then duplicate them
 and move them to the side activate the

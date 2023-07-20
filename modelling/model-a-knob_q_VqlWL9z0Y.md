@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-18
 
 yum yum Floyd here with a quick look at
-modeling a basic knob and plasticity
+modeling a basic knob in Plasticity
 create a circle curve then create a
 small square curve on the edge of the
 circle radial array the square curve to

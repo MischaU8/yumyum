@@ -7,7 +7,7 @@ Uploaded: 2023-04-20
 
 yum yum
 Floyd here with a quick tip for hiding
-all coplanar curves and plasticity to
+all coplanar curves in Plasticity to
 hide all curves that are on the same
 plane simply select the curve and use
 the keyboard shortcut H this can be a

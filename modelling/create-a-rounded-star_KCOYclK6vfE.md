@@ -7,7 +7,7 @@ Uploaded: 2023-04-25
 
 yum yum
 Floyd here with a quick tip for creating
-a rounded star and plasticity to create
+a rounded star in Plasticity to create
 a rounded star activate the regular
 polygon tool left click and drag to set
 the size then hold shift and use the

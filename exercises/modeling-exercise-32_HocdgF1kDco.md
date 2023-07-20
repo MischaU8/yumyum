@@ -7,7 +7,7 @@ Uploaded: 2023-06-12
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple asset start by
 creating a circle curve then offset it
 using the o key use the two-point Circle

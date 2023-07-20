@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-04
 
 yum yum Floyd here with a quick look at
-creating a shoe midsole and plasticity
+creating a shoe midsole in Plasticity
 start by creating two simple curves a
 top view silhouette of a midsole and a
 side profile curve with some toe

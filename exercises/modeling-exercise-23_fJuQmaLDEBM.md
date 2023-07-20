@@ -7,7 +7,7 @@ Uploaded: 2023-06-05
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity to create
+asset creation in Plasticity to create
 this simple mesh start by using the
 center point Arc tool to create a
 three-quarter Arc then rotate it 45

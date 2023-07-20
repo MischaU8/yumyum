@@ -7,7 +7,7 @@ Uploaded: 2023-06-08
 
 yum yum
 Floyd here with a quick look at modeling
-a simple chair and plasticity start with
+a simple chair in Plasticity start with
 the default scene select these edges and
 add fillets select this Edge Loop by
 pressing alt and left clicking on it

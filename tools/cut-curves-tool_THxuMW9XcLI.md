@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-19
 
 yum yum Floyd here with a quick look at
-the cut curves tool and plasticity if
+the cut curves tool in Plasticity if
 you'd like to cut a curve with other
 curves press F on the keyboard type cut
 and click cut curves to activate the

@@ -6,9 +6,9 @@ Version: 1.1.38
 Uploaded: 2023-07-03
 
 yum yum Floyd here with an extended
-sheet trim tip and plasticity when using
+sheet trim tip in Plasticity when using
 the extend sheet tool any faces on the
 same sheet it encounters will
 automatically be trimmed use this handy
 feature of the extend sheet tool to
-enhance asset creation and plasticity
+enhance asset creation in Plasticity

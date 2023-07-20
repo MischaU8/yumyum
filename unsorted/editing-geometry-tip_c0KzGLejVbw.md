@@ -6,7 +6,7 @@ Version: 1.1.23
 Uploaded: 2023-06-09
 
 yum yum Floyd here with a quick tip for
-editing geometry and plasticity it's
+editing geometry in Plasticity it's
 good to remember that you can edit
 geometry that you've constructed on with
 modeling operations such as booleans by

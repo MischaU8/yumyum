@@ -7,7 +7,7 @@ Uploaded: 2023-06-16
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple asset create a circle
 curve then create a rectangle curve with
 the height of half a meter duplicate and

@@ -6,7 +6,7 @@ Version: 1.1.21
 Uploaded: 2023-05-30
 
 yum yum Floyd here with a quick look at
-the bridge curve tool and plasticity to
+the bridge curve tool in Plasticity to
 use activate the tool and click the
 endpoint of two curves to create a
 bridge curve you can use the attributes
@@ -17,4 +17,4 @@ Bridges from the end point of a curve to
 a component on a solid spend some time
 experimenting with this powerful tool
 and add it to your toolkit to enhance
-asset creation and plasticity
+asset creation in Plasticity

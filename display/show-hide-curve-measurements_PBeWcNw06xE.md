@@ -19,5 +19,5 @@ measurements when drawing curves feature
 with this option inactive measurements
 will no longer be displayed add this
 display option to your toolkit to
-customize your workflow and plasticity
+customize your workflow in Plasticity
 

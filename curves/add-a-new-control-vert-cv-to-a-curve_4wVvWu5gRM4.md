@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-17
 
 yum yum Floyd here with a quick tip for
-adding new CVS to Curves and plasticity
+adding new CVS to Curves in Plasticity
 start by selecting a curve and
 activating the split curve tool left
 click on the curve where you'd like to

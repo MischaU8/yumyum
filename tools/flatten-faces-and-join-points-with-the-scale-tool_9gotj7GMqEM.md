@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-17
 
 yum yum Floyd here with some quick scale
-tool tips and plasticity you can quickly
+tool tips in Plasticity you can quickly
 flatten a skewed face by selecting it
 pressing s on the keyboard to activate
 the scale tool and then scale on one
@@ -17,4 +17,4 @@ three axes to position all selected
 points in the same location which can be
 useful when wanting to join curves add
 these to your toolkit to speed up asset
-creation and plasticity
+creation in Plasticity

@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-19
 
 yum yum Floyd here with a quick look at
-the sweep tool and plasticity to use the
+the sweep tool in Plasticity to use the
 sweep tool you need a curve to sweep
 along and a profile to sweep for this
 example I'll select these edges and

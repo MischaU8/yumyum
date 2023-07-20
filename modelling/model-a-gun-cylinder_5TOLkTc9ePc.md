@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-20
 
 yum yum Floyd here with a quick look at
-modeling a gun cylinder and plasticity
+modeling a gun cylinder in Plasticity
 start by creating a large Circle curve
 then create a small circle curve in the
 center create another Circle curve and

@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-23
 
 yum yum Floyd here with a quick look at
-modeling a fork and plasticity start
+modeling a fork in Plasticity start
 with a profile curve and a fork
 silhouette curve extrude the profile
 curve and press tab to lock distances

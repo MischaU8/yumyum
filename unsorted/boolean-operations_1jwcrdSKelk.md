@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
-Boolean operations and plasticity start
+Boolean operations in Plasticity start
 by activating the Boolean tool by
 clicking on the Boolean icon in the
 lower left corner of the UI or by

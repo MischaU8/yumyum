@@ -7,7 +7,7 @@ Uploaded: 2023-06-20
 
 yum yum
 Floyd here with a quick look at
-inverting selections and plasticity to
+inverting selections in Plasticity to
 quickly switch the selection state of
 all solid sheets and Curves in a scene
 use the keyboard shortcut alt a use this

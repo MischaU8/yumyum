@@ -8,7 +8,7 @@ Uploaded: 2023-07-12
 yum yum
 Floyd here with a quick look at
 connecting or lofting two circles with a
-radius and plasticity when lofting these
+radius in Plasticity when lofting these
 two Circle curves a linear G zero
 continuity is created regardless of the
 continuity option selected to create a

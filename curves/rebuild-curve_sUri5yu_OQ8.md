@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-18
 
 yum yum Floyd here with a quick look at
-the rebuild curve command and plasticity
+the rebuild curve command in Plasticity
 in this example I'll generate a curve
 using the alternate duplicate command
 while it may produce the shape I'm after

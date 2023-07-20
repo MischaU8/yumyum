@@ -7,7 +7,7 @@ Uploaded: 2023-05-27
 
 yum yum
 Floyd here with a quick look at creating
-a 3D recycle symbol and plasticity start
+a 3D recycle symbol in Plasticity start
 by creating a rectangle curve duplicate
 it rotate it 60 degrees then move it
 behind an offset from the original use

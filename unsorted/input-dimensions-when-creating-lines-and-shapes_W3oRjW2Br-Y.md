@@ -8,7 +8,7 @@ Uploaded: 2023-06-08
 yum yum
 Floyd here with a quick look at
 inputting Dimensions when creating lines
-and shapes and plasticity when
+and shapes in Plasticity when
 generating a new line curve you can
 press the Tab Key to numerically enter a
 value

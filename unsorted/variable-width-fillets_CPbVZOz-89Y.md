@@ -7,7 +7,7 @@ Uploaded: 2023-04-15
 
 yum yum
 Floyd here with a quick look at creating
-variable with fillets and plasticity
+variable with fillets in Plasticity
 start by selecting the edges you'd like
 to work with create a fillet and then
 press the V key on the keyboard new

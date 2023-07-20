@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-25
 
 yum yum Floyd here with a quick look at
-lofting and Arch and plasticity there
+lofting and Arch in Plasticity there
 are several ways to create an arch
 connecting these two solids and for this
 example we'll look at lofting the arch

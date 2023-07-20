@@ -7,7 +7,7 @@ Uploaded: 2023-04-20
 
 yum yum Floyd here with a quick look at
 using math operations for input fields
-and plasticity you have the ability to
+in Plasticity you have the ability to
 use basic math operations when changing
 values within an input field
 you can add

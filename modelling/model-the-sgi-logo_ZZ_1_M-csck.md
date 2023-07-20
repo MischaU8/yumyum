@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-29
 
 yum yum Floyd here with a quick look at
-modeling the SGI logo and plasticity
+modeling the SGI logo in Plasticity
 start with the default Cube make a
 perfect square in the top corner of the
 cube then extrude at the height of the

@@ -7,7 +7,7 @@ Uploaded: 2023-05-19
 
 yum yum Floyd here with a quick look at
 using multiple targets and Cutters when
-using the cut tool and plasticity start
+using the cut tool in Plasticity start
 by selecting the target bodies you'd
 like to cut and press C to activate the
 cut tool then select the curve or face

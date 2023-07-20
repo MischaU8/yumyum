@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-23
 
 yum yum Floyd here with a quick tip for
-toggling show edges and plasticity while
+toggling show edges in Plasticity while
 you can disable show edges by clicking
 on the show edges button in the render
 mode popover I find it easier to assign

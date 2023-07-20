@@ -7,7 +7,7 @@ Uploaded: 2023-04-14
 
 yum yum
 Floyd here with a quick introduction to
-selection modes and plasticity by
+selection modes in Plasticity by
 default all selection modes are active
 which enables you to select objects
 control points edges and faces you can

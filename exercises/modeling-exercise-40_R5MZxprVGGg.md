@@ -6,7 +6,7 @@ Version: 1.1.31
 Uploaded: 2023-06-23
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple asset create a
 cylinder solid and Center it at the
 origin radial array the solid in the

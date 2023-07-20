@@ -7,7 +7,7 @@ Uploaded: 2023-04-24
 
 yum yum
 Floyd here with a quick introduction to
-Performance graphs and plasticity you
+Performance graphs in Plasticity you
 can locate the performance graph in the
 lower right corner of the UI clicking
 the three dot icon will reveal

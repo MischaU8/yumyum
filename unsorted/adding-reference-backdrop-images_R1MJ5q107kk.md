@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
-adding reference images and plasticity
+adding reference images in Plasticity
 although you can import images using the
 import option in the main menu I prefer
 to Simply drag and drop the images into

@@ -7,7 +7,7 @@ Uploaded: 2023-06-17
 
 yum yum
 Floyd here with a quick look at basic
-asset creation and plasticity let's
+asset creation in Plasticity let's
 build this simple part create a cylinder
 solid then create a diagonal line curve
 in the front view use the imprint curve

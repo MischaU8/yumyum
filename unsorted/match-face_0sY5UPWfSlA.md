@@ -7,7 +7,7 @@ Uploaded: 2023-04-21
 
 yum yum
 Floyd here with a quick look at the
-match face command and plasticity to use
+match face command in Plasticity to use
 start by selecting a face and then click
 the match face icon in the lower right
 corner of the UI next click the face

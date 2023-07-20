@@ -7,7 +7,7 @@ Uploaded: 2023-05-15
 
 yum yum Floyd here with a quick look at
 the pivot feature for the move rotate
-and scale tools and plasticity when
+and scale tools in Plasticity when
 using any of the transform tools
 pressing the V key will enable you to
 reposition the Tool's pivot by clicking

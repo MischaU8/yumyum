@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-06-13
 
 yum yum Floyd here with a quick look at
-using custom matte caps and plasticity
+using custom matte caps in Plasticity
 to use a custom Mac cap start by
 navigating to the plasticity image
 folder located in the app data directory

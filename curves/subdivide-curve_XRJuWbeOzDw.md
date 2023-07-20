@@ -7,7 +7,7 @@ Uploaded: 2023-04-18
 
 yum yum
 Floyd here with a quick look at the
-subdivide curve command and plasticity
+subdivide curve command in Plasticity
 if you'd like to add more control points
 to a curve while maintaining its shape
 use the subdivide curve command by

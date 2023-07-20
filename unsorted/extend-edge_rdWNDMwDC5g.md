@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-23
 
 yum yum Floyd here with a quick look at
-the extend Edge command and plasticity
+the extend Edge command in Plasticity
 for this example I'll offset this arced
 Edge which produces a new Edge that's
 not connected to the Border edge of the

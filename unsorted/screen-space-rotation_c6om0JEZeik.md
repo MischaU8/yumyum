@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-16
 
 yum yum Floyd here with a quick look at
-screen space rotation and plasticity
+screen space rotation in Plasticity
 when using the rotate tool you can use
 the red green and blue handles to rotate
 around the X Y and Z axes the white
@@ -16,4 +16,4 @@ the viewport camera's position so the
 rotation axis will change based on the
 orientation of the view add this handy
 option to your workflow to enhance
-rotation and plasticity
+rotation in Plasticity

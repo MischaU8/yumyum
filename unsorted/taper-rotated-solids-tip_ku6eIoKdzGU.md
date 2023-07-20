@@ -6,7 +6,7 @@ Version: 1.1.25
 Uploaded: 2023-06-18
 
 yum yum Floyd here with a quick tip for
-tapering rotated solids and plasticity
+tapering rotated solids in Plasticity
 if you have a rotated solid and you use
 the angle adjacent attribute of the
 offset tool to try and taper the solid

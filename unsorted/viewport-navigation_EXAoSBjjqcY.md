@@ -7,7 +7,7 @@ Uploaded: 2023-04-14
 
 yum yum
 Floyd here with a quick introduction to
-navigating the viewport and plasticity
+navigating the viewport in Plasticity
 for basic navigation use the right Mouse
 button to pan the viewport middle Mouse
 button to orbit and the mouse wheel to

@@ -6,7 +6,7 @@ Version: 1.1.21
 Uploaded: 2023-06-06
 
 yum yum Floyd here with a quick look at
-creating a cosmetic tube and plasticity
+creating a cosmetic tube in Plasticity
 start by creating a circle curve
 duplicate it and move it up duplicate it
 again scale it and move it up duplicate

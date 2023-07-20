@@ -7,7 +7,7 @@ Uploaded: 2023-05-17
 
 yum yum Floyd here with a quick look at
 the orientation toggle for some of the
-tools and plasticity when working with
+tools in Plasticity when working with
 tools such as the circle cylinder and
 regular polygon tool you can quickly
 reorient the geometry by pressing the V

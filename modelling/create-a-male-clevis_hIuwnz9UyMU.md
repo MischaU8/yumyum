@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-26
 
 yum yum Floyd here with a quick look at
-creating a male clevis and plasticity
+creating a male clevis in Plasticity
 start by activating the center point Arc
 tool and create an arc then activate the
 line tool and snap the start of the line

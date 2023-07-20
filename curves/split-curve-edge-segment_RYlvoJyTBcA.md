@@ -7,7 +7,7 @@ Uploaded: 2023-04-25
 
 yum yum
 Floyd here with a quick look at the
-split curve tool and plasticity to add a
+split curve tool in Plasticity to add a
 point to a line or a curve activate the
 split curve tool and click on the liner
 curve where you'd like to add a point

@@ -6,11 +6,11 @@ Version: 1.1.41
 Uploaded: 2023-07-07
 
 yum yum Floyd here with a quick look at
-adding fillets and stages and plasticity
+adding fillets and stages in Plasticity
 in many scenarios adding fillets to all
 edges produces the results I'm after
 in this example by simply adding fillets
 and stages I can achieve a more
 desirable outcome keep this in mind when
 adding fillets to gain more control when
-creating assets and plasticity
+creating assets in Plasticity

@@ -7,7 +7,7 @@ Uploaded: 2023-04-19
 
 yum yum
 Floyd here with a quick look at the
-draft face tool and plasticity to use
+draft face tool in Plasticity to use
 start by selecting a face to use as a
 reference then click the draft face icon
 in the lower right corner of the UI or

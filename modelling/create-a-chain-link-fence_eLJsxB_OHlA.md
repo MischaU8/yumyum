@@ -7,7 +7,7 @@ Uploaded: 2023-05-04
 
 yum yum
 Floyd here with a quick look at creating
-a chain-link fence and plasticity start
+a chain-link fence in Plasticity start
 with a new scene and scale the default
 Cube's height down rotate it 45 degrees
 then duplicate it and move it so the two

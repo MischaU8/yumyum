@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-24
 
 yum yum Floyd here with a quick look at
-tangency snaps and plasticity tangency
+tangency snaps in Plasticity tangency
 snaps appear along Circle curves when
 connecting a line or curve simply move
 the point along the curve until you see

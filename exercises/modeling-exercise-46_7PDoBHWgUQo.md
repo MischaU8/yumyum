@@ -6,7 +6,7 @@ Version: 1.1.41
 Uploaded: 2023-07-07
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple part start by
 creating a curve press e to activate the
 extrude tool then tab to lock distances

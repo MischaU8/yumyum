@@ -8,7 +8,7 @@ Uploaded: 2023-04-20
 yum yum
 Floyd here with a quick look at the
 alternate duplicate command with faces
-and plasticity to use the alternate
+in Plasticity to use the alternate
 duplicate command with faces start by
 selecting the faces you'd like to work
 with then use the keyboard shortcut alt

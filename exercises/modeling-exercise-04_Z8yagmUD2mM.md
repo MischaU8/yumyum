@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-05-06
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity to
+basic asset creation in Plasticity to
 Showcase some of the features of
 plasticity let's build this simple shape
 start by creating a large circle at the

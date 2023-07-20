@@ -7,7 +7,7 @@ Uploaded: 2023-04-21
 
 yum yum
 Floyd here with a quick look at the
-curve array tool and plasticity start by
+curve array tool in Plasticity start by
 selecting the solids or Curves you'd
 like to duplicate press F on the
 keyboard then type array and click curve

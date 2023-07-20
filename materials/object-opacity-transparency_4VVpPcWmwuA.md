@@ -7,7 +7,7 @@ Uploaded: 2023-04-24
 
 yum yum Floyd here with a quick look at
 the object opacity material attribute
-and plasticity make sure the render mode
+in Plasticity make sure the render mode
 is enabled then select the objects you'd
 like to manipulate and press M on the
 keyboard to access the material

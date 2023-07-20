@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-16
 
 yum yum Floyd here with a quick look at
-screen space cuts and plasticity start
+screen space cuts in Plasticity start
 by orienting your view then use the
 keyboard shortcut Control Plus spacebar
 this will align the construction plane

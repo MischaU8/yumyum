@@ -7,7 +7,7 @@ Uploaded: 2023-05-28
 
 yum yum
 Floyd here with a quick look at
-extruding with a Twist and plasticity if
+extruding with a Twist in Plasticity if
 you'd like to extrude a face but want to
 twist the resulting solid along the
 length of the Extrusion simply create a

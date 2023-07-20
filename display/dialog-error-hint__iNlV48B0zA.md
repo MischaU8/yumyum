@@ -6,7 +6,7 @@ Version: 1.1.26
 Uploaded: 2023-06-15
 
 yum yum Floyd here with a quick look at
-the dialogue error hint and plasticity
+the dialogue error hint in Plasticity
 when a tool fails to perform have a look
 in the dialogue for the small red eye
 icon if you hover your cursor over it an

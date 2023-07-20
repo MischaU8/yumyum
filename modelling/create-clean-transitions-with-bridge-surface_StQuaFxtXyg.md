@@ -7,7 +7,7 @@ Uploaded: 2023-06-22
 
 yum yum Floyd here with a quick look at
 creating clean transitions with the
-bridge surface tool and plasticity in
+bridge surface tool in Plasticity in
 this example if I'd like to generate a
 smooth transition between these two
 intersecting cylinder solids a quick

@@ -7,7 +7,7 @@ Uploaded: 2023-06-07
 
 yum yum Floyd here with a quick look at
 using a custom profile curve for the
-pipe tool and plasticity start by
+pipe tool in Plasticity start by
 selecting a curve and pressing P to
 activate the pipe tool then press C to
 enable the custom profile option and

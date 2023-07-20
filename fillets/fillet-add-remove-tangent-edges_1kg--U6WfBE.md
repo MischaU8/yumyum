@@ -7,7 +7,7 @@ Uploaded: 2023-06-17
 
 yum yum Floyd here with a quick look at
 the selection attribute for the fillet
-tool and plasticity when adding a fillet
+tool in Plasticity when adding a fillet
 to an edge tangent edges are often
 affected by the operation you can limit
 the fillet to the selected edges by

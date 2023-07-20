@@ -7,7 +7,7 @@ Uploaded: 2023-05-07
 
 yum yum
 Floyd here with a quick look at modeling
-a three button remote and plasticity
+a three button remote in Plasticity
 start by creating a simple curve and
 mirror it horizontally and then
 vertically to create the silhouette of a

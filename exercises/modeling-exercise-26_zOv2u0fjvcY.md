@@ -6,7 +6,7 @@ Version: 1.1.23
 Uploaded: 2023-06-09
 
 yum yum Floyd here with a quick look at
-basic asset creation and plasticity
+basic asset creation in Plasticity
 let's build this simple Aero asset start
 by creating a rectangle curve then
 create a line through the center that we

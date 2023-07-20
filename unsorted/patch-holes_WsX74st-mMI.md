@@ -6,7 +6,7 @@ Version:
 Uploaded: 2023-04-18
 
 yum yum Floyd here with a quick look at
-patching holes and plasticity when
+patching holes in Plasticity when
 constructing assets using methods such
 as lofting you often end up with holes
 or open boundary edges you can patch
