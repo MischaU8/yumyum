@@ -7,7 +7,7 @@ Uploaded: 2023-07-13
 
 Let's build this simple part.
 
-- Start with a default scene, center the default cube at the origin (`G F`) then create a cylinder off the top face and press `B` to create a new body.
+- Start with a default scene, center the default cube at the origin ([[Move to Origin]] with `G F`) then create a cylinder off the top face and press `B` to create a new body.
 
 - [[Mirror]] (`alt-X`) it to create a duplicate.
 
