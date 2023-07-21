@@ -5,12 +5,6 @@ Duration: 30
 Version: 1.1.20
 Uploaded: 2023-06-04
 
-yum yum Floyd here with a quick look at
-the toggle overlays option in Plasticity
-to toggle the visibility of the Grid in
-the viewport simply click the toggle
-overlays icon in the upper right corner
-of the UI or use the keyboard shortcut
-alt shift Z use this handy display
-option to customize the appearance of
-the viewport in Plasticity
+To toggle the visibility of the grid in the viewport, simply click the *toggle overlays* icon in the upper right corner of the UI or use the keyboard shortcut `alt-shift-Z`.
+
+Use this handy display option to customize the appearance of the viewport in Plasticity.
