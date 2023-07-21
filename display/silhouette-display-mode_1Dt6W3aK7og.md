@@ -5,18 +5,11 @@ Duration: 40
 Version: 
 Uploaded: 2023-04-25
 
-yum yum Floyd here with a quick look at
-the silhouette display mode in Plasticity
-you can enable the silhouette
-display mode by right-clicking on the
-render mode icon in the top right corner
-of the viewport and selecting it from
-the options available when enabled
-objects will be displayed as a solid
-shape with no interior details this
-display mode can be extremely useful
-when designing since the silhouette is
-the most immediately recognizable and
-identifiable shape of an asset take
-advantage of this display mode to help
-aid in the design of your assets
+You can enable the *silhouette display mode* by right-clicking on the [[render mode]] icon in the top right corner of the viewport and selecting it from the options available.
+
+When enabled, objects will be displayed as a solid shape with no interior details.
+
+This display mode can be extremely useful when designing, since the silhouette is the most immediately recognizable and
+identifiable shape of an asset.
+
+Take advantage of this display mode to help aid in the design of your assets.
