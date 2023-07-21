@@ -5,17 +5,10 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-14
 
-yum yum
-Floyd here with a quick look at
-adjusting the rotation pivots in Plasticity
-start by activating the
-rotate tool by pressing r on the
-keyboard before left clicking and
-dragging on one of the rotation handles
-press and hold the control key then left
-click and drag on one of the handles to
-adjust the rotation pivot release the
-control key then left click and drag on
-a handle to rotate the selection use
-this handy feature to gain more control
-when using the rotate tool
+Start by activating the [[rotate tool]] by pressing `R` on the keyboard, before left clicking and dragging on one of the rotation handles.
+
+Press and hold the `ctrl` key then left click and drag on one of the handles to adjust the rotation pivot.
+
+Release the `ctrl` key then left click and drag on a handle to rotate the selection.
+
+Use this handy feature to gain more control when using the rotate tool.
