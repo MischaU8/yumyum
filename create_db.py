@@ -94,7 +94,8 @@ def build_database(repo_path):
         }
         # Populate summary
         data["summary"] = first_paragraph_text_only(data.get("html") or "")
-        data.update(all_times[path])
+        if path in all_times:
+            data.update(all_times[path])
         with db.conn:
             table.upsert(data, alter=True)
         print(f"Saved {data['id']}")
