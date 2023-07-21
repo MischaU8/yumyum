@@ -5,15 +5,9 @@ Duration: 30
 Version: 1.1.36
 Uploaded: 2023-06-28
 
-yum yum
-Floyd here with a quick look at the
-culling attribute for images in Plasticity
-when working with reference
-images you can select the image press M
-to access the material dialog and choose
-either front only or double sided for
-the calling attribute front only will
-hide the image on the back side of the
-image plane take advantage of this handy
-option when working with images in
-Plasticity
+When working with [[reference images]], you can select the image, press `M` to access the [[material]] dialog and choose either *Front only* or *Double sided* for the *culling* attribute.
+
+*Front only* will hide the image on the back side of the
+image plane.
+
+Take advantage of this handy option when working with images in Plasticity.
