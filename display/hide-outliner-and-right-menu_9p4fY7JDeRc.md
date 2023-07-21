@@ -5,9 +5,6 @@ Duration: 20
 Version: 
 Uploaded: 2023-04-20
 
-yum yum Floyd here with a quick tip for
-hiding the outliner and right menu in Plasticity
-if you'd like to maximize the
-viewport use the keyboard shortcut Ctrl
-B to hide the outliner in right menu
-re-fire the command to bring them back
+If you'd like to maximize the viewport, use the keyboard shortcut `ctrl-B` to hide the [[outliner]] in right menu.
+
+Re-fire the command to bring them back.

@@ -5,11 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-28
 
-yum yum Floyd here with a quick tip for
-creating a clean outline from
-overlapping curves in Plasticity simply
-select the faces you'd like to produce a
-new curve from and use the keyboard
-shortcut shift d to generate a new curve
-use this handy tip to quickly create
-clean curves from overlapping curves
+Simply select the faces you'd like to produce a new curve from and use the keyboard shortcut `shift-D` to generate a new curve.
+
+Use this handy tip to quickly create clean curves from overlapping curves.
