@@ -6,9 +6,10 @@ plugins:
     literal: |-
       User-agent: *
       Disallow: /yumyum
+      Disallow: /unsorted
   datasette-sitemap:
     sql: |-
-      select '/' || topic || '/' || slug as path from video
+      select '/' || topic || '/' || slug as path from video where topic != 'unsorted'
 databases:
   yumyum:
     queries:
