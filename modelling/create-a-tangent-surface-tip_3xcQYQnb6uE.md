@@ -5,15 +5,10 @@ Duration: 40
 Version: 1.1.25
 Uploaded: 2023-06-12
 
-yum yum Floyd here with a quick tip for
-creating a tangent surface in Plasticity
-to create a tangent surface
-for this face in relation to the
-circular portion of the mesh select this
-face convert the selection to edges
-press shift d to create a curve create a
-new line curve with tangency
-then extrude the line to create a sheet
-select the original face activate the
-match face tool select the reference
-sheet and you're all set
+To create a tangent surface for this face in relation to the circular portion of the mesh, select this face [[convert the selection to edges]] (`ctrl-2`).
+
+Press `shift-D` to create a curve.
+
+Create a new line curve with [[tangency]], then extrude (`E`) the line to create a sheet.
+
+Select the original face, activate the [[match face tool]], select the reference sheet and you're all set.
