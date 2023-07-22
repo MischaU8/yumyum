@@ -5,13 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-24
 
-yum yum Floyd here with a quick look at
-tangency snaps in Plasticity tangency
-snaps appear along Circle curves when
-connecting a line or curve simply move
-the point along the curve until you see
-the tangency display pop up when using
-splines use control point splines for
-the cleanest results take advantage of
-this powerful feature when creating
-Curves in Plasticity
+[[Tangency]] snaps appear along circle curves when connecting a line or curve. Simply move the point along the curve until you see the tangency display pop up.
+
+When using splines use [[control point splines]] for the cleanest results take advantage of this powerful feature when creating curves in Plasticity.

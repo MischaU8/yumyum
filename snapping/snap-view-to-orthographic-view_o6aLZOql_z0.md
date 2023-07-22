@@ -5,14 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-14
 
-yum yum
-Floyd here with a quick tip for snapping
-the view to an orthographic view in
-Plasticity pressing and holding down the
-ALT key while orbiting the view with the
-middle Mouse button enables you to
-easily snap to various orthographic
-views such as top and front using this
-key modifier with standard free orbiting
-can enhance navigating around your asset
-so be sure to add it to your workflow
+Pressing and holding down the `alt` key while [[orbiting]] the view with the middle mouse button enables you to easily snap to various [[orthographic views]] such as *Top* and *Front*.
+
+Using this key modifier with standard free orbiting can enhance navigating around your asset, so be sure to add it to your workflow.
