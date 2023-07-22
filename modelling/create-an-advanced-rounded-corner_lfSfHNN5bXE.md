@@ -5,14 +5,13 @@ Duration: 30
 Version: 1.1.31
 Uploaded: 2023-06-23
 
-yum yum Floyd here with a quick look at
-creating an advanced rounded Corner in
-Plasticity start with a cube select the
-three edges that make up the corner
-you'd like to edit chamfer the edges
-offset the corner face to remove it add
-fillets the corner edges use the
-isopram tool to add edges to the three
-ends remove the corner faces patch the
-open boundary edges and you're good to
-go
+Start with a cube, select the three edges that make up the corner that you'd like to edit.
+
+[[Chamfer]] the edges. [[Offset]] the corner face to remove it.
+
+Add [[fillets]] to the corner edges.
+
+Use the [[isoparam tool]] (`ctrl-R`) to add edges to the three
+ends.
+
+Remove the corner faces (`shift-X`). [[Patch]] the open boundary edges and you're good to go.

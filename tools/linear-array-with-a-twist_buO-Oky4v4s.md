@@ -5,17 +5,13 @@ Duration: 40
 Version: 1.1.41
 Uploaded: 2023-07-06
 
-yum yum
-Floyd here with a quick tip for creating
-a linear array with a Twist in Plasticity
-to create a linear array
-simply select the Target and then use
-the rectangular array tool to create a
-linear array with the twist create a
-line curve to array along select the
-target activate the curve array tool
-select the line curve then adjust the
-twist attribute to your liking use this
-simple technique for additional options
-when performing a linear array in
-Plasticity
+To create a linear array simply select the target and then use
+the [[rectangular array tool]].
+
+To create a linear array with the twist:
+
+- Create a line curve to array along.
+- Select the target, activate the [[curve array tool]].
+- Select the line curve, then adjust the *twist* attribute to your liking.
+
+Use this simple technique for additional options when performing a linear array in Plasticity.

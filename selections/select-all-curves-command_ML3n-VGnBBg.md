@@ -5,17 +5,10 @@ Duration: 30
 Version: 1.1.36
 Uploaded: 2023-06-27
 
-yum yum Floyd here with a quick look at
-the select all curves command in
-Plasticity most assets created in
-Plasticity are constructed from curves
-over the course of a modeling session
-you can end up with many curves that you
-either want to hide or delete to quickly
-select all Curves in a scene take
-advantage of the select all curves
-command and for even faster access to
-this powerful command assign it to a
-custom hotkey add this handy command to
-your toolkit to enhance your modeling
-workflow
+Most assets created in Plasticity are constructed from curves over the course of a modeling session.
+
+You can end up with many curves that you either want to hide or delete.
+
+To quickly select all curves in a scene, take advantage of the *Select all curves* command (`F` then search for `all`) and for even faster access to this powerful command [[assign it to a custom hotkey]] (such as `ctrl-shift-A`).
+
+Add this handy command to your toolkit to enhance your modeling workflow.
