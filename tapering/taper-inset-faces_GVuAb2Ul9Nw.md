@@ -5,13 +5,7 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-23
 
-yum yum Floyd here with a quick tip for
-tapering and set faces in Plasticity
-start by selecting a face to use as a
-reference then click the draft face icon
-in the lower right corner of the UI then
-select the inner wall face and use the
-white ring handle to adjust the degrees
-attribute you can also draft multiple
-Faces by shift selecting the faces you'd
-like to draft as seen here
+Start by selecting a face to use as a reference then click the [[draft face]] icon
+in the lower right corner of the UI then select the inner wall face and use the white ring handle to adjust the *Degrees* attribute.
+
+You can also draft multiple faces by `shift` selecting the faces you'd like to draft as seen here.

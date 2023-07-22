@@ -5,9 +5,5 @@ Duration: 20
 Version: 
 Uploaded: 2023-05-01
 
-yum yum Floyd here with a quick look at
-tapering solids in Plasticity to taper
-a solid select the face then use the
-white circle control handle to adjust
-the offset face degrees attribute
-
+To taper a solid, select the face then use the white circle control handle to adjust
+the offset face *Degrees* attribute.
