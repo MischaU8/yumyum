@@ -39,9 +39,10 @@
 ></iframe>
 
 <p class="legend">
-{{ video.description }}<br/>
 Uploaded {{ video.upload_date }} by William Vaughan &middot; Duration {{ video.duration }}s
 {% if video.plasticity_version %}&middot; Plasticity version {{ video.plasticity_version }}{% endif %}
+<br/>
+{{ video.description }}
 </p>
 
 {{ video.html|safe }}
