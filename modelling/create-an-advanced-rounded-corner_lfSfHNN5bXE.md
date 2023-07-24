@@ -11,7 +11,7 @@ Start with a cube, select the three edges that make up the corner that you'd lik
 
 Add [[fillets]] to the corner edges.
 
-Use the [[isoparam tool]] (`ctrl-R`) to add edges to the three
+Use the [[isoparam tool]] (`Ctrl-R`) to add edges to the three
 ends.
 
-Remove the corner faces (`shift-X`). [[Patch]] the open boundary edges and you're good to go.
+Remove the corner faces (`Shift-X`). [[Patch]] the open boundary edges and you're good to go.

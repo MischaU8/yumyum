@@ -5,7 +5,7 @@ Duration: 30
 Version: 1.1.29
 Uploaded: 2023-06-21
 
-When you mirror a selection using the [[mirror tool]] (`alt-X`) a flipped version of the geometry is created.
+When you mirror a selection using the [[mirror tool]] (`Alt-X`) a flipped version of the geometry is created.
 
 To create a mirrored version of the selection without duplicating, simply scale (`S V`) it by negative one.
 

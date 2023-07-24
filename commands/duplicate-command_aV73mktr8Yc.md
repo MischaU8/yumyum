@@ -5,7 +5,7 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-17
 
-If you'd like to *Duplicate* a solid or curve, simply make a selection and press `shift-D` on the keyboard.
+If you'd like to *Duplicate* a solid or curve, simply make a selection and press `Shift-D` on the keyboard.
 
 A duplicate will be generated and selected with the [[move tool]] active, enabling you to reposition the new item.
 

@@ -9,6 +9,6 @@ If you'd like to disable the visibility of the current selection you can click t
 
 Using the disable and viewport option appears to do the same thing but has a key difference to the hide feature.
 
-Objects disabled in viewport will remain hidden even when the unhide all keyboard shortcut `alt-H` is used.
+Objects disabled in viewport will remain hidden even when the unhide all keyboard shortcut `Alt-H` is used.
 
 Use a combination of these two options to allow for more visual scene control.

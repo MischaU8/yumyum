@@ -10,7 +10,7 @@ Let's build this simple part.
 - Start by creating a rectangle curve at the origin then create a [[180 Arc]] at one end
 followed by a [[circle curve]].
 
-- [[Mirror]] (`alt-X`) the two new curves to duplicate them then [[extrude]] these faces.
+- [[Mirror]] (`Alt-X`) the two new curves to duplicate them then [[extrude]] these faces.
 
 - Use the [[center box tool]] to add to the solid then use the line tool to create a triangle curve.
 

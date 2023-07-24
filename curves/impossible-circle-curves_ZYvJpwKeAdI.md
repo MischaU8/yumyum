@@ -9,11 +9,11 @@ To create impossible circle curves:
 
 Start by creating a circle curve, offset it (`O`).
 
-To create a duplicate, select both curves, [[duplicate]] them (`shift-D F`) and move them to the side.
+To create a duplicate, select both curves, [[duplicate]] them (`Shift-D F`) and move them to the side.
 
 Use the [[Bridge Curve]] tool with the *trim* attribute disabled to
 create two new curves with tangency on top and bottom, then use the [[trim tool]] to remove these inner edges.
 
-Select each curved face and press `shift-D` to generate a single curve per face.
+Select each curved face and press `Shift-D` to generate a single curve per face.
 
 Scale the final two curves to your liking and you're all set.

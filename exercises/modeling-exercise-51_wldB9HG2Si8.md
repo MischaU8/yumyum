@@ -9,9 +9,9 @@ Let's build this simple part.
 
 - Start with a default scene, center the default cube at the origin ([[Move to Origin]] with `G F`) then create a cylinder off the top face and press `B` to create a new body.
 
-- [[Mirror]] (`alt-X`) it to create a duplicate.
+- [[Mirror]] (`Alt-X`) it to create a duplicate.
 
-- [[Duplicate]] (`shift-D`) it to create two more then rotate (`R`) the two new cylinders 90 degrees.
+- [[Duplicate]] (`Shift-D`) it to create two more then rotate (`R`) the two new cylinders 90 degrees.
 
 - Perform a [[Boolean Union]] (`Q Q`) to create a single solid.
 

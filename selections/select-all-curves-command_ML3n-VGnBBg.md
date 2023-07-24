@@ -9,6 +9,6 @@ Most assets created in Plasticity are constructed from curves over the course of
 
 You can end up with many curves that you either want to hide or delete.
 
-To quickly select all curves in a scene, take advantage of the *Select all curves* command (`F` then search for `all`) and for even faster access to this powerful command [[assign it to a custom hotkey]] (such as `ctrl-shift-A`).
+To quickly select all curves in a scene, take advantage of the *Select all curves* command (`F` then search for `all`) and for even faster access to this powerful command [[assign it to a custom hotkey]] (such as `Ctrl-shift-A`).
 
 Add this handy command to your toolkit to enhance your modeling workflow.

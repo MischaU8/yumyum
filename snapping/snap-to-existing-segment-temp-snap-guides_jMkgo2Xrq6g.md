@@ -5,6 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-23
 
-When creating new lines or curves, you can hover your mouse over an edge or segment and press the `shift` key to create a parallel snap guide.
+When creating new lines or curves, you can hover your mouse over an edge or segment and press the `Shift` key to create a parallel snap guide.
 
 Generate new geometry faster and more efficient using this powerful snapping option.

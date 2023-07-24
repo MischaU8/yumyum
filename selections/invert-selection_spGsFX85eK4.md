@@ -5,6 +5,6 @@ Duration: 20
 Version: 1.1.29
 Uploaded: 2023-06-20
 
-To quickly switch the selection state of all solids, sheets and curves in a scene, use the keyboard shortcut `alt-A`.
+To quickly switch the selection state of all solids, sheets and curves in a scene, use the keyboard shortcut `Alt-A`.
 
 Use this handy shortcut to speed up selecting in Plasticity.

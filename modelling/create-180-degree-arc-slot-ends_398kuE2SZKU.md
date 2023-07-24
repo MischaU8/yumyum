@@ -7,7 +7,7 @@ Uploaded: 2023-06-23
 
 Start by creating a sphere with the radius equal to half the slot width, choose the new body (`B`) option, then select the edges you'd like to work with.
 
-Increase the *fillet distance* then press and hold the `shift` key and click on the sphere to reference it.
+Increase the *fillet distance* then press and hold the `Shift` key and click on the sphere to reference it.
 
 Hide or remove the sphere and you're all set.
 

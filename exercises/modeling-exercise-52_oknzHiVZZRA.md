@@ -11,7 +11,7 @@ Let's build this simple part.
 
 - Use the [[bridge curves tool]] to create a new curve that connects the circles and disable the *trim* attribute.
 
-- Use the [[line curve tool]] to create the bottom part of the main shape, then [[offset]] the two circle curves by pressing the `o` key.
+- Use the [[line curve tool]] to create the bottom part of the main shape, then [[offset]] the two circle curves by pressing the `O` key.
 
 - [[Extrude]] these faces then adjust the results to your liking.
 
@@ -19,7 +19,7 @@ Let's build this simple part.
 
 - Create a new [[line curve]] along the bottom.
 
-- Press `shift-I` for [[imprint curve]] then select the solid as the target.
+- Press `Shift-I` for [[imprint curve]] then select the solid as the target.
 
 - Offset this face.
 

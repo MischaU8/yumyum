@@ -11,7 +11,7 @@ Let's build this simple part.
 
 - Then use the [[bridge curve tool]] to create two new curves that connect the circle and the rectangle curves.
 
-- [[Mirror]] the curves (`alt-X`), then [[extrude]] these faces to create a solid.
+- [[Mirror]] the curves (`Alt-X`), then [[extrude]] these faces to create a solid.
 
 - Create a new rectangle curve, followed by a [[180 arc curve]] and a circle curve.
 

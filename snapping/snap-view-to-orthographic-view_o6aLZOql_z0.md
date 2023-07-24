@@ -5,6 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-14
 
-Pressing and holding down the `alt` key while [[orbiting]] the view with the middle mouse button enables you to easily snap to various [[orthographic views]] such as *Top* and *Front*.
+Pressing and holding down the `Alt` key while [[orbiting]] the view with the middle mouse button enables you to easily snap to various [[orthographic views]] such as *Top* and *Front*.
 
 Using this key modifier with standard free orbiting can enhance navigating around your asset, so be sure to add it to your workflow.

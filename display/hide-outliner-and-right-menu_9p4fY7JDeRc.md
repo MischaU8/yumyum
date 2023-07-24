@@ -5,6 +5,6 @@ Duration: 20
 Version: 
 Uploaded: 2023-04-20
 
-If you'd like to maximize the viewport, use the keyboard shortcut `ctrl-B` to hide the [[outliner]] in right menu.
+If you'd like to maximize the viewport, use the keyboard shortcut `Ctrl-B` to hide the [[outliner]] in right menu.
 
 Re-fire the command to bring them back.

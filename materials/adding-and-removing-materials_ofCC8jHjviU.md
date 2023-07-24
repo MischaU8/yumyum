@@ -12,6 +12,6 @@ If the material doesn't appear to display in the viewport change the [[render mo
 To edit a materials attributes, simply select the object and press the `M` key again.
 
 To remove a material, select an object that has a material and
-then press `alt-M`.
+then press `Alt-M`.
 
 Use these keyboard shortcuts to quickly add and remove materials.

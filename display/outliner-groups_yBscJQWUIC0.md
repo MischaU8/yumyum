@@ -7,7 +7,7 @@ Uploaded: 2023-05-31
 
 When creating an asset the [[outliner]] can quickly become populated with components. One option for organizing the outliner is to use groups.
 
-To create a group simply select the items you'd like to group. Click the group icon in the lower left corner of the UI or use the keyboard shortcut `ctrl-G`.
+To create a group simply select the items you'd like to group. Click the group icon in the lower left corner of the UI or use the keyboard shortcut `Ctrl-G`.
 
 Once grouped you can quickly [[hide]] and [[disable]] all elements in the group.
 

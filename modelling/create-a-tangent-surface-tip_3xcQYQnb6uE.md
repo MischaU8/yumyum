@@ -5,9 +5,9 @@ Duration: 40
 Version: 1.1.25
 Uploaded: 2023-06-12
 
-To create a tangent surface for this face in relation to the circular portion of the mesh, select this face [[convert the selection to edges]] (`ctrl-2`).
+To create a tangent surface for this face in relation to the circular portion of the mesh, select this face [[convert the selection to edges]] (`Ctrl-2`).
 
-Press `shift-D` to create a curve.
+Press `Shift-D` to create a curve.
 
 Create a new line curve with [[tangency]], then extrude (`E`) the line to create a sheet.
 
