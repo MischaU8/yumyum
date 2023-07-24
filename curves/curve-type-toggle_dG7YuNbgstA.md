@@ -5,14 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-05
 
-yum yum
-Floyd here with a quick look at the
-spline curve type toggle in Plasticity
-when creating a curve with the spline
-curve tool the default curve type is a
-through Point curve pressing the Tab Key
-will convert the curve into a control
-Point curve use this handy toggle to
-quickly switch between curve types when
-generating a curve with the spline curve
-tool
+When creating a curve with the [[spline curve tool]] the default curve type is a [[through point curve]] pressing the `Tab` key will convert the curve into a [[control point curve]].
+
+Use this handy toggle to quickly switch between curve types when generating a curve with the spline curve tool.
