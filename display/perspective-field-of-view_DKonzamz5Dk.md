@@ -5,15 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-20
 
-yum yum Floyd here with a quick look at
-adjusting the perspective field of view
-in Plasticity you can toggle between
-perspective and orthographic View using
-the number five key on the numeric
-keypad or by using its icon in the top
-right corner of the UI when working with
-prospective enabled in the viewport you
-can right click the icon to adjust the
-field of view use this field of view
-attribute to adjust the perspective view
-to your liking
+You can toggle between *perspective* and *orthographic* view using the number `5` key on the numeric keypad or by using its icon in the top right corner of the UI.
+
+When working with [[perspective]] enabled in the viewport you can right click the icon to adjust the *field of view* (FOV).
+
+Use this field of view attribute to adjust the perspective view to your liking.

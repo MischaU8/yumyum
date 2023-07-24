@@ -5,7 +5,7 @@ Duration: 40
 Version: 
 Uploaded: 2023-04-24
 
-To quickly add horizontal or vertical edges to a face, use the keyboard shortcut `Ctrl-R` to activate the isoparam tool then place the cursor over the faces you'd like to manipulate.
+To quickly add horizontal or vertical edges to a face, use the keyboard shortcut `Ctrl-R` to activate the [[isoparam tool]] then place the cursor over the faces you'd like to manipulate.
 
 Pressing the `Tab` key will toggle the UV direction, switching between vertical and horizontal.
 
