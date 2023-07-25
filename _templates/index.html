@@ -67,7 +67,7 @@ Curated from <a href="https://williamvaughan.artstation.com/">William Vaughan</a
 <h2>Recent videos</h2>
 
 <div class="media-items">
-{% for video in sql("select * from video order by upload_date desc limit 30", database="yumyum") %}
+{% for video in sql("select * from video order by upload_date desc, updated desc limit 30", database="yumyum") %}
 <div class="media-item--wrapper">
     <div class="img-wrapper">
         <img src="https://img.youtube.com/vi/{{ video.id }}/mqdefault.jpg" width="240" height="144" />
