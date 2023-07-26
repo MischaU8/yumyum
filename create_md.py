@@ -10,6 +10,7 @@ from slugify import slugify
 DATA_DIR = "_data/"
 UNSORTED_DIR = "unsorted/"
 DB_PATH = f"{DATA_DIR}/yumyum.db"
+STATS_PATH = f"{DATA_DIR}/stats.json"
 JSON_FIELDS = [
     "id",
     "title",
@@ -17,6 +18,9 @@ JSON_FIELDS = [
     "upload_date",
     "epoch",
     "duration",
+    "view_count",
+    "like_count",
+    "comment_count",
 ]
 
 
@@ -75,6 +79,7 @@ def get_transcript(id, ttml_file, single=True):
 def main():
     # create a set of all known markdown IDs
     md_ids = set()
+    stats = {}
     for md_path in Path(".").glob("**/*_*.md"):
         md_id = "_".join(md_path.stem.split("_")[1:])
         md_ids.add(md_id)
@@ -84,6 +89,14 @@ def main():
         data = get_info(info_path)
 
         if len(data) > 0:
+            # update stats
+            stats[data["id"]] = {
+                "epoch": data["epoch"],
+                "views": data.get("view_count", 0),
+                "likes": data.get("like_count", 0),
+                "comments": data.get("comment_count", 0),
+            }
+
             # check if a markdown file doesn't exist yet
             if data["id"] in md_ids:
                 # print(f"Skipping {info_path}, markdown exists {data['id']}")
@@ -122,6 +135,9 @@ Uploaded: {data["upload_date"]}
             print(f"Writing new markdown to {md_path}")
         else:
             print(f"Skipping {info_path}, no data found...")
+
+    with open(STATS_PATH, "w") as f:
+        json.dump(stats, f)
 
 
 if __name__ == "__main__":

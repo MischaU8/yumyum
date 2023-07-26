@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from datetime import timezone
+import json
 from pathlib import Path
 from urllib.parse import quote_plus
 
@@ -12,6 +13,7 @@ import sqlite_utils
 
 DATA_DIR = "_data/"
 DB_PATH = f"{DATA_DIR}/yumyum.db"
+STATS_PATH = f"{DATA_DIR}/stats.json"
 
 root = Path(__file__).parent.resolve()
 
@@ -50,7 +52,7 @@ def wikilinks_url_builder(label, base, end):
 def build_database(repo_path):
     all_times = created_changed_times(repo_path)
     db = sqlite_utils.Database(DB_PATH)
-    table = db.table("video", pk="id")
+    video_table = db.table("video", pk="id")
 
     for filepath in root.glob("**/*_*.md"):
         # print(filepath)
@@ -97,12 +99,22 @@ def build_database(repo_path):
         if path in all_times:
             data.update(all_times[path])
         with db.conn:
-            table.upsert(data, alter=True)
+            video_table.upsert(data, alter=True)
         print(f"Saved {data['id']}")
 
-    table.enable_fts(
+    video_table.enable_fts(
         ["title", "body"], tokenize="porter", create_triggers=True, replace=True
     )
+
+    # update stats
+    stats_table = db.table("video_stats", pk="id")
+    with open(STATS_PATH, "r") as f:
+        video_stats = json.load(f)
+
+    for video_id, data in video_stats.items():
+        data["id"] = video_id
+        with db.conn:
+            stats_table.upsert(data, alter=True)
 
 
 if __name__ == "__main__":
