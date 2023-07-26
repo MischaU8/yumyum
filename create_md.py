@@ -80,13 +80,13 @@ def main():
         md_ids.add(md_id)
 
     for info_path in Path(DATA_DIR).glob("*.info.json"):
-        print(info_path)
+        # print(info_path)
         data = get_info(info_path)
 
         if len(data) > 0:
             # check if a markdown file doesn't exist yet
             if data["id"] in md_ids:
-                print(f"Skipping {info_path}, markdown exists {data['id']}")
+                # print(f"Skipping {info_path}, markdown exists {data['id']}")
                 continue
 
             transcript_name = info_path.name.replace(".info.json", ".en.ttml")
@@ -119,7 +119,7 @@ Uploaded: {data["upload_date"]}
             )
             with open(md_path, "w") as f:
                 f.write(output)
-            print(md_path)
+            print(f"Writing new markdown to {md_path}")
         else:
             print(f"Skipping {info_path}, no data found...")
 
