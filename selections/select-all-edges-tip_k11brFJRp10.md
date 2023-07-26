@@ -5,12 +5,7 @@ Duration: 30
 Version: 1.1.25
 Uploaded: 2023-06-15
 
-yum yum Floyd here with a quick tip for
-selecting all edges on a solid in
-Plasticity when I'm looking to add
-fillets to all edges on a solid one
-quick way to select the edges is to
-select the solid then press Ctrl 2 to
-convert the solid selection to edges add
-this technique to your selection toolkit
-to speed up selecting in Plasticity
+When I'm looking to [[add fillets]] to all edges on a solid, one quick way to select the edges is to
+first select the solid, then press `Ctrl-2` to convert the solid selection to edges.
+
+Add this technique to your selection toolkit to speed up selecting in Plasticity.

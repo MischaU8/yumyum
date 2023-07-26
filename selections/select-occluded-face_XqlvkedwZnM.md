@@ -5,15 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-23
 
-yum yum
-Floyd here with a quick tip for
-selecting occluded faces in Plasticity
-to select an occluded face start by
-clicking and holding the left Mouse
-button and use the mouse scroll wheel to
-cycle through the occluded faces when
-the face you want to select is
-pre-highlighted release the mouse button
-and you're all set use this handy
-selection method to speed up selecting
-faces
+To select an occluded face start by clicking and holding the left Mouse button and use the mouse scroll wheel to cycle through the occluded faces. When the face you want to select is pre-highlighted release the mouse button and you're all set.
+
+Use this handy selection method to speed up [[selecting faces]].

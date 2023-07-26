@@ -5,10 +5,6 @@ Duration: 20
 Version: 
 Uploaded: 2023-06-02
 
-yum yum Floyd here with a quick tip for
-selecting parallel faces in Plasticity
-When selecting planar faces you can
-press and hold the control on alt keys
-and left click a face to select parallel
-faces as well use this handy selection
-option to speed up selection in Plasticity
+When selecting planar faces you can press and hold the `Ctrl` and `Alt` keys and left click a face to select parallel faces as well.
+
+Use this handy selection option to speed up [[selection]] in Plasticity.

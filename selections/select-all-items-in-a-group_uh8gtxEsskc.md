@@ -5,11 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-26
 
-yum yum Floyd here with a quick tip for
-selecting all items in a group in
-Plasticity simply press and hold the ALT
-key and left click on a group in the
-outliner and all items in that group
-will be selected
-use this handy option to speed up
-selection in Plasticity
+Simply press and hold the `Alt` key and left click on a [[group]] in the [[outliner]] and all items in that group will be selected.
+
+Use this handy option to speed up selection in Plasticity.

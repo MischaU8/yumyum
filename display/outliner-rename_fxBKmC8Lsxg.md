@@ -5,15 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-06-01
 
-yum yum
-Floyd here with a quick look at renaming
-items in Plasticity as your scene
-becomes more populated with items such
-as curves solids and grooves staying
-organized becomes important one way to
-stay organized is to rename the items by
-simply double-clicking the name you want
-to edit in the outliner typing a new
-name and then pressing enter add this
-simple step to your workflow to speed up
-asset creation in Plasticity
+As your scene becomes more populated with items such as curves, solids and [[groups]], staying organized becomes important.
+
+One way to stay organized is to rename the items by simply double-clicking the name you want to edit in the [[outliner]], typing a new name and then pressing `Enter`.
+
+Add this simple step to your workflow to speed up asset creation in Plasticity.
