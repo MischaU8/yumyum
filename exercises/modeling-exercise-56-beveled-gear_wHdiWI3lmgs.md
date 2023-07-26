@@ -13,7 +13,7 @@ Let's build this simple part.
 
 - Select the solid and use the [[delete redundant topology]] command to clean up the solid.
 
-- Create a [[rectangle curve]], extrude it to make a solid. Taper this face, [[rotate]] the new solid 45 degrees.
+- Create a [[rectangle curve]], extrude it to make a solid. [[Taper]] this face, [[rotate]] the new solid 45 degrees.
 
 - Move it so that it intersects with the main solid, then [[radial array]] it to create duplicates.
 
