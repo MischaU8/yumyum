@@ -5,14 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-19
 
-yum yum
-Floyd here with a quick look at the
-delete redundant topology command in Plasticity
-to remove any redundant
-control points edges or faces from a
-selection such as these control points
-on this curve press the F key on the
-keyboard type in delete and click delete
-redundant topology use this handy
-command to quickly remove unneeded
-components
+To remove any redundant control points edges or faces from a selection such as these control points on this curve press the `F` key on the keyboard, type in `delete` and click *Delete Redundant Topology*.
+
+Use this handy command to quickly remove unneeded components.

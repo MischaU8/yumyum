@@ -5,13 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-04-23
 
-yum yum Floyd here with a quick look at
-the extend Edge command in Plasticity
-for this example I'll offset this arced
-Edge which produces a new Edge that's
-not connected to the Border edge of the
-face to extend the selected Edge press F
-on the keyboard start typing extend and
-click extend Edge use this handy command
-to quickly extend edges on your meshes
+For this example I'll [[offset]] (`O`) this arced edge, which produces a new edge that's not connected to the border edge of the face.
 
+To extend the selected edge press `F` on the keyboard start typing `extend` and click *Extend Edge*.
+
+Use this handy command to quickly extend edges on your meshes.
