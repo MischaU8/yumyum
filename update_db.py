@@ -181,5 +181,5 @@ def sync_manual():
 
 
 if __name__ == "__main__":
-    # build_database(root)
+    build_database(root)
     sync_manual()
