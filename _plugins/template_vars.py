@@ -96,6 +96,8 @@ def extra_template_vars(request, datasette):
         text = non_alphanumeric.sub(" ", text)
         text = multi_spaces.sub(" ", text)
         words = list(set(text.lower().strip().split()))
+        if not len(words):
+            return []
         sql = """
         select
             manual_fts.rank,
