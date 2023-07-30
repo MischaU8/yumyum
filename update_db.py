@@ -3,6 +3,7 @@
 from datetime import timezone
 import json
 from pathlib import Path
+import re
 from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup
@@ -117,5 +118,68 @@ def build_database(repo_path):
             stats_table.upsert(data, alter=True)
 
 
+def sync_manual():
+    db = sqlite_utils.Database(DB_PATH)
+    manual_table = db.table("manual", pk="id")
+
+    for page in ["tool", "common", "sketch", "solid"]:
+        filepath = (
+            root
+            / "_data"
+            / "plasticity-unofficial-document"
+            / "pages"
+            / (page + ".en.mdx")
+        )
+        content = Path(filepath).read_text()
+        print("Processing manual index ", page)
+
+        for i, line in enumerate(content.split("\n")):
+            if i < 3:
+                continue
+            # print(l)
+            if not line.startswith("|"):
+                continue
+            row = re.split(r"\s*\|\s*", line)
+            if len(row) != 5:
+                continue
+            command, shortcut, description = row[1:4]
+            if not command or command.startswith("**"):
+                continue
+            # print(command, shortcut, description)
+            shortcut = shortcut.replace("<kbd>", "").replace("</kbd>", "")
+
+            m = re.match(r"\[(.*)\]\((.*)\)", command)
+            if m:
+                command_name = m.group(1)
+                command_link = m.group(2)
+                # command_name = command_name.replace(" 🚧", "")
+
+                # print("=>", command_name, command_link)
+                # print(shortcut)
+                # print(description)
+
+                data = {
+                    "id": command_link,
+                    "command": command_name,
+                    "url": "https://plasticitydoc.vercel.app/" + command_link,
+                    "shortcut": shortcut,
+                    "description": description,
+                }
+
+                with db.conn:
+                    manual_table.upsert(data, alter=True)
+
+            else:
+                print(f"Invalid line {i}: {line}")
+
+    manual_table.enable_fts(
+        ["command", "description"],
+        tokenize="porter",
+        create_triggers=True,
+        replace=True,
+    )
+
+
 if __name__ == "__main__":
-    build_database(root)
+    # build_database(root)
+    sync_manual()

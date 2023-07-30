@@ -92,11 +92,36 @@ def extra_template_vars(request, datasette):
         )
         return result.rows
 
+    async def manual_pages(text):
+        text = non_alphanumeric.sub(" ", text)
+        text = multi_spaces.sub(" ", text)
+        words = list(set(text.lower().strip().split()))
+        sql = """
+        select
+            manual_fts.rank,
+            manual.*
+        from
+            manual
+            join manual_fts on manual.rowid = manual_fts.rowid
+        where
+            manual_fts match :words
+        order by
+            manual_fts.rank limit 5
+        """
+        result = await datasette.get_database().execute(
+            sql,
+            {
+                "words": " OR ".join(words),
+            },
+        )
+        return result.rows
+
     return {
         "q": request.args.get("q", ""),
         "highlight": highlight,
         "first_paragraph": first_paragraph,
         "related_videos": related_videos,
+        "manual_pages": manual_pages,
     }
 
 

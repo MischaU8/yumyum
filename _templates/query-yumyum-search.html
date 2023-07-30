@@ -42,7 +42,7 @@ input[type=submit] {
 </style>
 {% endblock %}
 {% block body %}
-<h1>Video search: {{ q }}</h1>
+<h1>Search: {{ q }}</h1>
 
 <form action="/yumyum/search">
     <p>
@@ -50,6 +50,42 @@ input[type=submit] {
         <input type="submit" value="Search">
     </p>
 </form>
+
+{% if q %}
+{% set pages = manual_pages(q) %}
+{% if pages %}
+<h2>Matching manual pages:</h2>
+<table id="manual">
+    <thead>
+        <tr>
+        <th>Command</th>
+        <th>Shortcut</th>
+        <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for row in pages %}
+    <tr>
+        <td>
+            <a href="{{row.url}}">{{ row.command}}</a>
+        </td>
+        <td>
+            {% if row.shortcut %}
+            <code>{{ row.shortcut}}</code>
+            {% endif %}
+        </td>
+        <td>
+            {{ row.description }}
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endif %}
+
+<h2>Matching videos:</h2>
+{% endif %}
+
 
 {% if q and not rows %}
     <p><em>No results for "{{ q }}"</em></p>
