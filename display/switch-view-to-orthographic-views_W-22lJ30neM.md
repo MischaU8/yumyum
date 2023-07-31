@@ -5,15 +5,10 @@ Duration: 30
 Version: 
 Uploaded: 2023-06-05
 
-yum yum
-Floyd here with a quick look at
-switching to orthographic views in Plasticity
-pressing 7 on the numeric
-keypad will switch to the top view
-control 7 will switch to bottom pressing
-1 will switch to front control 1 will
-switch to back press 3 on the numeric
-keypad for left View and control 3 for
-right use these hotkeys to quickly
-access the different Ortho views in
-Plasticity
+Pressing `7` on the numeric keypad will switch to the top view. `Ctrl-7` will switch to bottom.
+
+Pressing `1` will switch to front, `Ctrl-1` will switch to back.
+
+Press `3` on the numeric keypad for left view and `Ctrl-3` for right.
+
+Use these hotkeys to quickly access the different [[orthographic views]] in Plasticity.

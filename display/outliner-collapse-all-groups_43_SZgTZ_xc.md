@@ -5,12 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-18
 
-yum yum Floyd here with a quick look at
-collapsing all groups in the outliner in
-Plasticity you can collapse individual
-groups in the outliner by clicking the
-small carrot next to the category name
-use the carrot in the top right of the
-outliner to collapse all grooves this
-can be a handy feature to reduce visual
-noise while creating
+You can collapse individual [[groups]] in the [[outliner]] by clicking the small carrot next to the category name. Use the carrot in the top right of the outliner to collapse all groups.
+
+This can be a handy feature to reduce visual noise while creating.

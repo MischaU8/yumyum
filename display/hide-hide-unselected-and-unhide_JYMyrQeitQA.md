@@ -5,14 +5,8 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-18
 
-yum yum Floyd here with a quick look at
-the hide hide unselected and unhide
-commands in Plasticity you can quickly
-hide all selected items in a scene by
-pressing the H key on the keyboard and
-use the keyboard shortcut alt age to
-unhide if you'd like to hide everything
-that's not selected use the keyboard
-shortcut shift H to hide unselected use
-these commands to help navigate heavily
-populated scenes
+You can quickly hide all selected items in a scene by pressing the `H` key on the keyboard and use the keyboard shortcut `Alt-H` to unhide.
+
+If you'd like to hide everything that's not selected use the keyboard shortcut `Shift-H` to hide unselected.
+
+Use these commands to help navigate heavily populated scenes.
