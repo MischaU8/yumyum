@@ -5,14 +5,6 @@ Duration: 30
 Version: 1.1.31
 Uploaded: 2023-06-22
 
-yum yum Floyd here with a quick look at
-creating clean transitions with the
-bridge surface tool in Plasticity in
-this example if I'd like to generate a
-smooth transition between these two
-intersecting cylinder solids a quick
-option is to activate the bridge surface
-tool then click on the two faces I want
-to transition between use this simple
-process to quickly create smooth
-transitions between faces
+In this example if I'd like to generate a smooth transition between these two intersecting cylinder solids a quick option is to activate the [[bridge surface tool]] then click on the two faces I want to transition between.
+
+Use this simple process to quickly create smooth transitions between faces.

@@ -5,13 +5,6 @@ Duration: 30
 Version: 
 Uploaded: 2023-05-21
 
-yum yum Floyd here with a quick tip for
-joining curves and creating smooth
-transitions in Plasticity start by
-making sure the curves and points share
-the same world space then select both
-curves and press J on the keyboard to
-create a single curve if you don't want
-the transition to be linear simply
-double-click on the point where the two
-curves intersect and you're all set
+Start by making sure the curves and points share the same world space, then select both curves and press `J` on the keyboard to create a single curve.
+
+If you don't want the transition to be linear, simply double-click on the point where the two curves intersect and you're all set.
